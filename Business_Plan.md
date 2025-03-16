@@ -218,6 +218,39 @@ Jomo's widget-based approach represents an opportunity for FOCO to enhance its a
 
 The lack of cross-device synchronization in Jomo highlights an opportunity for FOCO to implement robust cross-platform functionality, ensuring a seamless experience across all of a user's devices. Additionally, FOCO's coin system could be extended to the widget interface, bringing gamification elements to the home screen in a way that Jomo has not accomplished.
 
+#### Competitive Analysis
+
+Based on an analyiss of our competitors, FOCO occupies a promising position in the screen time management market by combining elements that have proven successful across multiple competitors:
+
+1. **Gamification (like Forest)** through its coin system
+2. **Robust blocking (like Cold Turkey)** through DNS-level website blocking
+3. **Social features (like Opal and Jomo)** through friend connections and challenges
+4. **Customization (beyond most competitors)** through themes and personalization options
+5. **Affordability (better than premium competitors)** at £1/month
+
+This combined approach addresses multiple user needs within a single platform, potentially eliminating the need for users to employ multiple applications for different aspects of screen time management.
+
+#### Key Market Advantages
+
+FOCO's most significant advantages in the current market include:
+
+1. **Price-to-Feature Ratio**: By offering comprehensive functionality at a lower price point than premium competitors, FOCO presents compelling value.
+2. **Balanced Approach**: The combination of monitoring, blocking, and gamification creates a more comprehensive solution than competitors that focus primarily on one approach.
+3. **Coin System Innovation**: The bidirectional coin system (earning and spending) creates a more dynamic and engaging experience than the one-way systems used by competitors like Forest.
+4. **Customization Depth**: The extensive personalization options provide users with a sense of ownership and identity within the app ecosystem.
+5. **Mission-Driven Positioning**: The emphasis on accessibility and wellbeing over profit maximization can create stronger brand loyalty and word-of-mouth marketing.
+
+#### Primary Challenges and Risks
+
+Despite its advantages, FOCO faces several significant challenges that could impact its success:
+
+1. **Market Saturation**: The screen time management space is increasingly crowded, making user acquisition costly and competitive.
+2. **Feature Replication**: Successful features like the coin system could be replicated by established competitors with larger user bases and development resources.
+3. **Platform Restrictions**: Apple and Google have increasingly built screen time management features into their operating systems, potentially reducing the perceived need for third-party solutions.
+4. **User Retention**: Screen time management apps often face high churn rates as users either succeed in reducing their screen time (and thus no longer need the app) or abandon their efforts entirely.
+5. **Low Price Sustainability**: The £1 price point, while attractive to users, may create challenges in funding ongoing development and marketing efforts, particularly in a competitive user acquisition environment. Given our study however, it seems that this is a price that would allow us to access a much wider user base who might not otherwise be interested in these apps: as our main cost would be development, this would mean that we can scale up at no additional cost. We should therefore be able to obtain a much larger user base than any of the pre existing apps, and use this large scale to make up for the low revenue per user.
+6. **Behavioral Change Complexity**: Successfully changing deeply ingrained digital habits requires more than just technical tools—it requires behavioral science expertise that may be challenging to implement effectively.
+
 ### Reference
 
 [1] Nield, D. (2025) *The Best Time Management Apps to tame the chaos*, *Wired*. Available at: https://www.wired.com/story/best-time-management-apps (Accessed: 16 March 2025). 
