@@ -104,6 +104,24 @@ Despite several competitors, our data shows that the market is yet to be fully s
 
 In terms of business models, most competitors opt for a subscription model to maintain a constant income. Clarymind [4] for example operates on a subscription model (Monthly: $14.99 | 6-Month: $49.99 | Yearly: $62.99 | Pro: $34.99), estimated to generate ~$2M annually with 100,000+ active users.
 
+#### 2.3 Primary Research and Consulting
+
+To validate our findings from our secondary research, we decided it would be most productive for our business to conduct our own primary research. 
+
+Go through survey and analyze results:
+
+- 8/10 people would be ok selling their data rather than watching ads
+- 6/10 people would pay £3 to remove ads
+- For premium, roughly half would pay £1.00 per month / £ 10.00 per year / £25.00 lifetime, the other half were not interested in premium
+- Out of monthly, yearly and lifetime subscription models, people were completely mixed
+- Participants suggested as premium features: graphing the amount of time spent on each app, allowing cashing in unused coins, buying cosmetic features etc.
+- In additional comments, participants stated that the user should not be allowed to game the system, e.g. by leaving productive apps open and not doing anything in them
+
+#### 2.4 Main Competitors
+
+The screen time management app market has experienced significant growth in recent years, driven by increasing awareness of digital wellbeing and the negative impacts of excessive screen time. According to recent studies, the average American spends approximately 7 hours per day on digital devices, with smartphone usage accounting for a significant portion of this time. This has created a substantial market opportunity for applications that help users manage and reduce their screen time.
+
+
 
 ### Reference
 
