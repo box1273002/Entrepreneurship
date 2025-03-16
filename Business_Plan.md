@@ -5,7 +5,7 @@
 
 ### 1.1 The Problem
 
-In today's digital age, screen time dependency has become a widespread issue, with over **53% of Americans** seeking to reduce their phone usage to improve time management, mental health, and focus. However, breaking free from screen addiction is no easy feat — **49% of people** feel addicted to their devices, and **69% of Gen Z** openly acknowledge their phone dependency.
+In today's digital age, screen time dependency has become a widespread issue, with over **53% of Americans** seeking to reduce their phone usage to improve time management, mental health, and focus. However, breaking free from screen addiction is no easy feat — **49% of people** feel addicted to their devices, and **69% of Gen Z** openly acknowledge their phone dependency [a].
 
 Our research also uncovered a critical gap in the market — existing screen time management apps, such as *Opal*, rely on rigid blocking mechanisms that can be inconvenient and demotivating for users.
 
@@ -56,7 +56,7 @@ The app will run on Android.
 We will utilise gamification, behavioral psychology, and simple finance-style mechanisms (coins, investments) to create a fun app that helps users break free from digital addiction or casual users who want to be purposeful with their time. 
 
 ### 1.5 Selling Points
-
+There are a number of things that set us apart from the competition. These are our five selling points:
 
 1. **Mission-Driven, Not Profit-Driven:** FOCO is built by those who have experienced screen addiction firsthand and are committed to helping others break free.
 2. **Affordable for Everyone:** Our premium plans start at just **£1/month or £10/year** — the most cost-effective option on the market.
@@ -384,5 +384,7 @@ FOCO would require measures to ensure compliance with consumer protection laws:
 [10] Cold Turkey Software Inc. (2025) Cold Turkey. https://getcoldturkey.com/ (Accessed: 16th March 2025). 
 
 [11] Jomo SAS. (2024) Jomo. https://jomo.so/ (Accessed: 16th March 2025) 
+
+[a] Harmony Healthcare IT (2025) Phone screen time statistics. Available at: https://www.harmonyhit.com/phone-screen-time-statistics/ (Accessed: 16 March 2025)
 
 ### Appendices
