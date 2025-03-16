@@ -88,9 +88,9 @@ The benefits of the intervention were not just short-term; participants in [3] m
 
 **Market size and demand:**
 
-- Screen time management has become crucial due to rising smartphone and computer use, with adults averaging over 6 hours daily and children 3–4 hours. [4]
-- What surprised us when assessing the market demand for this system was just how severe the problem of screen addiction was, especially with children. Increasing amount of time children spend on screens and the associated negative health outcomes, such as poor academic performance and obesity [5].
-- From looking at other similar systems, one standout aspects of many successful systems such as App Limit Monitor [6]. Users can tailor their screen time limits according to their personal needs and preferences, making it a flexible solution for different lifestyles. We realized that a  successful app should be highly flexible to allow the user to customize their settings in whatever way they wish (if they feel they cannot achieve their desired settings they may disengage), whilst also being restrictive in the areas it needs to be, the screen time limiter [6, 7].
+Screen time management has become crucial due to rising smartphone and computer use, with adults averaging over 6 hours daily and children 3–4 hours [4]. What surprised us when assessing the market demand for this system was just how severe the problem of screen addiction was, especially with children. Increasing amount of time children spend on screens and the associated negative health outcomes, such as poor academic performance and obesity [5].
+
+From looking at other similar systems, one standout aspects of many successful systems such as App Limit Monitor [6]. Users can tailor their screen time limits according to their personal needs and preferences, making it a flexible solution for different lifestyles. We realized that a  successful app should be highly flexible to allow the user to customize their settings in whatever way they wish (if they feel they cannot achieve their desired settings they may disengage), whilst also being restrictive in the areas it needs to be, the screen time limiter [6, 7].
 
 **Competitive landscape:**
 
@@ -105,16 +105,10 @@ In terms of business models, most competitors opt for a subscription model to ma
 
 ### 2.3 Primary Research and Consulting
 
-To validate our findings from our secondary research, we decided it would be most productive for our business to conduct our own primary research. 
+To validate our findings from our secondary research, we decided it would be most productive for our business to conduct our own primary research. First, we tried to determine how to monetize the product in a way that is most compatible with the users. Out of all of the participants, 80% people would prefer sharing their data rather than watching ads, and 60% of participants would be willing to pay up to £3 to remove ads. For the premium version, roughly half would pay £1.00 per month / £ 10.00 per year / £25.00 lifetime (the other half were not interested in premium). Surprisingly, out of monthly, yearly and lifetime subscription models, participants were completely mixed, with an even split each. 
 
-Go through survey and analyze results:
-
-- 8/10 people would be ok selling their data rather than watching ads
-- 6/10 people would pay £3 to remove ads
-- For premium, roughly half would pay £1.00 per month / £ 10.00 per year / £25.00 lifetime, the other half were not interested in premium
-- Out of monthly, yearly and lifetime subscription models, people were completely mixed
-- Participants suggested as premium features: graphing the amount of time spent on each app, allowing cashing in unused coins, buying cosmetic features etc.
-- In additional comments, participants stated that the user should not be allowed to game the system, e.g. by leaving productive apps open and not doing anything in them
+We also asked our participants for more general feedback. Participants suggested as premium features: graphing the amount of time spent on each app, allowing cashing in unused coins and buying cosmetic features. In additional comments, participants stated that the user should not be allowed to game the system, such as by leaving productive apps open and not doing anything in the.
+This survey was excellent at getting a direct insider view into the opinions of the target audience and was greatly influential in how we shaped our product.
 
 ### 2.4 Main Competitors
 
