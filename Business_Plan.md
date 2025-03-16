@@ -125,9 +125,7 @@ FOCO positions itself primarily in the comprehensive management category, offeri
 
 #### 2.4.1 Opal: The Premium Competitor
 
-[8]
-
-Opal has established itself as a premium player in the focus app market, with a strong emphasis on deep work and distraction elimination.
+Opal [8] has established itself as a premium player in the focus app market, with a strong emphasis on deep work and distraction elimination.
 
 **Strengths**:
 
@@ -148,9 +146,7 @@ FOCO should consider implementing a similarly robust blocking mechanism while ma
 
 #### 2.4.2 Forest: The Gamification Pioneer
 
-[9]
-
-Forest has successfully leveraged environmental impact and visual rewards to create a compelling productivity tool that has garnered significant market attention.
+Forest [9] has successfully leveraged environmental impact and visual rewards to create a compelling productivity tool that has garnered significant market attention.
 
 **Strengths**:
 
@@ -172,9 +168,7 @@ FOCO's potential advantage lies in combining Forest's engaging gamification with
 
 #### 2.4.3 Cold Turkey: The Hardcore Blocker
 
-[10]
-
-Cold Turkey takes a no-nonsense approach to digital distraction, offering some of the most stringent blocking mechanisms available.
+Cold Turkey [10] takes a no-nonsense approach to digital distraction, offering some of the most stringent blocking mechanisms available.
 
 **Strengths**:
 
@@ -196,9 +190,7 @@ FOCO should consider how to balance blocking effectiveness with user experience,
 
 #### 2.4.4 Jomo: The Widget Innovator
 
-[11]
-
-Jomo has created distinctive value through its widget-based approach and dynamic limits.
+Jomo [11] has created distinctive value through its widget-based approach and dynamic limits.
 
 **Strengths**:
 
