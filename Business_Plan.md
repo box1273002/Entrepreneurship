@@ -132,6 +132,92 @@ FOCO positions itself primarily in the comprehensive management category, offeri
 
 ##### 2.4.1 Opal: The Premium Competitor
 
+[8]
+
+Opal has established itself as a premium player in the focus app market, with a strong emphasis on deep work and distraction elimination.
+
+**Strengths**:
+
+- Social competition through friend leaderboards drives engagement
+- DeepFocus Mode provides stringent app locking that prevents users from disabling restrictions
+- Professional design and user experience
+
+**Weaknesses**:
+
+- High premium pricing creates a barrier to entry for many potential users
+- Limited customization options create a rigid user experience
+- Lacks the gamification elements that make screen time management engaging
+
+**Competitive Implications for FOCO**:
+Opal's premium positioning and relatively high price point ($8.29/month) create an opportunity for FOCO to offer comparable functionality at its more accessible £1/month price point. While Opal's DeepFocus Mode represents a gold standard for hardcore focus seekers, FOCO's customizable restriction levels could appeal to users seeking more flexibility.
+
+FOCO should consider implementing a similarly robust blocking mechanism while maintaining its price advantage and expanding its customization options. The significant price differential ($7/month) could be a compelling driver for users to choose FOCO over Opal if the core blocking functionality is comparable.
+
+##### 2.4.2 Forest: The Gamification Pioneer
+
+Forest has successfully leveraged environmental impact and visual rewards to create a compelling productivity tool that has garnered significant market attention.
+
+**Strengths**:
+
+- Strong gamification through tree-planting mechanics
+- Appealing visual design that resonates with users
+- Real-world environmental impact through tree planting partnerships
+- Established brand recognition with over 10 million downloads
+
+**Weaknesses**:
+
+- Easy to bypass restrictions limits effectiveness for users lacking self-discipline
+- Basic analytics and insights restrict users' ability to understand usage patterns
+- Limited blocking capabilities compared to more robust competitors
+
+**Competitive Implications for FOCO**:
+Forest's success demonstrates the power of gamification in the screen time management market. FOCO's coin system represents a similar but distinct approach to gamification that can be expanded upon. While Forest uses environmental impact as its emotional hook, FOCO might consider emphasizing personal wellbeing and mental health benefits as its emotional driver.
+
+FOCO's potential advantage lies in combining Forest's engaging gamification with more robust blocking mechanisms and detailed analytics. By providing users with both the emotional rewards of gamification and the practical tools for enforcing discipline, FOCO could position itself as an evolution beyond Forest's approach.
+
+##### 2.4.3 Cold Turkey: The Hardcore Blocker
+
+Cold Turkey takes a no-nonsense approach to digital distraction, offering some of the most stringent blocking mechanisms available.
+
+**Strengths**:
+
+- Extremely effective blocking that requires system reboots to bypass
+- One-time purchase model appeals to subscription-fatigued consumers
+- Established reputation for effectiveness among serious productivity enthusiasts
+
+**Weaknesses**:
+
+- Desktop-focused with limited mobile presence
+- Unfriendly user interface creates friction for new users
+- Lacks gamification elements that could increase engagement
+- Extreme blocking may be too restrictive for casual users
+
+**Competitive Implications for FOCO**:
+Cold Turkey's focus on desktop platforms creates a significant opportunity for FOCO in the mobile space. By offering comparable blocking effectiveness on mobile devices with a more user-friendly interface, FOCO could capture users seeking Cold Turkey's effectiveness in a more accessible package.
+
+FOCO should consider how to balance blocking effectiveness with user experience, perhaps offering tiered levels of restriction that allow users to gradually increase blocking severity as they build discipline. The subscription model versus one-time purchase difference represents a strategic choice, with FOCO betting on long-term recurring revenue over upfront payments.
+
+##### 2.4.4 Jomo: The Widget Innovator
+
+Jomo has created distinctive value through its widget-based approach and dynamic limits.
+
+**Strengths**:
+
+- Home screen widgets provide convenient access to key functions
+- Dynamic limits that adjust based on user behavior create flexibility
+- Social features enhance engagement and accountability
+
+**Weaknesses**:
+
+- Lack of cross-device synchronization limits utility for multi-device users
+- Widgets lack personality and gamification elements
+- Limited blocking capabilities compared to dedicated blocking apps
+
+**Competitive Implications for FOCO**:
+Jomo's widget-based approach represents an opportunity for FOCO to enhance its accessibility through similar home screen integrations. By developing widgets that display coin balances, time spent statistics, and quick blocking controls, FOCO could increase engagement and utility.
+
+The lack of cross-device synchronization in Jomo highlights an opportunity for FOCO to implement robust cross-platform functionality, ensuring a seamless experience across all of a user's devices. Additionally, FOCO's coin system could be extended to the widget interface, bringing gamification elements to the home screen in a way that Jomo has not accomplished.
+
 ### Reference
 
 [1] Nield, D. (2025) *The Best Time Management Apps to tame the chaos*, *Wired*. Available at: https://www.wired.com/story/best-time-management-apps (Accessed: 16 March 2025). 
@@ -147,5 +233,7 @@ FOCO positions itself primarily in the comprehensive management category, offeri
 [6] Agrawal, P. A. (2024). AppLimit Monitor for Smartphone Addiction. *Indian Scientific Journal Of Research In Engineering And Management*. https://doi.org/10.55041/ijsrem29133 (Accessed: 16 March 2025). 
 
 [7] Hoof, K. van (2023) *5 best apps for limiting screen time in 2025: Tested*, *SafetyDetectives*. Available at: https://www.safetydetectives.com/blog/best-apps-for-limiting-screen-time (Accessed: 16 March 2025).
+
+[8] Opal Corporation (2024). Opal. https://www.opal.so/ (Accessed: 16 March 2025).
 
 ### Appendices
