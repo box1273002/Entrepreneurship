@@ -385,6 +385,34 @@ The most technically proficient member of the team, George’s high grades devel
 
 With prior stakeholder engagement experience, Ptolemy will be working closely the development team translating costumer suggestions/feedback into them into technical requirements.
 
+### 3.4 Required Resources
+
+The product has been specifically selected as it has limited upfront startup cost, with the initial costs being largely development related, not requiring significant capital investment.
+
+#### 3.4.1 Capital Requirements
+
+**Google Development Console - $25.00**
+
+In order to publish to the Google Play Store there is a one time cost of $25.00. After this a 15.0% commission on revenue up to $1,000,000 on the app, after this the commission is then doubled to 30.0%.
+
+**Apple Developer Program - $99.00 per year**
+
+In order to publish on the App Store a $99.00 per year subscription is necessary. In addition to a 30.0% commission on all revenue generated on the app.
+
+**Work Laptop - N/A**
+
+Due to the small nature of our company and the fact that we all possess personal laptop that can be used for development. This however would likely change as the company matures.
+
+#### 3.4.2 Skill Requirements
+
+**Graphic Designer** 
+
+Our team is comprised of technical individuals and as such we need to hire a graphic designer to ensure a visual appealing UI, which is essential to compete in the current mobile phone app market. This is not required until after the creation of a minimum working prototype, which we will use to as a tool to aid hiring.
+
+**App Store Optimization** 
+
+Although it is unlikely we will need to bring a dedicated team member on board to handle App Store Optimization it would be beneficial for one or more team member to undertake some form of App Store Optimization training, likely the CMO Dhru Randeria.
+
 ## Reference
 
 [1] Nield, D. (2025) *The Best Time Management Apps to tame the chaos*, *Wired*. Available at: https://www.wired.com/story/best-time-management-apps (Accessed: 16 March 2025). 
