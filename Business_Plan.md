@@ -9,11 +9,13 @@ In today's digital age, screen time dependency has become a widespread issue, wi
 
 Our research also uncovered a critical gap in the market — existing screen time management apps, such as *Opal*, rely on rigid blocking mechanisms that can be inconvenient and demotivating for users.
 
-### 1.2 Case Studies
+### 1.2 Motivational Experiences
 
-**Dhru's Story:** Dhru, one of FOCO's dedicated developers, once struggled with screen addiction himself. His overuse of social media led to missed job interviews and strained relationships, prompting him to reclaim his time and join FOCO’s mission. Dhru’s journey highlights the emotional toll of digital overuse and the urgent need for a balanced, mindful approach to screen time management.
+**Dhru's Story:** Dhru, one of FOCO's dedicated developers, has struggled with balancing his screentime. He tried several apps all of which sufferd from the same problem inflexiblity, particularly with apps like WhatsApp. When he blocked WhatsApp to stay focused, he found himself unable to use WhatApp when he genuinely need it to commicate. His experience demonstrates the importance of healthy digital habits and was the initial inspiration behind FOCO.
 
-**Another Case Study:** A regular user of screen time management software like *Opal* shared his frustration with the app’s inflexibility, particularly with apps like WhatsApp. When he blocked WhatsApp to stay focused, he found himself stuck waiting for up to 5 minutes before accessing the app when he genuinely needed to communicate. This rigid approach discouraged other users from adopting similar apps, reinforcing the need for a more flexible and user-centric solution.  Competitors do not enable users to block apps and also ensure they can use them when they truly need to. This is a significant limitation, competitors should be encouraging balance and purposeful in how their user use their time. This could enable users to have a healthy relationship with their digital reality. However this is not done with most competitors encouraging an all or nothing mentality - have it blocked indefinitely or not at all.
+**Ptolemy's Story:** A similar problem was encountered by Ptolemy. This time the issue was will Youtube. He found himself spending too much time on the app and went to block it. This however was also too restrictive as it meant he was unable to watch some of university resources which were posting on youtube, again the inflexibility was his key pain point.
+
+**Similar Experiences:** After this issue was bought to the attention of the team it was identified as a common among them and there social group. This motivated use to create something better.
 
 ### 1.3 Our Solution
 
