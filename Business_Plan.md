@@ -453,6 +453,26 @@ Because our app focuses on productivity, one of our main audiences would be stud
 
 To promote our app further, we could promote case studies of people using our app as a second point of contact after word-of-mouth referring and marketting advertisements for our product via platforms such as LinkedIn and our app website to signify how our app promotes productivity, which could help provide more information for people that are considering using our product. Furthermore, if our app is successful, we could show the retention statistics of using our app. This would be how many weeks the user would update their credit system as it could signify ongoing use of the app.
 
+### 3.7 Main Risks and Mitigation Strategies
+
+We have four main risks with our business idea: Google and Apple restricting user permissions, user resistance, data privacy and security, and competition with other productivity apps.
+
+#### 3.7.1 User Permission Restrictions
+
+The most significant risk to the success of our company come from Google and Apple. This is due to the nature of our app requiring significant privileges to function. The risk comes as the possibility that either Google or Apple could restrict iOS/Android users ability to give such overarching permissions to 3rd party apps such as ours. However, it is unclear how likely a risk this is as it would entail curtailing user control with no financial incentive. This small risk is being mitigated by developing the application for multiple platforms, as it is unlikely all platforms will disallow this at once. 
+
+#### 3.7.2 User Resistance
+
+For user resistance, users could easily lose retention if they suddenly lose access to apps that they deem unproductive. In order to mitigate users from losing retention and from our app gain viewership, we would implement gradual restrictions instead of a sudden app block. A suggested idea that we may follow is that we would implement a warning system to the user if their credit is getting low. The user would set a number of credits that they would like to start getting warnings at and would also set how often they would want this reminder given to them, whilst they are losing credits.
+
+#### 3.7.3 Data Privacy Concerns
+
+Another main concern is data privacy and security. This is specificly important due to the sensitive nature of data. To ensure that our app does not cause any data privacy or security concerns, the data security risk will be mitigated by storing data via the iCloud or Google Drive because they are run by a larger organization and as such have dedicated to address any issues. The privacy risk will be mitigated by ensuring transparency in data collection by not accessing any personal user data except when explicitly given permission (e.g. if the user interacts with our app with the data plan) and complying to all GDPR regulations.
+
+#### 3.7.4 Competition with Other Productivity Apps
+
+In order to deal with competition, we will implement unique features that differentiate our app from competititors, such as making the user complete a long verification process to re-configure the credit system, as well as combining elements that have already succeeded with existing competitors such as gamification, robust blocking, social features and customisation.
+
 ## Reference
 
 [1] Nield, D. (2025) *The Best Time Management Apps to tame the chaos*, *Wired*. Available at: https://www.wired.com/story/best-time-management-apps (Accessed: 16 March 2025). 
