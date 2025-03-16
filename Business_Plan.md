@@ -53,7 +53,8 @@ The app will run on Android.
 
 We will utilise gamification, behavioral psychology, and simple finance-style mechanisms (coins, investments) to create a fun app that helps users break free from digital addiction or casual users who want to be purposeful with their time. 
 
-#### 1.5 5 Selling Points
+#### 1.5 Selling Points
+
 
 1. **Mission-Driven, Not Profit-Driven:** FOCO is built by those who have experienced screen addiction firsthand and are committed to helping others break free.
 2. **Affordable for Everyone:** Our premium plans start at just **£1/month or £10/year** — the most cost-effective option on the market.
