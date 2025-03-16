@@ -154,6 +154,8 @@ FOCO should consider implementing a similarly robust blocking mechanism while ma
 
 #### 2.4.2 Forest: The Gamification Pioneer
 
+[9]
+
 Forest has successfully leveraged environmental impact and visual rewards to create a compelling productivity tool that has garnered significant market attention.
 
 **Strengths**:
@@ -176,6 +178,8 @@ FOCO's potential advantage lies in combining Forest's engaging gamification with
 
 #### 2.4.3 Cold Turkey: The Hardcore Blocker
 
+[10]
+
 Cold Turkey takes a no-nonsense approach to digital distraction, offering some of the most stringent blocking mechanisms available.
 
 **Strengths**:
@@ -197,6 +201,8 @@ Cold Turkey's focus on desktop platforms creates a significant opportunity for F
 FOCO should consider how to balance blocking effectiveness with user experience, perhaps offering tiered levels of restriction that allow users to gradually increase blocking severity as they build discipline. The subscription model versus one-time purchase difference represents a strategic choice, with FOCO betting on long-term recurring revenue over upfront payments.
 
 #### 2.4.4 Jomo: The Widget Innovator
+
+[11]
 
 Jomo has created distinctive value through its widget-based approach and dynamic limits.
 
@@ -384,5 +390,11 @@ FOCO would require measures to ensure compliance with consumer protection laws:
 [7] Hoof, K. van (2023) *5 best apps for limiting screen time in 2025: Tested*, *SafetyDetectives*. Available at: https://www.safetydetectives.com/blog/best-apps-for-limiting-screen-time (Accessed: 16 March 2025).
 
 [8] Opal Corporation (2024). Opal. https://www.opal.so/ (Accessed: 16 March 2025).
+
+[9] SeekrTech (2025). Forest: Focus for Productivity. https://www.forestapp.cc/ (Accessed: 16 March 2025).
+
+[10] Cold Turkey Software Inc. (2025) Cold Turkey. https://getcoldturkey.com/ (Accessed: 16th March 2025). 
+
+[11] Jomo SAS. (2024) Jomo. https://jomo.so/ (Accessed: 16th March 2025) 
 
 ### Appendices
