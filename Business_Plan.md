@@ -1,22 +1,21 @@
 
 # FOCO: Creating a credit-based screen time limiter app
-## A Business Plan
 
-### 1. Our Product
+## 1. Our Product
 
-#### 1.1 The Problem
+### 1.1 The Problem
 
 In today's digital age, screen time dependency has become a widespread issue, with over **53% of Americans** seeking to reduce their phone usage to improve time management, mental health, and focus. However, breaking free from screen addiction is no easy feat — **49% of people** feel addicted to their devices, and **69% of Gen Z** openly acknowledge their phone dependency.
 
 Our research also uncovered a critical gap in the market — existing screen time management apps, such as *Opal*, rely on rigid blocking mechanisms that can be inconvenient and demotivating for users.
 
-#### 1.2 Case Studies
+### 1.2 Case Studies
 
 **Dhru's Story:** Dhru, one of FOCO's dedicated developers, once struggled with screen addiction himself. His overuse of social media led to missed job interviews and strained relationships, prompting him to reclaim his time and join FOCO’s mission. Dhru’s journey highlights the emotional toll of digital overuse and the urgent need for a balanced, mindful approach to screen time management.
 
 **Another Case Study:** A regular user of screen time management software like *Opal* shared his frustration with the app’s inflexibility, particularly with apps like WhatsApp. When he blocked WhatsApp to stay focused, he found himself stuck waiting for up to 5 minutes before accessing the app when he genuinely needed to communicate. This rigid approach discouraged other users from adopting similar apps, reinforcing the need for a more flexible and user-centric solution.  Competitors do not enable users to block apps and also ensure they can use them when they truly need to. This is a significant limitation, competitors should be encouraging balance and purposeful in how their user use their time. This could enable users to have a healthy relationship with their digital reality. However this is not done with most competitors encouraging an all or nothing mentality - have it blocked indefinitely or not at all.
 
-#### 1.3 Our Solution
+### 1.3 Our Solution
 
 Imagine the same scenario — but with FOCO’s innovative coin system.
 
@@ -54,7 +53,7 @@ The app will run on Android.
 
 We will utilise gamification, behavioral psychology, and simple finance-style mechanisms (coins, investments) to create a fun app that helps users break free from digital addiction or casual users who want to be purposeful with their time. 
 
-#### 1.5 Selling Points
+### 1.5 Selling Points
 
 
 1. **Mission-Driven, Not Profit-Driven:** FOCO is built by those who have experienced screen addiction firsthand and are committed to helping others break free.
@@ -63,13 +62,13 @@ We will utilise gamification, behavioral psychology, and simple finance-style me
 4. **Build a Better Life:** Users can earn coins by completing real-life goals, reinforcing positive habits both online and offline.
 5. **Fighting the Battle Together:** FOCO is a supportive tool, not a digital prison — we grow and evolve alongside our users.
 
-#### 1.6 Are We Economically Viable? - Value Mapping
+### 1.6 Are We Economically Viable? - Value Mapping
 
 Our value mapping (see *Appendix I*) demonstrates that FOCO offers the most affordable, flexible, and engaging screen time solution compared to competitors like *Cold Turkey*, *Opal*, and *Forest*. With features like coin-based time management, ad-based coin earning, and personalized scheduling, FOCO bridges the gap between rigid time-blocking apps and user-driven digital wellness.
 
-### 2. Market Section
+## 2. Market Section
 
-#### 2.1 Market Research Goals
+### 2.1 Market Research Goals
 
 To ensure that our product provides users with the most effective productivity service on the market, we first performed extensive research. Our main lines of questioning were as follows:
 
@@ -77,7 +76,7 @@ To ensure that our product provides users with the most effective productivity s
 - Market size and demand: how many people actively seek screen time control solutions and how will this change into the future?
 - Competitive landscape: what existing apps offer screen time restrictions, and how do they work, how do competitors monetize their apps and what are the strengths and weaknesses of competing products?
 
-#### 2.2 Secondary Research
+### 2.2 Secondary Research
 
 **Target market and user needs:**
 
@@ -104,7 +103,7 @@ Despite several competitors, our data shows that the market is yet to be fully s
 
 In terms of business models, most competitors opt for a subscription model to maintain a constant income. Clarymind [4] for example operates on a subscription model (Monthly: $14.99 | 6-Month: $49.99 | Yearly: $62.99 | Pro: $34.99), estimated to generate ~$2M annually with 100,000+ active users.
 
-#### 2.3 Primary Research and Consulting
+### 2.3 Primary Research and Consulting
 
 To validate our findings from our secondary research, we decided it would be most productive for our business to conduct our own primary research. 
 
@@ -117,7 +116,7 @@ Go through survey and analyze results:
 - Participants suggested as premium features: graphing the amount of time spent on each app, allowing cashing in unused coins, buying cosmetic features etc.
 - In additional comments, participants stated that the user should not be allowed to game the system, e.g. by leaving productive apps open and not doing anything in them
 
-#### 2.4 Main Competitors
+### 2.4 Main Competitors
 
 The screen time management app market has experienced significant growth in recent years, driven by increasing awareness of digital wellbeing and the negative impacts of excessive screen time. According to recent studies, the average American spends approximately 7 hours per day on digital devices, with smartphone usage accounting for a significant portion of this time. This has created a substantial market opportunity for applications that help users manage and reduce their screen time.
 
@@ -130,7 +129,7 @@ The market can be segmented into several categories:
 
 FOCO positions itself primarily in the comprehensive management category, offering a blend of monitoring, blocking, and behavioral modification through its unique coin system. This approach allows it to appeal to a broad audience while differentiating itself from competitors.
 
-##### 2.4.1 Opal: The Premium Competitor
+#### 2.4.1 Opal: The Premium Competitor
 
 [8]
 
@@ -153,7 +152,7 @@ Opal's premium positioning and relatively high price point ($8.29/month) create 
 
 FOCO should consider implementing a similarly robust blocking mechanism while maintaining its price advantage and expanding its customization options. The significant price differential ($7/month) could be a compelling driver for users to choose FOCO over Opal if the core blocking functionality is comparable.
 
-##### 2.4.2 Forest: The Gamification Pioneer
+#### 2.4.2 Forest: The Gamification Pioneer
 
 Forest has successfully leveraged environmental impact and visual rewards to create a compelling productivity tool that has garnered significant market attention.
 
@@ -175,7 +174,7 @@ Forest's success demonstrates the power of gamification in the screen time manag
 
 FOCO's potential advantage lies in combining Forest's engaging gamification with more robust blocking mechanisms and detailed analytics. By providing users with both the emotional rewards of gamification and the practical tools for enforcing discipline, FOCO could position itself as an evolution beyond Forest's approach.
 
-##### 2.4.3 Cold Turkey: The Hardcore Blocker
+#### 2.4.3 Cold Turkey: The Hardcore Blocker
 
 Cold Turkey takes a no-nonsense approach to digital distraction, offering some of the most stringent blocking mechanisms available.
 
@@ -197,7 +196,7 @@ Cold Turkey's focus on desktop platforms creates a significant opportunity for F
 
 FOCO should consider how to balance blocking effectiveness with user experience, perhaps offering tiered levels of restriction that allow users to gradually increase blocking severity as they build discipline. The subscription model versus one-time purchase difference represents a strategic choice, with FOCO betting on long-term recurring revenue over upfront payments.
 
-##### 2.4.4 Jomo: The Widget Innovator
+#### 2.4.4 Jomo: The Widget Innovator
 
 Jomo has created distinctive value through its widget-based approach and dynamic limits.
 
@@ -218,7 +217,7 @@ Jomo's widget-based approach represents an opportunity for FOCO to enhance its a
 
 The lack of cross-device synchronization in Jomo highlights an opportunity for FOCO to implement robust cross-platform functionality, ensuring a seamless experience across all of a user's devices. Additionally, FOCO's coin system could be extended to the widget interface, bringing gamification elements to the home screen in a way that Jomo has not accomplished.
 
-#### Competitive Analysis
+### 2.5 Competitive Analysis
 
 Based on an analyiss of our competitors, FOCO occupies a promising position in the screen time management market by combining elements that have proven successful across multiple competitors:
 
@@ -230,7 +229,7 @@ Based on an analyiss of our competitors, FOCO occupies a promising position in t
 
 This combined approach addresses multiple user needs within a single platform, potentially eliminating the need for users to employ multiple applications for different aspects of screen time management.
 
-#### Key Market Advantages
+#### 2.5.1 Key Market Advantages
 
 FOCO's most significant advantages in the current market include:
 
@@ -240,7 +239,7 @@ FOCO's most significant advantages in the current market include:
 4. **Customization Depth**: The extensive personalization options provide users with a sense of ownership and identity within the app ecosystem.
 5. **Mission-Driven Positioning**: The emphasis on accessibility and wellbeing over profit maximization can create stronger brand loyalty and word-of-mouth marketing.
 
-#### Primary Challenges and Risks
+#### 2.5.2 Primary Challenges and Risks
 
 Despite its advantages, FOCO faces several significant challenges that could impact its success:
 
@@ -251,7 +250,80 @@ Despite its advantages, FOCO faces several significant challenges that could imp
 5. **Low Price Sustainability**: The £1 price point, while attractive to users, may create challenges in funding ongoing development and marketing efforts, particularly in a competitive user acquisition environment. Given our study however, it seems that this is a price that would allow us to access a much wider user base who might not otherwise be interested in these apps: as our main cost would be development, this would mean that we can scale up at no additional cost. We should therefore be able to obtain a much larger user base than any of the pre existing apps, and use this large scale to make up for the low revenue per user.
 6. **Behavioral Change Complexity**: Successfully changing deeply ingrained digital habits requires more than just technical tools—it requires behavioral science expertise that may be challenging to implement effectively.
 
-### Reference
+### 2.6 Assumptions and Risk Assessment
+
+FOCO's business model rests on several key assumptions that should be critically evaluated:
+
+1. **Gamification Effectiveness**: If the coin system proves too complex or insufficiently motivating, users may abandon the app for simpler solutions.
+    - *Mitigation Strategy*: A/B testing different reward mechanisms and simplification of the core coin mechanics based on user feedback.
+2. **Price Point Sustainability**: The low price point may attract users but create challenges in funding growth and development.
+    - *Mitigation Strategy*: Implementing a tiered pricing model with additional premium features at higher price points while maintaining the core £1 base offering.
+3. **Platform Competition**: Native OS screen time features continue to improve, potentially diminishing the perceived value of third-party apps.
+    - *Mitigation Strategy*: Focusing on features that go beyond what OS-native solutions offer, particularly in areas of blocking, gamification, and social engagement.
+4. **Retention Challenges**: Users who successfully reduce screen time may no longer see value in paying for the app.
+    - *Mitigation Strategy*: Expanding the value proposition beyond just screen time reduction to include broader digital wellbeing and productivity enhancement.
+5. **Marketing Costs**: User acquisition in a crowded market may require significant spending that the low price point cannot support.
+    - *Mitigation Strategy*: Leveraging the mission-driven positioning for PR and word-of-mouth growth, potentially supplemented by strategic partnerships with digital wellbeing organizations, or through university programs.
+
+## 3 Strategy Section
+
+### 3.1 Priority Road Map
+
+#### 3.1.1 Short Term Priorities (0-6 months)
+
+1. **Core Feature Refinement**: Ensure the coin system is intuitive, engaging, and provides clear value to users from their first interaction.
+2. **User Acquisition Campaigns**: Launch targeted marketing campaigns that emphasize FOCO's unique value proposition and affordability compared to premium competitors.
+3. **Early Adopter Community**: Build a community of highly engaged users who can provide feedback and serve as brand ambassadors.
+4. **Analytics Enhancement**: Develop comprehensive usage insights that exceed competitors like AntiSocial while maintaining an engaging presentation.
+5. **Widget Development**: Create home screen widgets that display coin balances and quick access to key features, addressing Jomo's innovation in this area.
+
+#### 3.1.2 Medium Term Strategy (6-18 months)
+
+1. **Family Plan Development**: Expand into the family market with parent-child functionality that leverages the coin system for household screen time management.
+2. **Cross-Device Synchronization**: Implement seamless experience across all user devices, addressing a weakness identified in competitors like Jomo.
+3. **Tiered Pricing Refinement**: Test and optimize additional premium tiers while maintaining the core affordable offering.
+4. **Strategic Partnerships**: Develop relationships with digital wellbeing organizations, educational institutions, and mental health platforms to expand reach.
+5. **API Integration**: Create integrations with productivity platforms and health apps to expand the ecosystem and increase switching costs.
+
+#### 3.1.3 Long Term Vision (18+ months)
+
+1. **Behavioral Science Expansion**: Incorporate advanced behavioral science principles beyond simple gamification to create lasting habit changes.
+2. **Enterprise Solutions**: Develop workplace-focused versions that help organizations promote digital wellbeing among employees.
+3. **Education Focus**: Create specialized versions for educational settings that help students manage screen time while still accessing necessary digital resources.
+4. **International Expansion**: Adapt the coin system and interface for cultural differences in international markets.
+5. **Broader Digital Wellbeing Platform**: Expand beyond screen time management to address other aspects of digital wellbeing like posture, blue light exposure, and sleep quality.
+
+### 3.2 Legal Status and Structure
+
+#### 3.2.1 Current Structure: Private Limited Company (Ltd)
+
+FOCO is planned to be structured as a Private Limited Company (Ltd) registered in the United Kingdom. This structure was selected for several strategic reasons:
+
+- **Limited Liability Protection**: The Ltd structure creates a separate legal entity, protecting the personal assets of founders and shareholders from business liabilities. This is particularly important for a digital application where user data management and potential service disruptions pose ongoing operational risks.
+- **Ownership Flexibility**: The company's shares are privately held among founders and early investors, with no requirement for public trading. This allows the management team to maintain decision-making control during the critical early development stages.
+- **Credibility and Formality**: The Ltd designation provides FOCO with enhanced credibility when engaging with potential partners, users, and investors compared to sole trader or partnership structures.
+- **Tax Efficiency**: As a Ltd company, FOCO is subject to UK Corporation Tax (currently 25% for companies with profits exceeding £250,000, and 19% for those with profits under £50,000) rather than personal income tax rates. This creates potential tax advantages, particularly as the company begins generating significant revenue.
+
+#### 3.2.2 Future Structure: Public Limited Company (PLC)
+
+As FOCO continues to scale, converting to a Public Limited Company could be advantageous as a step toward potential public listing.
+
+**Advantages**:
+
+- Enhanced ability to raise capital through public markets
+- Increased prestige and visibility
+- Greater liquidity for shareholders
+- Potential for higher valuation multiples
+
+**Considerations**:
+
+- Significantly increased regulatory requirements
+- Additional disclosure obligations
+- Quarterly reporting pressures
+- Higher governance standards and administrative costs
+- Vulnerability to activist investors and takeovers
+
+## Reference
 
 [1] Nield, D. (2025) *The Best Time Management Apps to tame the chaos*, *Wired*. Available at: https://www.wired.com/story/best-time-management-apps (Accessed: 16 March 2025). 
 
