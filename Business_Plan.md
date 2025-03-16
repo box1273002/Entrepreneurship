@@ -79,13 +79,30 @@ To ensure that our product provides users with the most effective productivity s
 
 #### 2.2 Secondary Research
 
-Target market and user needs:
+**Target market and user needs:**
 
 Our research has shown that the market for productivity and time management apps is expanding, driven by increased smartphone usage and work-from-home trends. Demand for time tracking in both personal and professional contexts indicates potential for subscription-based monetization models. [1]
 
 From analyzing the literature on the subject, we confirmed that most of the target audience would use the system as an intervention rather than as a guide. Based on this, we tailored our app to take into account the relationships of the user with their family and friends. By involving families in the intervention (in a Family Media Plan [2]), the project aimed to create tailored strategies for managing screen time, which can be supported by caregivers modeling healthy behaviors. This approach is essential for fostering long-term changes in media habits among adolescents. Intervening technologies are most effective when paired with support and enforcement of a third-party.
 
 The benefits of the intervention were not just short-term; participants in [3] maintained lower levels of smartphone use and improved well-being for at least six weeks after the intervention ended. Ensuring that the user makes it through the initial few days is the hardest part in the “rehabilitation” timeline, hence it is a part we need to focus on the most in terms of encouraging and motivating the user.
+
+**Market size and demand:**
+
+- Screen time management has become crucial due to rising smartphone and computer use, with adults averaging over 6 hours daily and children 3–4 hours. [4]
+- What surprised us when assessing the market demand for this system was just how severe the problem of screen addiction was, especially with children. Increasing amount of time children spend on screens and the associated negative health outcomes, such as poor academic performance and obesity [5].
+- From looking at other similar systems, one standout aspects of many successful systems such as App Limit Monitor [6]. Users can tailor their screen time limits according to their personal needs and preferences, making it a flexible solution for different lifestyles. We realized that a  successful app should be highly flexible to allow the user to customize their settings in whatever way they wish (if they feel they cannot achieve their desired settings they may disengage), whilst also being restrictive in the areas it needs to be, the screen time limiter [6, 7].
+
+**Competitive landscape:**
+
+When assessing the competitive landscape, we were able to identify a number of successful competing systems, proving that this idea is tried and true. Nevertheless, we identified several gaps in the market which we look to exploit (see Main Competitors). Some applications and their revenues are listed below:
+
+- Clarymind (launched Dec 2023) reduces screen time by up to 2 hours/day through AI-driven mindfulness features like 10-second pause before app use, guided meditation, sleep aids (calming music).
+- ScreenTime+ ($15K/month) and BePresent ($10K/month) show strong market demand for screen management tools.
+
+Despite several competitors, our data shows that the market is yet to be fully saturated. The parental control software market ($1.25B in 2023) is projected to grow to $3.54B by 2032 at 12.3% CAGR. Factors driving growth include: increased mobile use, pandemic-induced digital habits, and rising demand for parental controls.
+
+In terms of business models, most competitors opt for a subscription model to maintain a constant income. Clarymind [4] for example operates on a subscription model (Monthly: $14.99 | 6-Month: $49.99 | Yearly: $62.99 | Pro: $34.99), estimated to generate ~$2M annually with 100,000+ active users.
 
 
 ### Reference
@@ -95,5 +112,13 @@ The benefits of the intervention were not just short-term; participants in [3] m
 [2] Persichetti, E. (2020). *Unplugging: An Evidence-Based Project to Reduce Screen Time and Improve Healthy Media Use in the Adolescent Population*. https://doi.org/10.22371/07.2020.024 (Accessed: 16 March 2025). 
 
 [3] Olson, J. A., D, S., Chmoulevitch, D., Raz, A., & Spl, V. (2021). *A ten-step behavioural intervention to reduce screen time and problematic smartphone use*. https://doi.org/10.31234/OSF.IO/TJYNK (Accessed: 16 March 2025).
+
+[4] Chanda, D. (2025) Mindful Screen Time Management app development like Clarymind, IdeaUsher. Available at: https://ideausher.com/blog/screen-time-management-app-development-like-clarymind (Accessed: 16 March 2025). 
+
+[5] Bleckmann, P., Schwendemann, H., Flaig, S., Kuntz, L., Stiller, A., Mößle, T., & Bitzer, E. M. (2019). *MEDIA PROTECT: A setting- and parent-targeted intervention for a healthy childhood in the digital age* (pp. 233–246). Policy Press. https://doi.org/10.56687/9781447344520-018 (Accessed: 16 March 2025). 
+
+[6] Agrawal, P. A. (2024). AppLimit Monitor for Smartphone Addiction. *Indian Scientific Journal Of Research In Engineering And Management*. https://doi.org/10.55041/ijsrem29133 (Accessed: 16 March 2025). 
+
+[7] Hoof, K. van (2023) *5 best apps for limiting screen time in 2025: Tested*, *SafetyDetectives*. Available at: https://www.safetydetectives.com/blog/best-apps-for-limiting-screen-time (Accessed: 16 March 2025).
 
 ### Appendices
