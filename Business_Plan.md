@@ -361,6 +361,30 @@ FOCO would require measures to ensure compliance with consumer protection laws:
 - **Pricing Transparency**: Clear disclosure of all costs, including in-app purchases and subscription renewals.
 - **Right of Withdrawal**: Processes to handle consumer withdrawal rights, including refund policies in line with app store requirements and local regulations.
 
+### 3.3 The Team
+
+We are currently working in a small team consisting of 5 member in order to create a minimum working prototype. It should be noted that the current stage of the company that all team members share responsibility, and as the company matures the roles may change as they become more strictly defined.
+
+**Tomáš Pecher - CEO**
+
+Perhaps the most well rounded team with prior experience acting as team leader in numerous university project, Tom is well positioned to lead the team as CEO.
+
+**Marilyn D’Costa - CFO**
+
+Marilyn has specialized in the data science and business strategy elements of her computer science. As such she is best suited to take on the role of CEO.
+
+**Dhru Randeria - CMO**
+
+With prior experience as a social media ambassador for the University, Dhru is well position to bring our message across as CMO. 
+
+**George Rawlinson - Developer Lead**
+
+The most technically proficient member of the team, George’s high grades development modules as well as his experience as a professional software developer place him in a strong position to lead the technical of the app.
+
+**Ptolemy Morris - Product manager**
+
+With prior stakeholder engagement experience, Ptolemy will be working closely the development team translating costumer suggestions/feedback into them into technical requirements.
+
 ## Reference
 
 [1] Nield, D. (2025) *The Best Time Management Apps to tame the chaos*, *Wired*. Available at: https://www.wired.com/story/best-time-management-apps (Accessed: 16 March 2025). 
