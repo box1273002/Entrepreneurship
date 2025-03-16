@@ -413,6 +413,46 @@ Our team is comprised of technical individuals and as such we need to hire a gra
 
 Although it is unlikely we will need to bring a dedicated team member on board to handle App Store Optimization it would be beneficial for one or more team member to undertake some form of App Store Optimization training, likely the CMO Dhru Randeria.
 
+### 3.5 Approach to Financing
+
+Our approach to funding will involve bootstrapping the app for initial development and testing so we can have full control of the app without relying on investors and to allow us to validate our idea before committing to any financial decisions. We would then release a free version of the app with basic features to gain users such as configuring the credit settings and being able to change them by performing a long task. After one year, we would then release a Freemium Model of our app. The premium version of our app would have simpler tasks to change the credit system and could also contain features that can implement the credit system from the app during certain periods of the day, e.g.: the credit system could be implemented on Monday to Friday from 9am-5pm if someone wants to be productive during the working week but wants to relax outside of work. 
+
+#### 3.5.1 Financial Projections
+
+**1st Year Projections**
+
+In our first year, we would focus on user growth. In order to gain more users, we would invest money on hosting and development costs and potential marketing (such as social media advertisements and promotions) and not focus too much on the revenue we make because we want users to implement the app into their daily lives and provide us feedback. We aim to reach about 5,000-10,000 active users by the end of the year and we would collect feedback from them to refine features on our app.
+
+**2nd Year Projections**
+
+For our second year, we would introduce the freemium model. We could also provide some in-app purchases for users to gain insight into their productivity such as an analytics dashboard that could tell a user how much time they spent on unproductive apps in a week and compare it to the previous week. By the end of the year, we hope to have at least 5% of our users on the premium version of our app and hope for at least £1500/month revenue. We still want to maintain user growth so with the revenue, we would invest some of it into partnerships.
+
+**Year 3+ Projections**
+
+In the long-term, we would want to introduce AI-driven recommendations and integrate the tool with existing work-tools such as Notion or Slack. To gain additional revenue, we could expand subscriptions options, such as teams or corporate packages and we could partner with universities and employers to offer the app as part of wellness initiatives.
+
+**Exit Strategy**
+
+As an exit strategy, we could sell the company to a larger technology company or we could expand it until we have a standalone business.
+
+### 3.6 Initial Sales and Marketing Strategy
+
+#### 3.6.1 App Store Optimisation and User Feedback
+
+We are planning on releasing our app onto the Apple and Google Play Stores and to make our app more visible to the public, we aim to use more optimised descriptions and keywords. We would do this by including keywords and terms such as “Productivity Tracker” or “Focus App”. We will also have a clear explanation of what our app does, highlight its unique features and include screenshots of the app as well as a video demonstrating the app in action. In order to gain positive reviews and respond to user feedback, we will ask users via the app how satisfied they are with the app via a 5-star rating. If the user rates the app, they will be asked to provide some feedback and if the rating is high (4 or 5 stars), they would be asked if they can provide a review to an app store so that more people are convinced to install our app. We would then respond to user feedback and try to implement any features the users suggest.
+
+#### 3.6.2 Referral Programs
+
+In order to get more users to use our app, we will also implement a referral program, which would benefit current users of the app as well as new users. Referral programs provide a way to reach new users passively, with its effectiveness scaling with our user base. We are currently exploring two possibles for the reward that given for successful referrals. The first possibility is giving 30 days of premium when somebody you referred purchases a premium plan. The second is a giving the user a random alternate app skin for any sign up with a the referral link regardless of the whether they pay for premium. Both approaches come with different advantages, with the skin based approach having no variable costs but likely having a lower conversion rate to new customers. Once the app launches we experiment to see which approach is more successful and whether they can be successfully run in parallel. 
+
+#### 3.6.3 University and Workplace Partnerships
+
+Because our app focuses on productivity, one of our main audiences would be students. Therefore, we would focus on marketing for this audience via university and workplace partnerships. We could start with the University of Bath and market the app via social media platforms, especially via the University’s Instagram page [b] because there are student vloggers who make content that promotes how student life is like at the University of Bath as well as the University’s programmes [c]. However, this does however come with the risk of the app coming across as pushed by the university, contradicting with our core message of take back control. We could also ask content creators that are promoting study content to advertise our app and perhaps, if we get content creators that are very well-known, we could provide a 3-month free premium model if customers sign up with a promotion code. A suitable platform to advertise this on is YouTube because there are study communities on this app such as the “StudyTubing” community [d] and it would be beneficial if content creators could provide demonstrations of the app via long-form content, compared to platforms that mainly provide short-form content such as TikTok.
+
+#### 3.6.4 User Case Studies
+
+To promote our app further, we could promote case studies of people using our app as a second point of contact after word-of-mouth referring and marketting advertisements for our product via platforms such as LinkedIn and our app website to signify how our app promotes productivity, which could help provide more information for people that are considering using our product. Furthermore, if our app is successful, we could show the retention statistics of using our app. This would be how many weeks the user would update their credit system as it could signify ongoing use of the app.
+
 ## Reference
 
 [1] Nield, D. (2025) *The Best Time Management Apps to tame the chaos*, *Wired*. Available at: https://www.wired.com/story/best-time-management-apps (Accessed: 16 March 2025). 
@@ -438,5 +478,12 @@ Although it is unlikely we will need to bring a dedicated team member on board t
 [11] Jomo SAS. (2024) Jomo. https://jomo.so/ (Accessed: 16th March 2025) 
 
 [a] Harmony Healthcare IT (2025) Phone screen time statistics. Available at: https://www.harmonyhit.com/phone-screen-time-statistics/ (Accessed: 16 March 2025)
+
+[b] University of Bath [@uniofbath], 2025. Instagram Page [Online]. Available from: https://www.instagram.com/uniofbath/?hl=en [Accessed 16/03/2025]
+
+[c] Uni of Bath Student Support [@bathstusupport], 2025. Instagram Post [Online], 21/11/2023. Available from: https://www.instagram.com/bathstusupport/reel/Cz6hbgvtd_n/ [Accessed 16/03/2025]
+
+[d] Whitehall, E., 2020. *How StudyTube is Changing Education* [Online]. United Kingdom: The Indiependant. Available from: https://www.indiependent.co.uk/how-studytube-is-changing-education/ [Accessed 16/03/2025]
+
 
 ### Appendices
