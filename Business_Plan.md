@@ -317,7 +317,7 @@ As FOCO continues to scale, converting to a Public Limited Company could be adva
 - Higher governance standards and administrative costs
 - Vulnerability to activist investors and takeovers
 
-### 3.3 Regulatory Compliace and Legal Considerations
+#### 3.2.3 Regulatory Compliace and Legal Considerations
 
 As a screen time management application that monitors user activity, data protection represents one of the most significant legal considerations for FOCO. We would need to ensure compliance with the General Data Protections Regulation (GDPR):
 
@@ -333,7 +333,7 @@ Given that screen time management apps may appeal to parents seeking to monitor 
 - **Enhanced Data Protection**: Special protection measures for data potentially relating to children under 13.
 - **Compliance with Children's Data Regulations**: Including the Age Appropriate Design Code in the UK and COPPA in the US market.
 
-### 3.4 Trademark Protection
+#### 3.2.4 Trademark Protection
 
 As FOCO's business value is substantially tied to its intellectual property assets, we would need to ensure the following:
 
@@ -341,18 +341,18 @@ As FOCO's business value is substantially tied to its intellectual property asse
 - **International Registration**: We would need to apply for EU and US trademark protection through the Madrid Protocol.
 - **Brand Guidelines**: Clear internal guidelines govern the use of the FOCO brand to prevent dilution.
 
-### 3.5 Copyright Protection
+#### 3.2.5 Copyright Protection
 
 - **Software Code**: Copyright protection for the application's source code, with proper documentation of ownership.
 - **Visual Elements**: Copyright protection for unique visual elements, including the app's user interface, logo, and graphic designs.
 - **Content**: Original content within the application, including texts, notifications, and guidance materials.
 
-### 3.6 Patent Considerations
+#### 3.2.6 Patent Considerations
 
 - **Innovative Features**: The coin system mechanism is potentially patentable, though the company has currently opted for trade secret protection rather than patent filing, which would require public disclosure of the methodology.
 - **Patent Landscape Analysis**: Regular monitoring of the competitive patent landscape to avoid infringement and identify potential patentable innovations.
 
-### 3.7 Consumer Protection Compliance
+#### 3.2.7 Consumer Protection Compliance
 
 FOCO would require measures to ensure compliance with consumer protection laws:
 
