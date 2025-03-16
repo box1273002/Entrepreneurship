@@ -31,6 +31,7 @@ This is a simple and powerful app where every week, the users sets a fixed numbe
 Once their coins run out, access to their pre-selected locked apps are completely blocked until the next reset. 
 
 **But Why?**
+
 This scarcity encourages users to be intentional and strategic with their screen time, treating their digital attention as a valuable currency that is always has been. We recognise that time is the user's commodity and we help the user be purposeful with how they spend it online.
 
 Our system will consist of a free verion and a premium version:
@@ -65,3 +66,34 @@ We will utilise gamification, behavioral psychology, and simple finance-style me
 #### 1.6 Are We Economically Viable? - Value Mapping
 
 Our value mapping (see *Appendix I*) demonstrates that FOCO offers the most affordable, flexible, and engaging screen time solution compared to competitors like *Cold Turkey*, *Opal*, and *Forest*. With features like coin-based time management, ad-based coin earning, and personalized scheduling, FOCO bridges the gap between rigid time-blocking apps and user-driven digital wellness.
+
+### 2. Market Section
+
+#### 2.1 Market Research Goals
+
+To ensure that our product provides users with the most effective productivity service on the market, we first performed extensive research. Our main lines of questioning were as follows:
+
+- Target market and user needs: what demographics make up our target audience and why do these users consume these products?
+- Market size and demand: how many people actively seek screen time control solutions and how will this change into the future?
+- Competitive landscape: what existing apps offer screen time restrictions, and how do they work, how do competitors monetize their apps and what are the strengths and weaknesses of competing products?
+
+#### 2.2 Secondary Research
+
+Target market and user needs:
+
+Our research has shown that the market for productivity and time management apps is expanding, driven by increased smartphone usage and work-from-home trends. Demand for time tracking in both personal and professional contexts indicates potential for subscription-based monetization models. [1]
+
+From analyzing the literature on the subject, we confirmed that most of the target audience would use the system as an intervention rather than as a guide. Based on this, we tailored our app to take into account the relationships of the user with their family and friends. By involving families in the intervention (in a Family Media Plan [2]), the project aimed to create tailored strategies for managing screen time, which can be supported by caregivers modeling healthy behaviors. This approach is essential for fostering long-term changes in media habits among adolescents. Intervening technologies are most effective when paired with support and enforcement of a third-party.
+
+The benefits of the intervention were not just short-term; participants in [3] maintained lower levels of smartphone use and improved well-being for at least six weeks after the intervention ended. Ensuring that the user makes it through the initial few days is the hardest part in the “rehabilitation” timeline, hence it is a part we need to focus on the most in terms of encouraging and motivating the user.
+
+
+### Reference
+
+[1] Nield, D. (2025) *The Best Time Management Apps to tame the chaos*, *Wired*. Available at: https://www.wired.com/story/best-time-management-apps (Accessed: 16 March 2025). 
+
+[2] Persichetti, E. (2020). *Unplugging: An Evidence-Based Project to Reduce Screen Time and Improve Healthy Media Use in the Adolescent Population*. https://doi.org/10.22371/07.2020.024 (Accessed: 16 March 2025). 
+
+[3] Olson, J. A., D, S., Chmoulevitch, D., Raz, A., & Spl, V. (2021). *A ten-step behavioural intervention to reduce screen time and problematic smartphone use*. https://doi.org/10.31234/OSF.IO/TJYNK (Accessed: 16 March 2025).
+
+### Appendices
