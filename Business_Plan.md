@@ -425,7 +425,7 @@ In our first year, we would focus on user growth. In order to gain more users, w
 
 **2nd Year Projections**
 
-For our second year, we would introduce the freemium model. We could also provide some in-app purchases for users to gain insight into their productivity such as an analytics dashboard that could tell a user how much time they spent on unproductive apps in a week and compare it to the previous week. By the end of the year, we hope to have at least 5% of our users on the premium version of our app and hope for at least £1500/month revenue. We still want to maintain user growth so with the revenue, we would invest some of it into partnerships.
+For our second year, we would introduce the freemium model. We could also provide some in-app purchases for users to gain insight into their productivity such as an analytics dashboard that could tell a user how much time they spent on unproductive apps in a week and compare it to the previous week. By the end of the year, we hope to have at least 5% of our users on the premium version of our app and hope for at least £500/month revenue. We still want to maintain user growth so with the revenue, we would invest some of it into partnerships.
 
 **Year 3+ Projections**
 
