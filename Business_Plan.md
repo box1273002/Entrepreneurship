@@ -503,7 +503,7 @@ In order to deal with competition, we will implement unique features that differ
 
 [c] Uni of Bath Student Support [@bathstusupport], 2025. Instagram Post [Online], 21/11/2023. Available from: https://www.instagram.com/bathstusupport/reel/Cz6hbgvtd_n/ [Accessed 16/03/2025]
 
-[d] Whitehall, E., 2020. *How StudyTube is Changing Education* [Online]. United Kingdom: The Indiependant. Available from: https://www.indiependent.co.uk/how-studytube-is-changing-education/ [Accessed 16/03/2025]
+[d] Whitehall, E., 2020. *How StudyTube is Changing Education* [Online]. United Kingdom: The Indiependent. Available from: https://www.indiependent.co.uk/how-studytube-is-changing-education/ [Accessed 16/03/2025]
 
 
 ### Appendices
