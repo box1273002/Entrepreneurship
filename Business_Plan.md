@@ -53,7 +53,7 @@ Our system will consist of a free verion and a premium version:
 
 The app will run on Android.
 
-We will utilise gamification, behavioral psychology, and simple finance-style mechanisms (coins, investments) to create a fun app that helps users break free from digital addiction or casual users who want to be purposeful with their time. 
+We will utilise gamification, behavioral psychology, and simple finance-style mechanisms (coins, investments) to create a fun app that helps users break free from digital addiction or casual users who want to be purposeful with their time. _Our Functional and Non Functional Requirements for our project can be found in the appendix_.
 
 ### 1.5 Selling Points
 There are a number of things that set us apart from the competition. These are our five selling points:
