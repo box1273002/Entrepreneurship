@@ -679,7 +679,7 @@ In order to deal with competition, we will implement unique features that differ
 | Scalability | Support for thousands of concurrent users | $${\color{yellow}\text{SHOULD}}$$ |
 | Usability | Intuitive interface with a fun, gamified design | $${\color{red}\text{MUST}}$$ |
 | Compatibility | we will market as an initial release on Android | $${\color{yellow}\text{SHOULD}}$$ |
-| Accessibility | Ensure the app is usable for users with disabilities | $${\color{green}\text{COULD}}$$ |
+| Accessibility | Ensure the app is usable for users with disabilities | $${\color{lightgreen}\text{COULD}}$$ |
 | Ad Transparency | Clear communication about ad-watching rewards | $${\color{red}\text{MUST}}$$ |
 | Data Privacy | No data collection for premium users | $${\color{yellow}\text{SHOULD}}$$ |
 
