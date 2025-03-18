@@ -158,17 +158,17 @@ Overall, this approach was very informative and achieved its goal of allowing us
 
 **Target market and user needs:**
 
-Our research has shown that the market for productivity and time management apps is expanding, driven by increased smartphone usage and work-from-home trends. Demand for time tracking in both personal and professional contexts indicates potential for subscription-based monetization models [2].
+Our research has shown that the market for productivity and time management apps is expanding, driven by increased smartphone usage and work-from-home trends. Demand for time tracking in both personal and professional contexts indicates potential for subscription-based monetization models [[2]](#ref-2).
 
-From analyzing the literature on the subject, we confirmed that most of the target audience would use the system as an intervention rather than as a guide. Based on this, we tailored our app to take into account the relationships of the user with their family and friends. By involving families in the intervention (in a Family Media Plan [3]), the project aimed to create tailored strategies for managing screen time, which can be supported by caregivers modeling healthy behaviors. This approach is essential for fostering long-term changes in media habits among adolescents. Intervening technologies are most effective when paired with support and enforcement of a third-party.
+From analyzing the literature on the subject, we confirmed that most of the target audience would use the system as an intervention rather than as a guide. Based on this, we tailored our app to take into account the relationships of the user with their family and friends. By involving families in the intervention (in a Family Media Plan [[3]](#ref-3)), the project aimed to create tailored strategies for managing screen time, which can be supported by caregivers modeling healthy behaviors. This approach is essential for fostering long-term changes in media habits among adolescents. Intervening technologies are most effective when paired with support and enforcement of a third-party.
 
-The benefits of the intervention were not just short-term; participants in [4] maintained lower levels of smartphone use and improved well-being for at least six weeks after the intervention ended. Ensuring that the user makes it through the initial few days is the hardest part in the “rehabilitation” timeline, hence it is a part we need to focus on the most in terms of encouraging and motivating the user.
+The benefits of the intervention were not just short-term; participants in [[4]](#ref-4) maintained lower levels of smartphone use and improved well-being for at least six weeks after the intervention ended. Ensuring that the user makes it through the initial few days is the hardest part in the “rehabilitation” timeline, hence it is a part we need to focus on the most in terms of encouraging and motivating the user.
 
 **Market size and demand:**
 
-Screen time management has become crucial due to rising smartphone and computer use, with adults averaging over 6 hours daily and children 3–4 hours [5]. What surprised us when assessing the market demand for this system was just how severe the problem of screen addiction was, especially with children. Increasing amount of time children spend on screens and the associated negative health outcomes, such as poor academic performance and obesity [6].
+Screen time management has become crucial due to rising smartphone and computer use, with adults averaging over 6 hours daily and children 3–4 hours [[5]](#ref-5). What surprised us when assessing the market demand for this system was just how severe the problem of screen addiction was, especially with children. Increasing amount of time children spend on screens and the associated negative health outcomes, such as poor academic performance and obesity [[6]](#ref-6).
 
-From looking at other similar systems, one standout aspects of many successful systems such as App Limit Monitor [7]. Users can tailor their screen time limits according to their personal needs and preferences, making it a flexible solution for different lifestyles. We realized that a  successful app should be highly flexible to allow the user to customize their settings in whatever way they wish (if they feel they cannot achieve their desired settings they may disengage), whilst also being restrictive in the areas it needs to be, the screen time limiter [7, 8].
+From looking at other similar systems, one standout aspects of many successful systems such as App Limit Monitor [[7]](#ref-7). Users can tailor their screen time limits according to their personal needs and preferences, making it a flexible solution for different lifestyles. We realized that a  successful app should be highly flexible to allow the user to customize their settings in whatever way they wish (if they feel they cannot achieve their desired settings they may disengage), whilst also being restrictive in the areas it needs to be, the screen time limiter [[7](#ref-7), [8](#ref-8)].
 
 **Competitive landscape:**
 
@@ -206,7 +206,7 @@ FOCO positions itself primarily in the comprehensive management category, offeri
 <!-- TOC --><a name="251-opal-the-premium-competitor"></a>
 #### 2.5.1 Opal: The Premium Competitor
 
-Opal [9] has established itself as a premium player in the focus app market, with a strong emphasis on deep work and distraction elimination.
+Opal [[9]](#ref-9) has established itself as a premium player in the focus app market, with a strong emphasis on deep work and distraction elimination.
 
 **Strengths**:
 
@@ -228,7 +228,7 @@ FOCO should consider implementing a similarly robust blocking mechanism while ma
 <!-- TOC --><a name="252-forest-the-gamification-pioneer"></a>
 #### 2.5.2 Forest: The Gamification Pioneer
 
-Forest [10] has successfully leveraged environmental impact and visual rewards to create a compelling productivity tool that has garnered significant market attention.
+Forest [[10]](#ref-10) has successfully leveraged environmental impact and visual rewards to create a compelling productivity tool that has garnered significant market attention.
 
 **Strengths**:
 
@@ -251,7 +251,7 @@ FOCO's potential advantage lies in combining Forest's engaging gamification with
 <!-- TOC --><a name="253-cold-turkey-the-hardcore-blocker"></a>
 #### 2.5.3 Cold Turkey: The Hardcore Blocker
 
-Cold Turkey [11] takes a no-nonsense approach to digital distraction, offering some of the most stringent blocking mechanisms available.
+Cold Turkey [[11]](#ref-11) takes a no-nonsense approach to digital distraction, offering some of the most stringent blocking mechanisms available.
 
 **Strengths**:
 
@@ -274,7 +274,7 @@ FOCO should consider how to balance blocking effectiveness with user experience,
 <!-- TOC --><a name="254-jomo-the-widget-innovator"></a>
 #### 2.5.4 Jomo: The Widget Innovator
 
-Jomo [12] has created distinctive value through its widget-based approach and dynamic limits.
+Jomo [[12]](#ref-12) has created distinctive value through its widget-based approach and dynamic limits.
 
 **Strengths**:
 
@@ -556,7 +556,7 @@ In order to get more users to use our app, we will also implement a referral pro
 <!-- TOC --><a name="363-university-and-workplace-partnerships"></a>
 #### 3.6.3 University and Workplace Partnerships
 
-Because our app focuses on productivity, one of our main audiences would be students. Therefore, we would focus on marketing for this audience via university and workplace partnerships. We could start with the University of Bath and market the app via social media platforms, especially via the University’s Instagram page [13] because there are student vloggers who make content that promotes how student life is like at the University of Bath as well as the University’s programmes [14]. However, this does however come with the risk of the app coming across as pushed by the university, contradicting with our core message of take back control. We could also ask content creators that are promoting study content to advertise our app and perhaps, if we get content creators that are very well-known, we could provide a 3-month free premium model if customers sign up with a promotion code. A suitable platform to advertise this on is YouTube because there are study communities on this app such as the “StudyTubing” community [15] and it would be beneficial if content creators could provide demonstrations of the app via long-form content, compared to platforms that mainly provide short-form content such as TikTok.
+Because our app focuses on productivity, one of our main audiences would be students. Therefore, we would focus on marketing for this audience via university and workplace partnerships. We could start with the University of Bath and market the app via social media platforms, especially via the University’s Instagram page [[13]](#ref-13) because there are student vloggers who make content that promotes how student life is like at the University of Bath as well as the University’s programmes [[14]](#ref-14). However, this does however come with the risk of the app coming across as pushed by the university, contradicting with our core message of take back control. We could also ask content creators that are promoting study content to advertise our app and perhaps, if we get content creators that are very well-known, we could provide a 3-month free premium model if customers sign up with a promotion code. A suitable platform to advertise this on is YouTube because there are study communities on this app such as the “StudyTubing” community [[15]](#ref-15) and it would be beneficial if content creators could provide demonstrations of the app via long-form content, compared to platforms that mainly provide short-form content such as TikTok.
 
 <!-- TOC --><a name="364-user-case-studies"></a>
 #### 3.6.4 User Case Studies
