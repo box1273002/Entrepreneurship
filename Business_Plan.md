@@ -132,7 +132,7 @@ There are a number of things that set us apart from the competition. These are o
 <!-- TOC --><a name="16-are-we-economically-viable-value-mapping"></a>
 ### 1.6 Are We Economically Viable? - Value Mapping
 
-Our value mapping (see *Appendix 1*) demonstrates that FOCO offers the most affordable, flexible, and engaging screen time solution compared to competitors like *Cold Turkey*, *Opal*, and *Forest*. With features like coin-based time management, ad-based coin earning, and personalized scheduling, FOCO bridges the gap between rigid time-blocking apps and user-driven digital wellness.
+Our value mapping (see [*Appendix 1*](#appendix-1) demonstrates that FOCO offers the most affordable, flexible, and engaging screen time solution compared to competitors like *Cold Turkey*, *Opal*, and *Forest*. With features like coin-based time management, ad-based coin earning, and personalized scheduling, FOCO bridges the gap between rigid time-blocking apps and user-driven digital wellness.
 
 <!-- TOC --><a name="2-market-section"></a>
 ## 2. Market Section
@@ -149,7 +149,7 @@ To ensure that our product provides users with the most effective productivity s
 <!-- TOC --><a name="22-use-cases-and-storyboarding"></a>
 ### 2.2 Use Cases and Storyboarding
 
-In order to properly consider how we expect our users to interact with our product, we considered a wide breadth of scenarios which our users could run into. We constructed these scenarios as storyboards to allow us to visualize and better consider how we wish to engineer our user-product interaction (see Appendix 2). These scenarios are based on the values we highlighted in our value mapping section.
+In order to properly consider how we expect our users to interact with our product, we considered a wide breadth of scenarios which our users could run into. We constructed these scenarios as storyboards to allow us to visualize and better consider how we wish to engineer our user-product interaction (see [*Appendix 2*](#appendix-2)). These scenarios are based on the values we highlighted in our value mapping section.
 
 Overall, this approach was very informative and achieved its goal of allowing us to consider intricacies of the user’s interaction and more deeply think about how to engineer our system, forcing us to consider a wide range of scenarios. If we discover or come up with more such scenarios, we will certainly add to this growing database.
 
@@ -591,54 +591,55 @@ In order to deal with competition, we will implement unique features that differ
 <!-- TOC --><a name="references"></a>
 ## References
 
-<!-- TOC --><a name="ref-1"></a>
+<!-- LINK --><a name="ref-1"></a>
 [1] Harmony Healthcare IT (2025) Phone screen time statistics. Available at: https://www.harmonyhit.com/phone-screen-time-statistics/ (Accessed: 16 March 2025)
 
-<!-- TOC --><a name="ref-2"></a>
+<!-- LINK --><a name="ref-2"></a>
 [2] Nield, D. (2025) *The Best Time Management Apps to tame the chaos*, *Wired*. Available at: https://www.wired.com/story/best-time-management-apps (Accessed: 16 March 2025). 
 
-<!-- TOC --><a name="ref-3"></a>
+<!-- LINK --><a name="ref-3"></a>
 [3] Persichetti, E. (2020). *Unplugging: An Evidence-Based Project to Reduce Screen Time and Improve Healthy Media Use in the Adolescent Population*. https://doi.org/10.22371/07.2020.024 (Accessed: 16 March 2025). 
 
-<!-- TOC --><a name="ref-4"></a>
+<!-- LINK --><a name="ref-4"></a>
 [4] Olson, J. A., D, S., Chmoulevitch, D., Raz, A., & Spl, V. (2021). *A ten-step behavioural intervention to reduce screen time and problematic smartphone use*. https://doi.org/10.31234/OSF.IO/TJYNK (Accessed: 16 March 2025).
 
-<!-- TOC --><a name="ref-5"></a>
+<!-- LINK --><a name="ref-5"></a>
 [5] Chanda, D. (2025) Mindful Screen Time Management app development like Clarymind, IdeaUsher. Available at: https://ideausher.com/blog/screen-time-management-app-development-like-clarymind (Accessed: 16 March 2025). 
 
-<!-- TOC --><a name="ref-6"></a>
+<!-- LINK --><a name="ref-6"></a>
 [6] Bleckmann, P., Schwendemann, H., Flaig, S., Kuntz, L., Stiller, A., Mößle, T., & Bitzer, E. M. (2019). *MEDIA PROTECT: A setting- and parent-targeted intervention for a healthy childhood in the digital age* (pp. 233–246). Policy Press. https://doi.org/10.56687/9781447344520-018 (Accessed: 16 March 2025). 
 
-<!-- TOC --><a name="ref-7"></a>
+<!-- LINK --><a name="ref-7"></a>
 [7] Agrawal, P. A. (2024). AppLimit Monitor for Smartphone Addiction. *Indian Scientific Journal Of Research In Engineering And Management*. https://doi.org/10.55041/ijsrem29133 (Accessed: 16 March 2025). 
 
-<!-- TOC --><a name="ref-8"></a>
+<!-- LINK --><a name="ref-8"></a>
 [8] Hoof, K. van (2023) *5 best apps for limiting screen time in 2025: Tested*, *SafetyDetectives*. Available at: https://www.safetydetectives.com/blog/best-apps-for-limiting-screen-time (Accessed: 16 March 2025).
 
-<!-- TOC --><a name="ref-9"></a>
+<!-- LINK --><a name="ref-9"></a>
 [9] Opal Corporation (2024). Opal. https://www.opal.so/ (Accessed: 16 March 2025).
 
-<!-- TOC --><a name="ref-10"></a>
+<!-- LINK --><a name="ref-10"></a>
 [10] SeekrTech (2025). Forest: Focus for Productivity. https://www.forestapp.cc/ (Accessed: 16 March 2025).
 
-<!-- TOC --><a name="ref-11"></a>
+<!-- LINK --><a name="ref-11"></a>
 [11] Cold Turkey Software Inc. (2025) Cold Turkey. https://getcoldturkey.com/ (Accessed: 16th March 2025). 
 
-<!-- TOC --><a name="ref-12"></a>
+<!-- LINK --><a name="ref-12"></a>
 [12] Jomo SAS. (2024) Jomo. https://jomo.so/ (Accessed: 16th March 2025) 
 
-<!-- TOC --><a name="ref-13"></a>
+<!-- LINK --><a name="ref-13"></a>
 [13] University of Bath [@uniofbath], 2025. Instagram Page [Online]. Available from: https://www.instagram.com/uniofbath/?hl=en [Accessed 16/03/2025]
 
-<!-- TOC --><a name="ref-14"></a>
+<!-- LINK --><a name="ref-14"></a>
 [14] Uni of Bath Student Support [@bathstusupport], 2025. Instagram Post [Online], 21/11/2023. Available from: https://www.instagram.com/bathstusupport/reel/Cz6hbgvtd_n/ [Accessed 16/03/2025]
 
-<!-- TOC --><a name="ref-15"></a>
+<!-- LINK --><a name="ref-15"></a>
 [15] Whitehall, E., 2020. *How StudyTube is Changing Education* [Online]. United Kingdom: The Indiependent. Available from: https://www.indiependent.co.uk/how-studytube-is-changing-education/ [Accessed 16/03/2025]
 
 
 <!-- TOC --><a name="appendices"></a>
 ## Appendices
+<!-- LINK --><a name="appendix-1"></a>
 ### Appendix 1 - Requirements Specification
 #### **Functional Requirements**
 
@@ -681,6 +682,7 @@ Our Core features have been chosen based on market research and a deep understan
 
 Our non-functional requirements ensure FOCO provides a seamless, enjoyable, and trustworthy experience for users. FOCO cares about its users and prioritises transparency and trust. This is why we guarantee premium users with zero data collection. Unlike competitors we address concerns about data exploitation. Our intuitive gamified interface will make managing screen time enjoyable;  we aren’t a prison, we are guide. FOCO will grow with its user base. Launching on Android, will allow us to refine the app before expanding, as we aim to get it right the first time.
 
+<!-- LINK --><a name="appendix-2"></a>
 ### Appendix 2 - Storyboarding
 
 ### Scenario 1 - “First Use”:
