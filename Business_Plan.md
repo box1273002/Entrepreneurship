@@ -65,18 +65,19 @@
 <!-- TOC --><a name="11-the-problem"></a>
 ### 1.1 The Problem
 
-In today's digital age, screen time dependency has become a widespread issue, with over **53% of Americans** seeking to reduce their phone usage to improve time management, mental health, and focus. However, breaking free from screen addiction is no easy feat — **49% of people** feel addicted to their devices, and **69% of Gen Z** openly acknowledge their phone dependency [1].
+In today's digital age, screen time dependency has become a widespread issue, with approximately **53% of Americans** seeking to reduce their device usage to improve time management, mental health, and productivity. However, moderating digital consumption presents significant challenges — research indicates that **49% of individuals** report device dependency, with **69% of Generation Z** explicitly acknowledging their reliance on mobile devices [1].
 
-Our research also uncovered a critical gap in the market — existing screen time management apps, such as *Opal*, rely on rigid blocking mechanisms that can be inconvenient and demotivating for users.
+Our research has identified a significant limitation in existing solutions — current screen time management applications, such as *Opal*, implement inflexible blocking mechanisms that often prove counterproductive and diminish user engagement.
+
 
 <!-- TOC --><a name="12-motivational-experiences"></a>
 ### 1.2 Motivational Experiences
 
-**Dhru's Story:** Dhru, one of FOCO's dedicated developers, has struggled with balancing his screentime. He tried several apps all of which sufferd from the same problem: inflexiblity, particularly with apps like WhatsApp. When he blocked WhatsApp to stay focused, he found himself unable to use WhatApp when he genuinely need it to commicate. His experience demonstrates the importance of healthy digital habits and was the initial inspiration behind FOCO.
+**Development Team Insights:** During initial research, FOCO developer Dhru encountered significant challenges in managing digital boundaries. Previous attempts with existing applications revealed a consistent limitation: inflexible blocking mechanisms, particularly with essential communication platforms like WhatsApp. The inability to access necessary communications during blocked periods highlighted the need for more nuanced control mechanisms.
 
-**Ptolemy's Story:** A similar problem was encountered by Ptolemy. This time the issue was will Youtube. He found himself spending too much time on the app and went to block it. This however was also too restrictive as it meant he was unable to watch some of university resources which were posting on youtube, again the inflexibility was his key pain point.
+**Academic Impact:** Similarly, team member Ptolemy experienced difficulties with content platform restrictions. While attempting to limit recreational viewing on YouTube, the rigid blocking systems prevented access to essential educational resources, further emphasizing the need for contextual flexibility.
 
-**Similar Experiences:** After this issue was bought to the attention of the team it was identified as a common among them and there social group. This motivated use to create something better.
+**Similar Experiences:** Through extensive team discussions and user research, this limitation emerged as a recurring theme among both developers and potential users. This collective insight motivated the development of FOCO, which implements an adaptive approach to digital wellness. The platform incorporates intelligent filtering mechanisms that allow users to dynamically distinguish between essential and non-essential usage, and so maintain productivity while preserving access to crucial resources and communications.
 
 <!-- TOC --><a name="13-our-solution"></a>
 ### 1.3 Our Solution
