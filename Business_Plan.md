@@ -149,7 +149,7 @@ To ensure that our product provides users with the most effective productivity s
 
 **Target market and user needs:**
 
-Our research has shown that the market for productivity and time management apps is expanding, driven by increased smartphone usage and work-from-home trends. Demand for time tracking in both personal and professional contexts indicates potential for subscription-based monetization models. [2]
+Our research has shown that the market for productivity and time management apps is expanding, driven by increased smartphone usage and work-from-home trends. Demand for time tracking in both personal and professional contexts indicates potential for subscription-based monetization models [2].
 
 From analyzing the literature on the subject, we confirmed that most of the target audience would use the system as an intervention rather than as a guide. Based on this, we tailored our app to take into account the relationships of the user with their family and friends. By involving families in the intervention (in a Family Media Plan [3]), the project aimed to create tailored strategies for managing screen time, which can be supported by caregivers modeling healthy behaviors. This approach is essential for fostering long-term changes in media habits among adolescents. Intervening technologies are most effective when paired with support and enforcement of a third-party.
 
