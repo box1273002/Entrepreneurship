@@ -117,7 +117,7 @@ Our system will consist of a free verion and a premium version:
 
 The app will run on Android.
 
-We will utilise gamification, behavioral psychology, and simple finance-style mechanisms (coins, investments) to create a fun app that helps users break free from digital addiction or casual users who want to be purposeful with their time. _Our Functional and Non Functional Requirements for our project can be found in the appendix_.
+We will utilise gamification, behavioral psychology, and simple finance-style mechanisms (coins, investments) to create a fun app that helps users break free from digital addiction or casual users who want to be purposeful with their time. *Our Functional and Non Functional Requirements for our project can be found in the appendix*.
 
 <!-- TOC --><a name="15-selling-points"></a>
 ### 1.5 Selling Points
@@ -144,7 +144,8 @@ To ensure that our product provides users with the most effective productivity s
 
 - Target market and user needs: what demographics make up our target audience and why do these users consume these products?
 - Market size and demand: how many people actively seek screen time control solutions and how will this change into the future?
-- Competitive landscape: what existing apps offer screen time restrictions, and how do they work, how do competitors monetize their apps and what are the strengths and weaknesses of competing products?
+- Competitive landscape: what existing apps offer screen time restrictions, and how do they work?
+- Monetization: How do competitors monetize their apps and what are the strengths and weaknesses of competing products?
 
 <!-- TOC --><a name="22-use-cases-and-storyboarding"></a>
 ### 2.2 Use Cases and Storyboarding
@@ -160,9 +161,9 @@ Overall, this approach was very informative and achieved its goal of allowing us
 
 Our research has shown that the market for productivity and time management apps is expanding, driven by increased smartphone usage and work-from-home trends. Demand for time tracking in both personal and professional contexts indicates potential for subscription-based monetization models [[2]](#ref-2).
 
-From analyzing the literature on the subject, we confirmed that most of the target audience would use the system as an intervention rather than as a guide. Based on this, we tailored our app to take into account the relationships of the user with their family and friends. By involving families in the intervention (in a Family Media Plan [[3]](#ref-3)), the project aimed to create tailored strategies for managing screen time, which can be supported by caregivers modeling healthy behaviors. This approach is essential for fostering long-term changes in media habits among adolescents. Intervening technologies are most effective when paired with support and enforcement of a third-party.
+From analyzing the literature on the subject, we confirmed that most of the target audience would use the system as an intervention rather than as a guide. Based on this, we tailored our app to take into account the relationships of the user with their family and friends. By involving families in the intervention in a Family Media Plan, the project aimed to create tailored strategies for managing screen time, which can be supported by caregivers modeling healthy behaviors. This approach is essential for fostering long-term changes in media habits among adolescents. Intervening technologies are most effective when paired with support and enforcement of a third-party [[3]](#ref-3).
 
-The benefits of the intervention were not just short-term; participants in [[4]](#ref-4) maintained lower levels of smartphone use and improved well-being for at least six weeks after the intervention ended. Ensuring that the user makes it through the initial few days is the hardest part in the “rehabilitation” timeline, hence it is a part we need to focus on the most in terms of encouraging and motivating the user.
+The benefits of the intervention were not just short-term; participants in a study by Olsen et al. (2021) [[4]](#ref-4) maintained lower levels of smartphone use and improved well-being for at least six weeks after the intervention ended. Ensuring that the user makes it through the initial few days is the hardest part in the “rehabilitation” timeline, hence it is a part we need to focus on the most in terms of encouraging and motivating the user.
 
 **Market size and demand:**
 
