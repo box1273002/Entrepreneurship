@@ -82,17 +82,17 @@ To ensure that our product provides users with the most effective productivity s
 
 **Target market and user needs:**
 
-Our research has shown that the market for productivity and time management apps is expanding, driven by increased smartphone usage and work-from-home trends. Demand for time tracking in both personal and professional contexts indicates potential for subscription-based monetization models. [1]
+Our research has shown that the market for productivity and time management apps is expanding, driven by increased smartphone usage and work-from-home trends. Demand for time tracking in both personal and professional contexts indicates potential for subscription-based monetization models. [2]
 
-From analyzing the literature on the subject, we confirmed that most of the target audience would use the system as an intervention rather than as a guide. Based on this, we tailored our app to take into account the relationships of the user with their family and friends. By involving families in the intervention (in a Family Media Plan [2]), the project aimed to create tailored strategies for managing screen time, which can be supported by caregivers modeling healthy behaviors. This approach is essential for fostering long-term changes in media habits among adolescents. Intervening technologies are most effective when paired with support and enforcement of a third-party.
+From analyzing the literature on the subject, we confirmed that most of the target audience would use the system as an intervention rather than as a guide. Based on this, we tailored our app to take into account the relationships of the user with their family and friends. By involving families in the intervention (in a Family Media Plan [3]), the project aimed to create tailored strategies for managing screen time, which can be supported by caregivers modeling healthy behaviors. This approach is essential for fostering long-term changes in media habits among adolescents. Intervening technologies are most effective when paired with support and enforcement of a third-party.
 
-The benefits of the intervention were not just short-term; participants in [3] maintained lower levels of smartphone use and improved well-being for at least six weeks after the intervention ended. Ensuring that the user makes it through the initial few days is the hardest part in the “rehabilitation” timeline, hence it is a part we need to focus on the most in terms of encouraging and motivating the user.
+The benefits of the intervention were not just short-term; participants in [4] maintained lower levels of smartphone use and improved well-being for at least six weeks after the intervention ended. Ensuring that the user makes it through the initial few days is the hardest part in the “rehabilitation” timeline, hence it is a part we need to focus on the most in terms of encouraging and motivating the user.
 
 **Market size and demand:**
 
-Screen time management has become crucial due to rising smartphone and computer use, with adults averaging over 6 hours daily and children 3–4 hours [4]. What surprised us when assessing the market demand for this system was just how severe the problem of screen addiction was, especially with children. Increasing amount of time children spend on screens and the associated negative health outcomes, such as poor academic performance and obesity [5].
+Screen time management has become crucial due to rising smartphone and computer use, with adults averaging over 6 hours daily and children 3–4 hours [5]. What surprised us when assessing the market demand for this system was just how severe the problem of screen addiction was, especially with children. Increasing amount of time children spend on screens and the associated negative health outcomes, such as poor academic performance and obesity [6].
 
-From looking at other similar systems, one standout aspects of many successful systems such as App Limit Monitor [6]. Users can tailor their screen time limits according to their personal needs and preferences, making it a flexible solution for different lifestyles. We realized that a  successful app should be highly flexible to allow the user to customize their settings in whatever way they wish (if they feel they cannot achieve their desired settings they may disengage), whilst also being restrictive in the areas it needs to be, the screen time limiter [6, 7].
+From looking at other similar systems, one standout aspects of many successful systems such as App Limit Monitor [7]. Users can tailor their screen time limits according to their personal needs and preferences, making it a flexible solution for different lifestyles. We realized that a  successful app should be highly flexible to allow the user to customize their settings in whatever way they wish (if they feel they cannot achieve their desired settings they may disengage), whilst also being restrictive in the areas it needs to be, the screen time limiter [7, 8].
 
 **Competitive landscape:**
 
@@ -127,7 +127,7 @@ FOCO positions itself primarily in the comprehensive management category, offeri
 
 #### 2.4.1 Opal: The Premium Competitor
 
-Opal [8] has established itself as a premium player in the focus app market, with a strong emphasis on deep work and distraction elimination.
+Opal [9] has established itself as a premium player in the focus app market, with a strong emphasis on deep work and distraction elimination.
 
 **Strengths**:
 
@@ -148,7 +148,7 @@ FOCO should consider implementing a similarly robust blocking mechanism while ma
 
 #### 2.4.2 Forest: The Gamification Pioneer
 
-Forest [9] has successfully leveraged environmental impact and visual rewards to create a compelling productivity tool that has garnered significant market attention.
+Forest [10] has successfully leveraged environmental impact and visual rewards to create a compelling productivity tool that has garnered significant market attention.
 
 **Strengths**:
 
@@ -170,7 +170,7 @@ FOCO's potential advantage lies in combining Forest's engaging gamification with
 
 #### 2.4.3 Cold Turkey: The Hardcore Blocker
 
-Cold Turkey [10] takes a no-nonsense approach to digital distraction, offering some of the most stringent blocking mechanisms available.
+Cold Turkey [11] takes a no-nonsense approach to digital distraction, offering some of the most stringent blocking mechanisms available.
 
 **Strengths**:
 
@@ -192,7 +192,7 @@ FOCO should consider how to balance blocking effectiveness with user experience,
 
 #### 2.4.4 Jomo: The Widget Innovator
 
-Jomo [11] has created distinctive value through its widget-based approach and dynamic limits.
+Jomo [12] has created distinctive value through its widget-based approach and dynamic limits.
 
 **Strengths**:
 
@@ -447,7 +447,7 @@ In order to get more users to use our app, we will also implement a referral pro
 
 #### 3.6.3 University and Workplace Partnerships
 
-Because our app focuses on productivity, one of our main audiences would be students. Therefore, we would focus on marketing for this audience via university and workplace partnerships. We could start with the University of Bath and market the app via social media platforms, especially via the University’s Instagram page [b] because there are student vloggers who make content that promotes how student life is like at the University of Bath as well as the University’s programmes [c]. However, this does however come with the risk of the app coming across as pushed by the university, contradicting with our core message of take back control. We could also ask content creators that are promoting study content to advertise our app and perhaps, if we get content creators that are very well-known, we could provide a 3-month free premium model if customers sign up with a promotion code. A suitable platform to advertise this on is YouTube because there are study communities on this app such as the “StudyTubing” community [d] and it would be beneficial if content creators could provide demonstrations of the app via long-form content, compared to platforms that mainly provide short-form content such as TikTok.
+Because our app focuses on productivity, one of our main audiences would be students. Therefore, we would focus on marketing for this audience via university and workplace partnerships. We could start with the University of Bath and market the app via social media platforms, especially via the University’s Instagram page [13] because there are student vloggers who make content that promotes how student life is like at the University of Bath as well as the University’s programmes [14]. However, this does however come with the risk of the app coming across as pushed by the university, contradicting with our core message of take back control. We could also ask content creators that are promoting study content to advertise our app and perhaps, if we get content creators that are very well-known, we could provide a 3-month free premium model if customers sign up with a promotion code. A suitable platform to advertise this on is YouTube because there are study communities on this app such as the “StudyTubing” community [15] and it would be beneficial if content creators could provide demonstrations of the app via long-form content, compared to platforms that mainly provide short-form content such as TikTok.
 
 #### 3.6.4 User Case Studies
 
@@ -475,35 +475,35 @@ In order to deal with competition, we will implement unique features that differ
 
 ## Reference
 
-[1] Nield, D. (2025) *The Best Time Management Apps to tame the chaos*, *Wired*. Available at: https://www.wired.com/story/best-time-management-apps (Accessed: 16 March 2025). 
+[1] Harmony Healthcare IT (2025) Phone screen time statistics. Available at: https://www.harmonyhit.com/phone-screen-time-statistics/ (Accessed: 16 March 2025)
 
-[2] Persichetti, E. (2020). *Unplugging: An Evidence-Based Project to Reduce Screen Time and Improve Healthy Media Use in the Adolescent Population*. https://doi.org/10.22371/07.2020.024 (Accessed: 16 March 2025). 
+[2] Nield, D. (2025) *The Best Time Management Apps to tame the chaos*, *Wired*. Available at: https://www.wired.com/story/best-time-management-apps (Accessed: 16 March 2025). 
 
-[3] Olson, J. A., D, S., Chmoulevitch, D., Raz, A., & Spl, V. (2021). *A ten-step behavioural intervention to reduce screen time and problematic smartphone use*. https://doi.org/10.31234/OSF.IO/TJYNK (Accessed: 16 March 2025).
+[3] Persichetti, E. (2020). *Unplugging: An Evidence-Based Project to Reduce Screen Time and Improve Healthy Media Use in the Adolescent Population*. https://doi.org/10.22371/07.2020.024 (Accessed: 16 March 2025). 
 
-[4] Chanda, D. (2025) Mindful Screen Time Management app development like Clarymind, IdeaUsher. Available at: https://ideausher.com/blog/screen-time-management-app-development-like-clarymind (Accessed: 16 March 2025). 
+[4] Olson, J. A., D, S., Chmoulevitch, D., Raz, A., & Spl, V. (2021). *A ten-step behavioural intervention to reduce screen time and problematic smartphone use*. https://doi.org/10.31234/OSF.IO/TJYNK (Accessed: 16 March 2025).
 
-[5] Bleckmann, P., Schwendemann, H., Flaig, S., Kuntz, L., Stiller, A., Mößle, T., & Bitzer, E. M. (2019). *MEDIA PROTECT: A setting- and parent-targeted intervention for a healthy childhood in the digital age* (pp. 233–246). Policy Press. https://doi.org/10.56687/9781447344520-018 (Accessed: 16 March 2025). 
+[5] Chanda, D. (2025) Mindful Screen Time Management app development like Clarymind, IdeaUsher. Available at: https://ideausher.com/blog/screen-time-management-app-development-like-clarymind (Accessed: 16 March 2025). 
 
-[6] Agrawal, P. A. (2024). AppLimit Monitor for Smartphone Addiction. *Indian Scientific Journal Of Research In Engineering And Management*. https://doi.org/10.55041/ijsrem29133 (Accessed: 16 March 2025). 
+[6] Bleckmann, P., Schwendemann, H., Flaig, S., Kuntz, L., Stiller, A., Mößle, T., & Bitzer, E. M. (2019). *MEDIA PROTECT: A setting- and parent-targeted intervention for a healthy childhood in the digital age* (pp. 233–246). Policy Press. https://doi.org/10.56687/9781447344520-018 (Accessed: 16 March 2025). 
 
-[7] Hoof, K. van (2023) *5 best apps for limiting screen time in 2025: Tested*, *SafetyDetectives*. Available at: https://www.safetydetectives.com/blog/best-apps-for-limiting-screen-time (Accessed: 16 March 2025).
+[7] Agrawal, P. A. (2024). AppLimit Monitor for Smartphone Addiction. *Indian Scientific Journal Of Research In Engineering And Management*. https://doi.org/10.55041/ijsrem29133 (Accessed: 16 March 2025). 
 
-[8] Opal Corporation (2024). Opal. https://www.opal.so/ (Accessed: 16 March 2025).
+[8] Hoof, K. van (2023) *5 best apps for limiting screen time in 2025: Tested*, *SafetyDetectives*. Available at: https://www.safetydetectives.com/blog/best-apps-for-limiting-screen-time (Accessed: 16 March 2025).
 
-[9] SeekrTech (2025). Forest: Focus for Productivity. https://www.forestapp.cc/ (Accessed: 16 March 2025).
+[9] Opal Corporation (2024). Opal. https://www.opal.so/ (Accessed: 16 March 2025).
 
-[10] Cold Turkey Software Inc. (2025) Cold Turkey. https://getcoldturkey.com/ (Accessed: 16th March 2025). 
+[10] SeekrTech (2025). Forest: Focus for Productivity. https://www.forestapp.cc/ (Accessed: 16 March 2025).
 
-[11] Jomo SAS. (2024) Jomo. https://jomo.so/ (Accessed: 16th March 2025) 
+[11] Cold Turkey Software Inc. (2025) Cold Turkey. https://getcoldturkey.com/ (Accessed: 16th March 2025). 
 
-[a] Harmony Healthcare IT (2025) Phone screen time statistics. Available at: https://www.harmonyhit.com/phone-screen-time-statistics/ (Accessed: 16 March 2025)
+[12] Jomo SAS. (2024) Jomo. https://jomo.so/ (Accessed: 16th March 2025) 
 
-[b] University of Bath [@uniofbath], 2025. Instagram Page [Online]. Available from: https://www.instagram.com/uniofbath/?hl=en [Accessed 16/03/2025]
+[13] University of Bath [@uniofbath], 2025. Instagram Page [Online]. Available from: https://www.instagram.com/uniofbath/?hl=en [Accessed 16/03/2025]
 
-[c] Uni of Bath Student Support [@bathstusupport], 2025. Instagram Post [Online], 21/11/2023. Available from: https://www.instagram.com/bathstusupport/reel/Cz6hbgvtd_n/ [Accessed 16/03/2025]
+[14] Uni of Bath Student Support [@bathstusupport], 2025. Instagram Post [Online], 21/11/2023. Available from: https://www.instagram.com/bathstusupport/reel/Cz6hbgvtd_n/ [Accessed 16/03/2025]
 
-[d] Whitehall, E., 2020. *How StudyTube is Changing Education* [Online]. United Kingdom: The Indiependent. Available from: https://www.indiependent.co.uk/how-studytube-is-changing-education/ [Accessed 16/03/2025]
+[15] Whitehall, E., 2020. *How StudyTube is Changing Education* [Online]. United Kingdom: The Indiependent. Available from: https://www.indiependent.co.uk/how-studytube-is-changing-education/ [Accessed 16/03/2025]
 
 
 ### Appendices
