@@ -692,7 +692,7 @@ Our Core features have been chosen based on market research and a deep understan
 
 **Non-Functional Requirements:**
 
-Our non-functional requirements ensure FOCO provides a seamless, enjoyable, and trustworthy experience for users. FOCO cares about its users and prioritises transparency and trust. This is why we guarantee premium users with zero data collection. Unlike competitors we address concerns about data exploitation. Our intuitive gamified interface will make managing screen time enjoyable;  we aren’t a prison, we are guide. FOCO will grow with its user base. Launching on Android, will allow us to refine the app before expanding, as we aim to get it right the first time.
+Our non-functional requirements ensure FOCO provides a seamless, enjoyable, and trustworthy experience for users. FOCO cares about its users and prioritises transparency and trust. This is why we guarantee premium users with zero data collection. Unlike competitors we address concerns about data exploitation. Our intuitive gamified interface will make managing screen time enjoyable; we aren’t a prison, we are guide. FOCO will grow with its user base. Launching on Android, will allow us to refine the app before expanding, as we aim to get it right the first time.
 
 <!-- LINK --><a name="appendix-2"></a>
 ### Appendix 2 - Storyboarding
@@ -700,7 +700,7 @@ Our non-functional requirements ensure FOCO provides a seamless, enjoyable, and 
 ### Scenario 1 - “First Use”:
 
 1. **Unhappy User -** User is unhappy with their self-control and notices that they want to be more productive.
-2. **Installing FOCO -** User goes to the Apple or Google Play Store to install FOCO.
+2. **Installing FOCO -** User goes to the Google Play Store (or in future Apple app store) to install FOCO.
 3. **Account Creation -** User creates an account.
 4. **Credits Page -** User is then directed to the credits page, where they can adjust how their apps would lose/gain credits that they can use.
 5. **Configuring Credits Settings -** User configures credit settings.
@@ -710,7 +710,7 @@ Our non-functional requirements ensure FOCO provides a seamless, enjoyable, and 
 
 Evaluation:
 
-S1 revealed the lack of a tangible goal for the user to set when first setting up the app. Considered possible premium feature of lowering credits over time and setting a goal for this within some duration of time.
+Scenario 1 revealed the lack of a tangible goal for the user to set when first setting up the app. Considered possible premium feature of lowering credits over time and setting a goal for this within some duration of time.
 
 ### Scenario 2 - “Default Use”:
 
@@ -728,9 +728,9 @@ S1 revealed the lack of a tangible goal for the user to set when first setting u
 12. **Productivity Increase -** User notices their productivity has increased and is happy.
 
 Evaluation:
-Originally, we thought it may be possible for FOCO to decide which apps are productive and which aren’t on its own. But S2 made us realize that this is impractical and so we decided to instead place that in the control of the user. Despite the fact that the user may misuse this trust to class reductive apps as productive, we believe that this is the fault of the user rather than the app design; if the user is not willing to properly engage even in this very initial stage, not much can be done on our part to compensate for that.
+Originally, we thought it may be possible for FOCO to decide which apps are productive and which aren’t on its own. But Scenario 2 made us realize that this is impractical and so we decided to instead place that in the control of the user. Despite the fact that the user may misuse this trust to class reductive apps as productive, we believe that this is the fault of the user rather than the app design; if the user is not willing to properly engage in this, then that is their choice. the target demographic of this app however, are users who would want to work towards their mental wellbeing, and so we feel confident that they will choose which apps work best for them.
 
-S2 also made us consider the possibility of a user either not understanding the credits system or wildly over/underestimating how harsh the system is. As a result, we considered implementing a “grace period” of 24 hours from when the settings are first set to allow the user to change them as they wish so that they can adjust the app to the correct difficulty.
+Scenario 2 also made us consider the possibility of a user either not understanding the credits system or wildly over/underestimating how harsh the system is. As a result, we considered implementing a “grace period” of 24 hours from when the settings are first set to allow the user to change them as they wish so that they can adjust the app to the correct difficulty.
 
 ### Scenario 3 - “Correction Use”:
 
@@ -744,7 +744,7 @@ S2 also made us consider the possibility of a user either not understanding the 
 
 Evaluation:
 
-S3 raised a number of questions pertaining how exactly we should implement the “long task” in a way that is so tedious that a relapsing user would rather do something productive than perform it, but not so difficult that a user with genuine intentions is unfairly constrained. In the end, we decided that the simplest options, like typing 500 disjointed characters would fit these two properties best. However, to further promote the idea of fairness within our system, we decided to allow the user to pick out of one of three tedious tasks they would rather perform if they ever make a mistake and need to adjust their credit settings.
+Scenario 3 raised a number of questions pertaining how exactly we should implement the “long task” in a way that is so tedious that a relapsing user would rather do something productive than perform it, but not so difficult that a user with genuine intentions is unfairly constrained. In the end, we decided that the simplest options, like typing 500 disjointed characters would fit these two properties best. However, to further promote the idea of fairness within our system, we decided to allow the user to pick out of one of three tedious tasks they would rather perform if they ever make a mistake and need to adjust their credit settings.
 
 ### Scenario 4 - “Premium Use”:
 
@@ -759,6 +759,6 @@ S3 raised a number of questions pertaining how exactly we should implement the �
 
 Evaluation:
 
-Storyboarding lead us to consider how to properly monetize our product. We had considered a premium feature but did not initially know what functionality to give it. Based on our value mapping, we identified the demographic that would be most willing to buy the premium as young people of arbitrary gender who are most determined to take control of their productivity. As a result, we decided to build our premium version to reflect that by providing very much increased flexibility to the apps features. This involves the weekly schedule from S4 and the possibility of a user goal in S1.
+Storyboarding lead us to consider how to properly monetize our product. We had considered a premium feature but did not initially know what functionality to give it. Based on our value mapping, we identified the demographic that would be most willing to buy the premium as young people of arbitrary gender who are most determined to take control of their productivity. As a result, we decided to build our premium version to reflect that by providing very much increased flexibility to the apps features. This involves the weekly schedule from S4 and the possibility of a user goal in Scenario 1.
 
 Given that most of our target audience are young (possibly career driven) people, we safely assume that they will be comfortable operating a more flexible interface and that this will not be a detriment like in alternate products. Special care was noted when increasing flexibility to align this with directly helping improve productivity, without undermining the restrictions of the app that are the main selling point.
