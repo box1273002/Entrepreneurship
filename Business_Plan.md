@@ -12,17 +12,18 @@
    * [1.6 Are We Economically Viable? - Value Mapping](#16-are-we-economically-viable-value-mapping)
 - [2. Market Section](#2-market-section)
    * [2.1 Market Research Goals](#21-market-research-goals)
-   * [2.2 Secondary Research](#22-secondary-research)
-   * [2.3 Primary Research and Consulting](#23-primary-research-and-consulting)
-   * [2.4 Main Competitors](#24-main-competitors)
-      + [2.4.1 Opal: The Premium Competitor](#241-opal-the-premium-competitor)
-      + [2.4.2 Forest: The Gamification Pioneer](#242-forest-the-gamification-pioneer)
-      + [2.4.3 Cold Turkey: The Hardcore Blocker](#243-cold-turkey-the-hardcore-blocker)
-      + [2.4.4 Jomo: The Widget Innovator](#244-jomo-the-widget-innovator)
-   * [2.5 Competitive Analysis](#25-competitive-analysis)
-      + [2.5.1 Key Market Advantages](#251-key-market-advantages)
-      + [2.5.2 Primary Challenges and Risks](#252-primary-challenges-and-risks)
-   * [2.6 Assumptions and Risk Assessment](#26-assumptions-and-risk-assessment)
+   * [2.2 Use Cases and Storyboarding](#22-use-cases-and-storyboarding)
+   * [2.3 Secondary Research](#23-secondary-research)
+   * [2.4 Primary Research and Consulting](#24-primary-research-and-consulting)
+   * [2.5 Main Competitors](#25-main-competitors)
+      + [2.5.1 Opal: The Premium Competitor](#251-opal-the-premium-competitor)
+      + [2.5.2 Forest: The Gamification Pioneer](#252-forest-the-gamification-pioneer)
+      + [2.5.3 Cold Turkey: The Hardcore Blocker](#253-cold-turkey-the-hardcore-blocker)
+      + [2.5.4 Jomo: The Widget Innovator](#254-jomo-the-widget-innovator)
+   * [2.6 Competitive Analysis](#26-competitive-analysis)
+      + [2.6.1 Key Market Advantages](#261-key-market-advantages)
+      + [2.6.2 Primary Challenges and Risks](#262-primary-challenges-and-risks)
+   * [2.7 Assumptions and Risk Assessment](#27-assumptions-and-risk-assessment)
 - [3 Strategy Section](#3-strategy-section)
    * [3.1 Priority Road Map](#31-priority-road-map)
       + [3.1.1 Short Term Priorities (0-6 months)](#311-short-term-priorities-0-6-months)
@@ -144,13 +145,14 @@ To ensure that our product provides users with the most effective productivity s
 - Market size and demand: how many people actively seek screen time control solutions and how will this change into the future?
 - Competitive landscape: what existing apps offer screen time restrictions, and how do they work, how do competitors monetize their apps and what are the strengths and weaknesses of competing products?
 
+<!-- TOC --><a name="22-use-cases-and-storyboarding"></a>
 ### 2.2 Use Cases and Storyboarding
 
 In order to properly consider how we expect our users to interact with our product, we considered a wide breadth of scenarios which our users could run into. We constructed these scenarios as storyboards to allow us to visualize and better consider how we wish to engineer our user-product interaction (see Appendix 2). These scenarios are based on the values we highlighted in our value mapping section.
 
 Overall, this approach was very informative and achieved its goal of allowing us to consider intricacies of the user’s interaction and more deeply think about how to engineer our system, forcing us to consider a wide range of scenarios. If we discover or come up with more such scenarios, we will certainly add to this growing database.
 
-<!-- TOC --><a name="22-secondary-research"></a>
+<!-- TOC --><a name="23-secondary-research"></a>
 ### 2.3 Secondary Research
 
 **Target market and user needs:**
@@ -178,7 +180,7 @@ Despite several competitors, our data shows that the market is yet to be fully s
 
 In terms of business models, most competitors opt for a subscription model to maintain a constant income. Clarymind [4] for example operates on a subscription model (Monthly: $14.99 | 6-Month: $49.99 | Yearly: $62.99 | Pro: $34.99), estimated to generate ~$2M annually with 100,000+ active users.
 
-<!-- TOC --><a name="23-primary-research-and-consulting"></a>
+<!-- TOC --><a name="24-primary-research-and-consulting"></a>
 ### 2.4 Primary Research and Consulting
 
 To validate our findings from our secondary research, we decided it would be most productive for our business to conduct our own primary research. First, we tried to determine how to monetize the product in a way that is most compatible with the users. Out of all of the participants, 80% people would prefer sharing their data rather than watching ads, and 60% of participants would be willing to pay up to £3 to remove ads. For the premium version, roughly half would pay £1.00 per month / £ 10.00 per year / £25.00 lifetime (the other half were not interested in premium). Surprisingly, out of monthly, yearly and lifetime subscription models, participants were completely mixed, with an even split each. 
@@ -186,7 +188,7 @@ To validate our findings from our secondary research, we decided it would be mos
 We also asked our participants for more general feedback. Participants suggested as premium features: graphing the amount of time spent on each app, allowing cashing in unused coins and buying cosmetic features. In additional comments, participants stated that the user should not be allowed to game the system, such as by leaving productive apps open and not doing anything in the.
 This survey was excellent at getting a direct insider view into the opinions of the target audience and was greatly influential in how we shaped our product.
 
-<!-- TOC --><a name="24-main-competitors"></a>
+<!-- TOC --><a name="25-main-competitors"></a>
 ### 2.5 Main Competitors
 
 The screen time management app market has experienced significant growth in recent years, driven by increasing awareness of digital wellbeing and the negative impacts of excessive screen time. According to recent studies, the average American spends approximately 7 hours per day on digital devices, with smartphone usage accounting for a significant portion of this time. This has created a substantial market opportunity for applications that help users manage and reduce their screen time.
@@ -200,7 +202,7 @@ The market can be segmented into several categories:
 
 FOCO positions itself primarily in the comprehensive management category, offering a blend of monitoring, blocking, and behavioral modification through its unique coin system. This approach allows it to appeal to a broad audience while differentiating itself from competitors.
 
-<!-- TOC --><a name="241-opal-the-premium-competitor"></a>
+<!-- TOC --><a name="251-opal-the-premium-competitor"></a>
 #### 2.5.1 Opal: The Premium Competitor
 
 Opal [9] has established itself as a premium player in the focus app market, with a strong emphasis on deep work and distraction elimination.
@@ -222,7 +224,7 @@ Opal's premium positioning and relatively high price point ($8.29/month) create 
 
 FOCO should consider implementing a similarly robust blocking mechanism while maintaining its price advantage and expanding its customization options. The significant price differential ($7/month) could be a compelling driver for users to choose FOCO over Opal if the core blocking functionality is comparable.
 
-<!-- TOC --><a name="242-forest-the-gamification-pioneer"></a>
+<!-- TOC --><a name="252-forest-the-gamification-pioneer"></a>
 #### 2.5.2 Forest: The Gamification Pioneer
 
 Forest [10] has successfully leveraged environmental impact and visual rewards to create a compelling productivity tool that has garnered significant market attention.
@@ -245,7 +247,7 @@ Forest's success demonstrates the power of gamification in the screen time manag
 
 FOCO's potential advantage lies in combining Forest's engaging gamification with more robust blocking mechanisms and detailed analytics. By providing users with both the emotional rewards of gamification and the practical tools for enforcing discipline, FOCO could position itself as an evolution beyond Forest's approach.
 
-<!-- TOC --><a name="243-cold-turkey-the-hardcore-blocker"></a>
+<!-- TOC --><a name="253-cold-turkey-the-hardcore-blocker"></a>
 #### 2.5.3 Cold Turkey: The Hardcore Blocker
 
 Cold Turkey [11] takes a no-nonsense approach to digital distraction, offering some of the most stringent blocking mechanisms available.
@@ -268,7 +270,7 @@ Cold Turkey's focus on desktop platforms creates a significant opportunity for F
 
 FOCO should consider how to balance blocking effectiveness with user experience, perhaps offering tiered levels of restriction that allow users to gradually increase blocking severity as they build discipline. The subscription model versus one-time purchase difference represents a strategic choice, with FOCO betting on long-term recurring revenue over upfront payments.
 
-<!-- TOC --><a name="244-jomo-the-widget-innovator"></a>
+<!-- TOC --><a name="254-jomo-the-widget-innovator"></a>
 #### 2.5.4 Jomo: The Widget Innovator
 
 Jomo [12] has created distinctive value through its widget-based approach and dynamic limits.
@@ -290,7 +292,7 @@ Jomo's widget-based approach represents an opportunity for FOCO to enhance its a
 
 The lack of cross-device synchronization in Jomo highlights an opportunity for FOCO to implement robust cross-platform functionality, ensuring a seamless experience across all of a user's devices. Additionally, FOCO's coin system could be extended to the widget interface, bringing gamification elements to the home screen in a way that Jomo has not accomplished.
 
-<!-- TOC --><a name="25-competitive-analysis"></a>
+<!-- TOC --><a name="26-competitive-analysis"></a>
 ### 2.6 Competitive Analysis
 
 Based on an analyiss of our competitors, FOCO occupies a promising position in the screen time management market by combining elements that have proven successful across multiple competitors:
@@ -303,7 +305,7 @@ Based on an analyiss of our competitors, FOCO occupies a promising position in t
 
 This combined approach addresses multiple user needs within a single platform, potentially eliminating the need for users to employ multiple applications for different aspects of screen time management.
 
-<!-- TOC --><a name="251-key-market-advantages"></a>
+<!-- TOC --><a name="261-key-market-advantages"></a>
 #### 2.6.1 Key Market Advantages
 
 FOCO's most significant advantages in the current market include:
@@ -314,7 +316,7 @@ FOCO's most significant advantages in the current market include:
 4. **Customization Depth**: The extensive personalization options provide users with a sense of ownership and identity within the app ecosystem.
 5. **Mission-Driven Positioning**: The emphasis on accessibility and wellbeing over profit maximization can create stronger brand loyalty and word-of-mouth marketing.
 
-<!-- TOC --><a name="252-primary-challenges-and-risks"></a>
+<!-- TOC --><a name="262-primary-challenges-and-risks"></a>
 #### 2.6.2 Primary Challenges and Risks
 
 Despite its advantages, FOCO faces several significant challenges that could impact its success:
@@ -326,7 +328,7 @@ Despite its advantages, FOCO faces several significant challenges that could imp
 5. **Low Price Sustainability**: The £1 price point, while attractive to users, may create challenges in funding ongoing development and marketing efforts, particularly in a competitive user acquisition environment. Given our study however, it seems that this is a price that would allow us to access a much wider user base who might not otherwise be interested in these apps: as our main cost would be development, this would mean that we can scale up at no additional cost. We should therefore be able to obtain a much larger user base than any of the pre existing apps, and use this large scale to make up for the low revenue per user.
 6. **Behavioral Change Complexity**: Successfully changing deeply ingrained digital habits requires more than just technical tools—it requires behavioral science expertise that may be challenging to implement effectively.
 
-<!-- TOC --><a name="26-assumptions-and-risk-assessment"></a>
+<!-- TOC --><a name="27-assumptions-and-risk-assessment"></a>
 ### 2.7 Assumptions and Risk Assessment
 
 FOCO's business model rests on several key assumptions that should be critically evaluated:
