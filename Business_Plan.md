@@ -669,68 +669,66 @@ Our non-functional requirements ensure FOCO provides a seamless, enjoyable, and 
 
 ### Scenario 1 - “First Use”:
 
-- **Unhappy User -** User is unhappy with their self-control and notices that they want to be more productive.
-- **Installing FOCO -** User goes to the Apple or Google Play Store to install FOCO.
-- **Account Creation -** User creates an account.
-- **Credits Page -** User is then directed to the credits page, where they can adjust how their apps would lose/gain credits that they can use.
-- **Configuring Credits Settings -** User configures credit settings.
-- **User Locked -** User is then locked from changing these settings for 7 days.
-- **Starting FOCO -** User starts with 100 credits.
-- **Viewing Credits -** User can see how many credits they have via the home page of the app.
+1. **Unhappy User -** User is unhappy with their self-control and notices that they want to be more productive.
+2. **Installing FOCO -** User goes to the Apple or Google Play Store to install FOCO.
+3. **Account Creation -** User creates an account.
+4. **Credits Page -** User is then directed to the credits page, where they can adjust how their apps would lose/gain credits that they can use.
+5. **Configuring Credits Settings -** User configures credit settings.
+6. **User Locked -** User is then locked from changing these settings for 7 days.
+7. **Starting FOCO -** User starts with 100 credits.
+8. **Viewing Credits -** User can see how many credits they have via the home page of the app.
 
 Evaluation:
 
-- S1 revealed the lack of a tangible goal for the user to set when first setting up the app. Considered possible premium feature of lowering credits over time and setting a goal for this within some duration of time.
+S1 revealed the lack of a tangible goal for the user to set when first setting up the app. Considered possible premium feature of lowering credits over time and setting a goal for this within some duration of time.
 
 ### Scenario 2 - “Default Use”:
 
-- **User Opens FOCO -** User opens app to configure their credit settings.
-- **Configuring Credit Settings -** Users adjusts settings via the credits page.
-- **Productive Apps -** Positive credits on specific apps allow credits to be gained as these apps are deemed productive.
-- **Reductive Apps -** Negative credits on specific apps allow users to spend credits as these apps are deemed reductive.
-- **User Locked -** User is locked from changing the credits for 7 days once they have generated settings for each app.
-- **Using FOCO -** The user starts with 100 credits.
-- **Gaining Credits -** User opens up DuoLingo for 1hr and gains 50 credits.
-- **Losing Credits -** User then opens TikTok for 1hr and loses 50 credits.
-- **Zero Credit -** User uses loads of reductive apps and their credit goes to 0.
-- **Reductive Apps Blocked -** All reductive apps are now blocked from the user until they gain credits.
-- **Forces the User to Use Productive Apps -** User uses productive apps to gain credit.
-- **Productivity Increase -** User notices their productivity has increased and is happy.
+1. **User Opens FOCO -** User opens app to configure their credit settings.
+2. **Configuring Credit Settings -** Users adjusts settings via the credits page.
+3. **Productive Apps -** Positive credits on specific apps allow credits to be gained as these apps are deemed productive.
+4. **Reductive Apps -** Negative credits on specific apps allow users to spend credits as these apps are deemed reductive.
+5. **User Locked -** User is locked from changing the credits for 7 days once they have generated settings for each app.
+6. **Using FOCO -** The user starts with 100 credits.
+7. **Gaining Credits -** User opens up DuoLingo for 1hr and gains 50 credits.
+8. **Losing Credits -** User then opens TikTok for 1hr and loses 50 credits.
+9. **Zero Credit -** User uses loads of reductive apps and their credit goes to 0.
+10 **Reductive Apps Blocked -** All reductive apps are now blocked from the user until they gain credits.
+11. **Forces the User to Use Productive Apps -** User uses productive apps to gain credit.
+12. **Productivity Increase -** User notices their productivity has increased and is happy.
 
 Evaluation:
+Originally, we thought it may be possible for FOCO to decide which apps are productive and which aren’t on its own. But S2 made us realize that this is impractical and so we decided to instead place that in the control of the user. Despite the fact that the user may misuse this trust to class reductive apps as productive, we believe that this is the fault of the user rather than the app design; if the user is not willing to properly engage even in this very initial stage, not much can be done on our part to compensate for that.
 
-- Originally, we thought it may be possible for FOCO to decide which apps are productive and which aren’t on its own. But S2 made us realize that this is impractical and so we decided to instead place that in the control of the user. Despite the fact that the user may misuse this trust to class reductive apps as productive, we believe that this is the fault of the user rather than the app design; if the user is not willing to properly engage even in this very initial stage, not much can be done on our part to compensate for that.
-- S2 also made us consider the possibility of a user either not understanding the credits system or wildly over/underestimating how harsh the system is. As a result, we considered implementing a “grace period” of 24 hours from when the settings are first set to allow the user to change them as they wish so that they can adjust the app to the correct difficulty.
+S2 also made us consider the possibility of a user either not understanding the credits system or wildly over/underestimating how harsh the system is. As a result, we considered implementing a “grace period” of 24 hours from when the settings are first set to allow the user to change them as they wish so that they can adjust the app to the correct difficulty.
 
 ### Scenario 3 - “Correction Use”:
 
-- **Incorrect Credit Setting -** User notices that they generated a credit setting wrong and that they are losing credit when they use DuoLingo.
-- **Credit Settings Page -** User goes to the credit settings page.
-- **User Locked -** User is locked out for 7 days.
-- **Changing the Credit Setting -** To change the credit setting, user has to type 500 characters without copying and pasting.
-- **Long Task -** User finds the task long, which is good because it discourages them from changing the settings on reductive apps in order to lose less credit and become less productive.
-- **User Completes Task -** User types the 500 characters correctly.
-- **User Changes Credit Settings -** User can now change the credit settings accordingly
+1. **Incorrect Credit Setting -** User notices that they generated a credit setting wrong and that they are losing credit when they use DuoLingo.
+2. **Credit Settings Page -** User goes to the credit settings page.
+3. **User Locked -** User is locked out for 7 days.
+4. **Changing the Credit Setting -** To change the credit setting, user has to type 500 characters without copying and pasting.
+5. **Long Task -** User finds the task long, which is good because it discourages them from changing the settings on reductive apps in order to lose less credit and become less productive.
+6. **User Completes Task -** User types the 500 characters correctly.
+7. **User Changes Credit Settings -** User can now change the credit settings accordingly
 
 Evaluation:
 
-- S3 raised a number of questions pertaining how exactly we should implement the “long task” in a way that is so tedious that a relapsing user would rather do something productive than perform it, but not so difficult that a user with genuine intentions is unfairly constrained. In the end, we decided that the simplest options, like typing 500 disjointed characters would fit these two properties best.
-- However, to further promote the idea of fairness within our system, we decided to allow the user to pick out of one of three tedious tasks they would rather perform if they ever make a mistake and need to adjust their credit settings.
+S3 raised a number of questions pertaining how exactly we should implement the “long task” in a way that is so tedious that a relapsing user would rather do something productive than perform it, but not so difficult that a user with genuine intentions is unfairly constrained. In the end, we decided that the simplest options, like typing 500 disjointed characters would fit these two properties best. However, to further promote the idea of fairness within our system, we decided to allow the user to pick out of one of three tedious tasks they would rather perform if they ever make a mistake and need to adjust their credit settings.
 
 ### Scenario 4 - “Premium Use”:
 
-- **Unhappy User -** User notices that their credits are lost very easily on weekends and at night.
-- **User wants to Relax -** User wants their weekends and their nights to be less productive so that they can relax. 
-- **Account Creation -** However, the reductive apps they want to use at these times sometimes get blocked due to excessive use.
-- **Changing Credit Settings based on Date and Time -** The user wants to be able to adjust this without having to change their credit settings recurringly.
-- **FOCO Premium -** User installs premium version of the app. 
-- **Calendar and Time Settings -** User now has a calendar and time setting.
-- **Adjusting the Date and Time Settings -** User adjusts the setting so they do not lose credits on the weekends or at night, when they are using reductive apps.
-- **Happy User -** User is now happy because they are not blocked for using reductive apps when they are relaxing.
+1. **Unhappy User -** User notices that their credits are lost very easily on weekends and at night.
+2. **User wants to Relax -** User wants their weekends and their nights to be less productive so that they can relax. 
+3. **Account Creation -** However, the reductive apps they want to use at these times sometimes get blocked due to excessive use.
+4. **Changing Credit Settings based on Date and Time -** The user wants to be able to adjust this without having to change their credit settings recurringly.
+5. **FOCO Premium -** User installs premium version of the app. 
+6. **Calendar and Time Settings -** User now has a calendar and time setting.
+7. **Adjusting the Date and Time Settings -** User adjusts the setting so they do not lose credits on the weekends or at night, when they are using reductive apps.
+8. **Happy User -** User is now happy because they are not blocked for using reductive apps when they are relaxing.
 
 Evaluation:
 
-- Storyboarding lead us to consider how to properly monetize our product. We had considered a premium feature but did not initially know what functionality to give it. Based on our value mapping, we identified the demographic that would be most willing to buy the premium as young people of arbitrary gender who are most determined to take control of their productivity.
-- As a result, we decided to build our premium version to reflect that by providing very much increased flexibility to the apps features. This involves the weekly schedule from S4 and the possibility of a user goal in S1.
-- Given that most of our target audience are young career driven people, we safely assume that they will be comfortable operating a more flexible interface and that this will not be a detriment like in alternate products.
-- Special care was noted when increasing flexibility to align this with directly helping improve productivity, without undermining the restrictions of the app that are the main selling point.
+Storyboarding lead us to consider how to properly monetize our product. We had considered a premium feature but did not initially know what functionality to give it. Based on our value mapping, we identified the demographic that would be most willing to buy the premium as young people of arbitrary gender who are most determined to take control of their productivity. As a result, we decided to build our premium version to reflect that by providing very much increased flexibility to the apps features. This involves the weekly schedule from S4 and the possibility of a user goal in S1.
+
+Given that most of our target audience are young (possibly career driven) people, we safely assume that they will be comfortable operating a more flexible interface and that this will not be a detriment like in alternate products. Special care was noted when increasing flexibility to align this with directly helping improve productivity, without undermining the restrictions of the app that are the main selling point.
