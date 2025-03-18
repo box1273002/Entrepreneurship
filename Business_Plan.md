@@ -657,7 +657,7 @@ In order to deal with competition, we will implement unique features that differ
 
 | Feature | Description | Priority |
 | --- | --- | --- |
-| Weekly Coin Allocation | Allow users to set a fixed number of coins each week | $${\color{red}MUST}$$ |
+| Weekly Coin Allocation | Allow users to set a fixed number of coins each week | $${\color{red}\text{MUST}}$$ |
 | App Blocking | Block apps when coin balance hits zero. | MUST |
 | Coin Customization | Set coins per hour for app usage, or weekly | MUST |
 | Ad-based Coin Earning | Option to watch ads to earn extra coins | MUST |
