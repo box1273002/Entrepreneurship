@@ -5,7 +5,7 @@
 
 ### 1.1 The Problem
 
-In today's digital age, screen time dependency has become a widespread issue, with over **53% of Americans** seeking to reduce their phone usage to improve time management, mental health, and focus. However, breaking free from screen addiction is no easy feat — **49% of people** feel addicted to their devices, and **69% of Gen Z** openly acknowledge their phone dependency [a].
+In today's digital age, screen time dependency has become a widespread issue, with over **53% of Americans** seeking to reduce their phone usage to improve time management, mental health, and focus. However, breaking free from screen addiction is no easy feat — **49% of people** feel addicted to their devices, and **69% of Gen Z** openly acknowledge their phone dependency [1].
 
 Our research also uncovered a critical gap in the market — existing screen time management apps, such as *Opal*, rely on rigid blocking mechanisms that can be inconvenient and demotivating for users.
 
