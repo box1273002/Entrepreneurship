@@ -1,14 +1,74 @@
-
 # FOCO: Creating a credit-based screen time limiter app
 
+## Table of Contents
+<!-- TOC start -->
+
+- [1. Our Product](#1-our-product)
+   * [1.1 The Problem](#11-the-problem)
+   * [1.2 Motivational Experiences](#12-motivational-experiences)
+   * [1.3 Our Solution](#13-our-solution)
+      + [1.4 App and Product Description](#14-app-and-product-description)
+   * [1.5 Selling Points](#15-selling-points)
+   * [1.6 Are We Economically Viable? - Value Mapping](#16-are-we-economically-viable-value-mapping)
+- [2. Market Section](#2-market-section)
+   * [2.1 Market Research Goals](#21-market-research-goals)
+   * [2.2 Secondary Research](#22-secondary-research)
+   * [2.3 Primary Research and Consulting](#23-primary-research-and-consulting)
+   * [2.4 Main Competitors](#24-main-competitors)
+      + [2.4.1 Opal: The Premium Competitor](#241-opal-the-premium-competitor)
+      + [2.4.2 Forest: The Gamification Pioneer](#242-forest-the-gamification-pioneer)
+      + [2.4.3 Cold Turkey: The Hardcore Blocker](#243-cold-turkey-the-hardcore-blocker)
+      + [2.4.4 Jomo: The Widget Innovator](#244-jomo-the-widget-innovator)
+   * [2.5 Competitive Analysis](#25-competitive-analysis)
+      + [2.5.1 Key Market Advantages](#251-key-market-advantages)
+      + [2.5.2 Primary Challenges and Risks](#252-primary-challenges-and-risks)
+   * [2.6 Assumptions and Risk Assessment](#26-assumptions-and-risk-assessment)
+- [3 Strategy Section](#3-strategy-section)
+   * [3.1 Priority Road Map](#31-priority-road-map)
+      + [3.1.1 Short Term Priorities (0-6 months)](#311-short-term-priorities-0-6-months)
+      + [3.1.2 Medium Term Strategy (6-18 months)](#312-medium-term-strategy-6-18-months)
+      + [3.1.3 Long Term Vision (18+ months)](#313-long-term-vision-18-months)
+   * [3.2 Legal Status and Structure](#32-legal-status-and-structure)
+      + [3.2.1 Current Structure: Private Limited Company (Ltd)](#321-current-structure-private-limited-company-ltd)
+      + [3.2.2 Future Structure: Public Limited Company (PLC)](#322-future-structure-public-limited-company-plc)
+      + [3.2.3 Regulatory Compliace and Legal Considerations](#323-regulatory-compliace-and-legal-considerations)
+      + [3.2.4 Trademark Protection](#324-trademark-protection)
+      + [3.2.5 Copyright Protection](#325-copyright-protection)
+      + [3.2.6 Patent Considerations](#326-patent-considerations)
+      + [3.2.7 Consumer Protection Compliance](#327-consumer-protection-compliance)
+   * [3.3 The Team](#33-the-team)
+   * [3.4 Required Resources](#34-required-resources)
+      + [3.4.1 Capital Requirements](#341-capital-requirements)
+      + [3.4.2 Skill Requirements](#342-skill-requirements)
+   * [3.5 Approach to Financing](#35-approach-to-financing)
+      + [3.5.1 Financial Projections](#351-financial-projections)
+   * [3.6 Initial Sales and Marketing Strategy](#36-initial-sales-and-marketing-strategy)
+      + [3.6.1 App Store Optimisation and User Feedback](#361-app-store-optimisation-and-user-feedback)
+      + [3.6.2 Referral Programs](#362-referral-programs)
+      + [3.6.3 University and Workplace Partnerships](#363-university-and-workplace-partnerships)
+      + [3.6.4 User Case Studies](#364-user-case-studies)
+   * [3.7 Main Risks and Mitigation Strategies](#37-main-risks-and-mitigation-strategies)
+      + [3.7.1 User Permission Restrictions](#371-user-permission-restrictions)
+      + [3.7.2 User Resistance](#372-user-resistance)
+      + [3.7.3 Data Privacy Concerns](#373-data-privacy-concerns)
+      + [3.7.4 Competition with Other Productivity Apps](#374-competition-with-other-productivity-apps)
+- [Reference](#reference)
+   * [Appendices](#appendices)
+
+<!-- TOC end -->
+
+
+<!-- TOC --><a name="1-our-product"></a>
 ## 1. Our Product
 
+<!-- TOC --><a name="11-the-problem"></a>
 ### 1.1 The Problem
 
 In today's digital age, screen time dependency has become a widespread issue, with over **53% of Americans** seeking to reduce their phone usage to improve time management, mental health, and focus. However, breaking free from screen addiction is no easy feat — **49% of people** feel addicted to their devices, and **69% of Gen Z** openly acknowledge their phone dependency [1].
 
 Our research also uncovered a critical gap in the market — existing screen time management apps, such as *Opal*, rely on rigid blocking mechanisms that can be inconvenient and demotivating for users.
 
+<!-- TOC --><a name="12-motivational-experiences"></a>
 ### 1.2 Motivational Experiences
 
 **Dhru's Story:** Dhru, one of FOCO's dedicated developers, has struggled with balancing his screentime. He tried several apps all of which sufferd from the same problem inflexiblity, particularly with apps like WhatsApp. When he blocked WhatsApp to stay focused, he found himself unable to use WhatApp when he genuinely need it to commicate. His experience demonstrates the importance of healthy digital habits and was the initial inspiration behind FOCO.
@@ -17,12 +77,14 @@ Our research also uncovered a critical gap in the market — existing screen tim
 
 **Similar Experiences:** After this issue was bought to the attention of the team it was identified as a common among them and there social group. This motivated use to create something better.
 
+<!-- TOC --><a name="13-our-solution"></a>
 ### 1.3 Our Solution
 
 Imagine the same scenario — but with FOCO’s innovative coin system.
 
 Instead of a strict lockout, the user allocates coins to WhatsApp, deciding how much time they’re willing to “spend” on the app. When the coins run out, access is blocked — not as a punishment but as a natural consequence of spending their digital currency. This transforms screen time management into a strategic, gamified experience rather than a restrictive one. We will introduce a solution.
 
+<!-- TOC --><a name="14-app-and-product-description"></a>
 #### 1.4 App and Product Description
 
 *FOCO* is a playful, gamified screen time management app designed to help users take back control of their digital habits, one coin at a time! 
@@ -55,6 +117,7 @@ The app will run on Android.
 
 We will utilise gamification, behavioral psychology, and simple finance-style mechanisms (coins, investments) to create a fun app that helps users break free from digital addiction or casual users who want to be purposeful with their time. _Our Functional and Non Functional Requirements for our project can be found in the appendix_.
 
+<!-- TOC --><a name="15-selling-points"></a>
 ### 1.5 Selling Points
 There are a number of things that set us apart from the competition. These are our five selling points:
 
@@ -64,12 +127,15 @@ There are a number of things that set us apart from the competition. These are o
 4. **Build a Better Life:** Users can earn coins by completing real-life goals, reinforcing positive habits both online and offline.
 5. **Fighting the Battle Together:** FOCO is a supportive tool, not a digital prison — we grow and evolve alongside our users.
 
+<!-- TOC --><a name="16-are-we-economically-viable-value-mapping"></a>
 ### 1.6 Are We Economically Viable? - Value Mapping
 
 Our value mapping (see *Appendix I*) demonstrates that FOCO offers the most affordable, flexible, and engaging screen time solution compared to competitors like *Cold Turkey*, *Opal*, and *Forest*. With features like coin-based time management, ad-based coin earning, and personalized scheduling, FOCO bridges the gap between rigid time-blocking apps and user-driven digital wellness.
 
+<!-- TOC --><a name="2-market-section"></a>
 ## 2. Market Section
 
+<!-- TOC --><a name="21-market-research-goals"></a>
 ### 2.1 Market Research Goals
 
 To ensure that our product provides users with the most effective productivity service on the market, we first performed extensive research. Our main lines of questioning were as follows:
@@ -78,6 +144,7 @@ To ensure that our product provides users with the most effective productivity s
 - Market size and demand: how many people actively seek screen time control solutions and how will this change into the future?
 - Competitive landscape: what existing apps offer screen time restrictions, and how do they work, how do competitors monetize their apps and what are the strengths and weaknesses of competing products?
 
+<!-- TOC --><a name="22-secondary-research"></a>
 ### 2.2 Secondary Research
 
 **Target market and user needs:**
@@ -105,6 +172,7 @@ Despite several competitors, our data shows that the market is yet to be fully s
 
 In terms of business models, most competitors opt for a subscription model to maintain a constant income. Clarymind [4] for example operates on a subscription model (Monthly: $14.99 | 6-Month: $49.99 | Yearly: $62.99 | Pro: $34.99), estimated to generate ~$2M annually with 100,000+ active users.
 
+<!-- TOC --><a name="23-primary-research-and-consulting"></a>
 ### 2.3 Primary Research and Consulting
 
 To validate our findings from our secondary research, we decided it would be most productive for our business to conduct our own primary research. First, we tried to determine how to monetize the product in a way that is most compatible with the users. Out of all of the participants, 80% people would prefer sharing their data rather than watching ads, and 60% of participants would be willing to pay up to £3 to remove ads. For the premium version, roughly half would pay £1.00 per month / £ 10.00 per year / £25.00 lifetime (the other half were not interested in premium). Surprisingly, out of monthly, yearly and lifetime subscription models, participants were completely mixed, with an even split each. 
@@ -112,6 +180,7 @@ To validate our findings from our secondary research, we decided it would be mos
 We also asked our participants for more general feedback. Participants suggested as premium features: graphing the amount of time spent on each app, allowing cashing in unused coins and buying cosmetic features. In additional comments, participants stated that the user should not be allowed to game the system, such as by leaving productive apps open and not doing anything in the.
 This survey was excellent at getting a direct insider view into the opinions of the target audience and was greatly influential in how we shaped our product.
 
+<!-- TOC --><a name="24-main-competitors"></a>
 ### 2.4 Main Competitors
 
 The screen time management app market has experienced significant growth in recent years, driven by increasing awareness of digital wellbeing and the negative impacts of excessive screen time. According to recent studies, the average American spends approximately 7 hours per day on digital devices, with smartphone usage accounting for a significant portion of this time. This has created a substantial market opportunity for applications that help users manage and reduce their screen time.
@@ -125,6 +194,7 @@ The market can be segmented into several categories:
 
 FOCO positions itself primarily in the comprehensive management category, offering a blend of monitoring, blocking, and behavioral modification through its unique coin system. This approach allows it to appeal to a broad audience while differentiating itself from competitors.
 
+<!-- TOC --><a name="241-opal-the-premium-competitor"></a>
 #### 2.4.1 Opal: The Premium Competitor
 
 Opal [9] has established itself as a premium player in the focus app market, with a strong emphasis on deep work and distraction elimination.
@@ -146,6 +216,7 @@ Opal's premium positioning and relatively high price point ($8.29/month) create 
 
 FOCO should consider implementing a similarly robust blocking mechanism while maintaining its price advantage and expanding its customization options. The significant price differential ($7/month) could be a compelling driver for users to choose FOCO over Opal if the core blocking functionality is comparable.
 
+<!-- TOC --><a name="242-forest-the-gamification-pioneer"></a>
 #### 2.4.2 Forest: The Gamification Pioneer
 
 Forest [10] has successfully leveraged environmental impact and visual rewards to create a compelling productivity tool that has garnered significant market attention.
@@ -168,6 +239,7 @@ Forest's success demonstrates the power of gamification in the screen time manag
 
 FOCO's potential advantage lies in combining Forest's engaging gamification with more robust blocking mechanisms and detailed analytics. By providing users with both the emotional rewards of gamification and the practical tools for enforcing discipline, FOCO could position itself as an evolution beyond Forest's approach.
 
+<!-- TOC --><a name="243-cold-turkey-the-hardcore-blocker"></a>
 #### 2.4.3 Cold Turkey: The Hardcore Blocker
 
 Cold Turkey [11] takes a no-nonsense approach to digital distraction, offering some of the most stringent blocking mechanisms available.
@@ -190,6 +262,7 @@ Cold Turkey's focus on desktop platforms creates a significant opportunity for F
 
 FOCO should consider how to balance blocking effectiveness with user experience, perhaps offering tiered levels of restriction that allow users to gradually increase blocking severity as they build discipline. The subscription model versus one-time purchase difference represents a strategic choice, with FOCO betting on long-term recurring revenue over upfront payments.
 
+<!-- TOC --><a name="244-jomo-the-widget-innovator"></a>
 #### 2.4.4 Jomo: The Widget Innovator
 
 Jomo [12] has created distinctive value through its widget-based approach and dynamic limits.
@@ -211,6 +284,7 @@ Jomo's widget-based approach represents an opportunity for FOCO to enhance its a
 
 The lack of cross-device synchronization in Jomo highlights an opportunity for FOCO to implement robust cross-platform functionality, ensuring a seamless experience across all of a user's devices. Additionally, FOCO's coin system could be extended to the widget interface, bringing gamification elements to the home screen in a way that Jomo has not accomplished.
 
+<!-- TOC --><a name="25-competitive-analysis"></a>
 ### 2.5 Competitive Analysis
 
 Based on an analyiss of our competitors, FOCO occupies a promising position in the screen time management market by combining elements that have proven successful across multiple competitors:
@@ -223,6 +297,7 @@ Based on an analyiss of our competitors, FOCO occupies a promising position in t
 
 This combined approach addresses multiple user needs within a single platform, potentially eliminating the need for users to employ multiple applications for different aspects of screen time management.
 
+<!-- TOC --><a name="251-key-market-advantages"></a>
 #### 2.5.1 Key Market Advantages
 
 FOCO's most significant advantages in the current market include:
@@ -233,6 +308,7 @@ FOCO's most significant advantages in the current market include:
 4. **Customization Depth**: The extensive personalization options provide users with a sense of ownership and identity within the app ecosystem.
 5. **Mission-Driven Positioning**: The emphasis on accessibility and wellbeing over profit maximization can create stronger brand loyalty and word-of-mouth marketing.
 
+<!-- TOC --><a name="252-primary-challenges-and-risks"></a>
 #### 2.5.2 Primary Challenges and Risks
 
 Despite its advantages, FOCO faces several significant challenges that could impact its success:
@@ -244,6 +320,7 @@ Despite its advantages, FOCO faces several significant challenges that could imp
 5. **Low Price Sustainability**: The £1 price point, while attractive to users, may create challenges in funding ongoing development and marketing efforts, particularly in a competitive user acquisition environment. Given our study however, it seems that this is a price that would allow us to access a much wider user base who might not otherwise be interested in these apps: as our main cost would be development, this would mean that we can scale up at no additional cost. We should therefore be able to obtain a much larger user base than any of the pre existing apps, and use this large scale to make up for the low revenue per user.
 6. **Behavioral Change Complexity**: Successfully changing deeply ingrained digital habits requires more than just technical tools—it requires behavioral science expertise that may be challenging to implement effectively.
 
+<!-- TOC --><a name="26-assumptions-and-risk-assessment"></a>
 ### 2.6 Assumptions and Risk Assessment
 
 FOCO's business model rests on several key assumptions that should be critically evaluated:
@@ -259,10 +336,13 @@ FOCO's business model rests on several key assumptions that should be critically
 5. **Marketing Costs**: User acquisition in a crowded market may require significant spending that the low price point cannot support.
     - *Mitigation Strategy*: Leveraging the mission-driven positioning for PR and word-of-mouth growth, potentially supplemented by strategic partnerships with digital wellbeing organizations, or through university programs.
 
+<!-- TOC --><a name="3-strategy-section"></a>
 ## 3 Strategy Section
 
+<!-- TOC --><a name="31-priority-road-map"></a>
 ### 3.1 Priority Road Map
 
+<!-- TOC --><a name="311-short-term-priorities-0-6-months"></a>
 #### 3.1.1 Short Term Priorities (0-6 months)
 
 1. **Core Feature Refinement**: Ensure the coin system is intuitive, engaging, and provides clear value to users from their first interaction.
@@ -271,6 +351,7 @@ FOCO's business model rests on several key assumptions that should be critically
 4. **Analytics Enhancement**: Develop comprehensive usage insights that exceed competitors like AntiSocial while maintaining an engaging presentation.
 5. **Widget Development**: Create home screen widgets that display coin balances and quick access to key features, addressing Jomo's innovation in this area.
 
+<!-- TOC --><a name="312-medium-term-strategy-6-18-months"></a>
 #### 3.1.2 Medium Term Strategy (6-18 months)
 
 1. **Family Plan Development**: Expand into the family market with parent-child functionality that leverages the coin system for household screen time management.
@@ -279,6 +360,7 @@ FOCO's business model rests on several key assumptions that should be critically
 4. **Strategic Partnerships**: Develop relationships with digital wellbeing organizations, educational institutions, and mental health platforms to expand reach.
 5. **API Integration**: Create integrations with productivity platforms and health apps to expand the ecosystem and increase switching costs.
 
+<!-- TOC --><a name="313-long-term-vision-18-months"></a>
 #### 3.1.3 Long Term Vision (18+ months)
 
 1. **Behavioral Science Expansion**: Incorporate advanced behavioral science principles beyond simple gamification to create lasting habit changes.
@@ -287,8 +369,10 @@ FOCO's business model rests on several key assumptions that should be critically
 4. **International Expansion**: Adapt the coin system and interface for cultural differences in international markets.
 5. **Broader Digital Wellbeing Platform**: Expand beyond screen time management to address other aspects of digital wellbeing like posture, blue light exposure, and sleep quality.
 
+<!-- TOC --><a name="32-legal-status-and-structure"></a>
 ### 3.2 Legal Status and Structure
 
+<!-- TOC --><a name="321-current-structure-private-limited-company-ltd"></a>
 #### 3.2.1 Current Structure: Private Limited Company (Ltd)
 
 FOCO is planned to be structured as a Private Limited Company (Ltd) registered in the United Kingdom. This structure was selected for several strategic reasons:
@@ -298,6 +382,7 @@ FOCO is planned to be structured as a Private Limited Company (Ltd) registered i
 - **Credibility and Formality**: The Ltd designation provides FOCO with enhanced credibility when engaging with potential partners, users, and investors compared to sole trader or partnership structures.
 - **Tax Efficiency**: As a Ltd company, FOCO is subject to UK Corporation Tax (currently 25% for companies with profits exceeding £250,000, and 19% for those with profits under £50,000) rather than personal income tax rates. This creates potential tax advantages, particularly as the company begins generating significant revenue.
 
+<!-- TOC --><a name="322-future-structure-public-limited-company-plc"></a>
 #### 3.2.2 Future Structure: Public Limited Company (PLC)
 
 As FOCO continues to scale, converting to a Public Limited Company could be advantageous as a step toward potential public listing.
@@ -317,6 +402,7 @@ As FOCO continues to scale, converting to a Public Limited Company could be adva
 - Higher governance standards and administrative costs
 - Vulnerability to activist investors and takeovers
 
+<!-- TOC --><a name="323-regulatory-compliace-and-legal-considerations"></a>
 #### 3.2.3 Regulatory Compliace and Legal Considerations
 
 As a screen time management application that monitors user activity, data protection represents one of the most significant legal considerations for FOCO. We would need to ensure compliance with the General Data Protections Regulation (GDPR):
@@ -333,6 +419,7 @@ Given that screen time management apps may appeal to parents seeking to monitor 
 - **Enhanced Data Protection**: Special protection measures for data potentially relating to children under 13.
 - **Compliance with Children's Data Regulations**: Including the Age Appropriate Design Code in the UK and COPPA in the US market.
 
+<!-- TOC --><a name="324-trademark-protection"></a>
 #### 3.2.4 Trademark Protection
 
 As FOCO's business value is substantially tied to its intellectual property assets, we would need to ensure the following:
@@ -341,17 +428,20 @@ As FOCO's business value is substantially tied to its intellectual property asse
 - **International Registration**: We would need to apply for EU and US trademark protection through the Madrid Protocol.
 - **Brand Guidelines**: Clear internal guidelines govern the use of the FOCO brand to prevent dilution.
 
+<!-- TOC --><a name="325-copyright-protection"></a>
 #### 3.2.5 Copyright Protection
 
 - **Software Code**: Copyright protection for the application's source code, with proper documentation of ownership.
 - **Visual Elements**: Copyright protection for unique visual elements, including the app's user interface, logo, and graphic designs.
 - **Content**: Original content within the application, including texts, notifications, and guidance materials.
 
+<!-- TOC --><a name="326-patent-considerations"></a>
 #### 3.2.6 Patent Considerations
 
 - **Innovative Features**: The coin system mechanism is potentially patentable, though the company has currently opted for trade secret protection rather than patent filing, which would require public disclosure of the methodology.
 - **Patent Landscape Analysis**: Regular monitoring of the competitive patent landscape to avoid infringement and identify potential patentable innovations.
 
+<!-- TOC --><a name="327-consumer-protection-compliance"></a>
 #### 3.2.7 Consumer Protection Compliance
 
 FOCO would require measures to ensure compliance with consumer protection laws:
@@ -361,6 +451,7 @@ FOCO would require measures to ensure compliance with consumer protection laws:
 - **Pricing Transparency**: Clear disclosure of all costs, including in-app purchases and subscription renewals.
 - **Right of Withdrawal**: Processes to handle consumer withdrawal rights, including refund policies in line with app store requirements and local regulations.
 
+<!-- TOC --><a name="33-the-team"></a>
 ### 3.3 The Team
 
 We are currently working in a small team consisting of 5 member in order to create a minimum working prototype. It should be noted that the current stage of the company that all team members share responsibility, and as the company matures the roles may change as they become more strictly defined.
@@ -385,10 +476,12 @@ The most technically proficient member of the team, George’s high grades devel
 
 With prior stakeholder engagement experience, Ptolemy will be working closely the development team translating costumer suggestions/feedback into them into technical requirements.
 
+<!-- TOC --><a name="34-required-resources"></a>
 ### 3.4 Required Resources
 
 The product has been specifically selected as it has limited upfront startup cost, with the initial costs being largely development related, not requiring significant capital investment.
 
+<!-- TOC --><a name="341-capital-requirements"></a>
 #### 3.4.1 Capital Requirements
 
 **Google Development Console - $25.00**
@@ -403,6 +496,7 @@ In order to publish on the App Store a $99.00 per year subscription is necessary
 
 Due to the small nature of our company and the fact that we all possess personal laptop that can be used for development. This however would likely change as the company matures.
 
+<!-- TOC --><a name="342-skill-requirements"></a>
 #### 3.4.2 Skill Requirements
 
 **Graphic Designer** 
@@ -413,10 +507,12 @@ Our team is comprised of technical individuals and as such we need to hire a gra
 
 Although it is unlikely we will need to bring a dedicated team member on board to handle App Store Optimization it would be beneficial for one or more team member to undertake some form of App Store Optimization training, likely the CMO Dhru Randeria.
 
+<!-- TOC --><a name="35-approach-to-financing"></a>
 ### 3.5 Approach to Financing
 
 Our approach to funding will involve bootstrapping the app for initial development and testing so we can have full control of the app without relying on investors and to allow us to validate our idea before committing to any financial decisions. We would then release a free version of the app with basic features to gain users such as configuring the credit settings and being able to change them by performing a long task. After one year, we would then release a Freemium Model of our app. The premium version of our app would have simpler tasks to change the credit system and could also contain features that can implement the credit system from the app during certain periods of the day, e.g.: the credit system could be implemented on Monday to Friday from 9am-5pm if someone wants to be productive during the working week but wants to relax outside of work. 
 
+<!-- TOC --><a name="351-financial-projections"></a>
 #### 3.5.1 Financial Projections
 
 **1st Year Projections**
@@ -435,44 +531,55 @@ In the long-term, we would want to introduce AI-driven recommendations and integ
 
 As an exit strategy, we could sell the company to a larger technology company or we could expand it until we have a standalone business.
 
+<!-- TOC --><a name="36-initial-sales-and-marketing-strategy"></a>
 ### 3.6 Initial Sales and Marketing Strategy
 
+<!-- TOC --><a name="361-app-store-optimisation-and-user-feedback"></a>
 #### 3.6.1 App Store Optimisation and User Feedback
 
 We are planning on releasing our app onto the Apple and Google Play Stores and to make our app more visible to the public, we aim to use more optimised descriptions and keywords. We would do this by including keywords and terms such as “Productivity Tracker” or “Focus App”. We will also have a clear explanation of what our app does, highlight its unique features and include screenshots of the app as well as a video demonstrating the app in action. In order to gain positive reviews and respond to user feedback, we will ask users via the app how satisfied they are with the app via a 5-star rating. If the user rates the app, they will be asked to provide some feedback and if the rating is high (4 or 5 stars), they would be asked if they can provide a review to an app store so that more people are convinced to install our app. We would then respond to user feedback and try to implement any features the users suggest.
 
+<!-- TOC --><a name="362-referral-programs"></a>
 #### 3.6.2 Referral Programs
 
 In order to get more users to use our app, we will also implement a referral program, which would benefit current users of the app as well as new users. Referral programs provide a way to reach new users passively, with its effectiveness scaling with our user base. We are currently exploring two possibles for the reward that given for successful referrals. The first possibility is giving 30 days of premium when somebody you referred purchases a premium plan. The second is a giving the user a random alternate app skin for any sign up with a the referral link regardless of the whether they pay for premium. Both approaches come with different advantages, with the skin based approach having no variable costs but likely having a lower conversion rate to new customers. Once the app launches we experiment to see which approach is more successful and whether they can be successfully run in parallel. 
 
+<!-- TOC --><a name="363-university-and-workplace-partnerships"></a>
 #### 3.6.3 University and Workplace Partnerships
 
 Because our app focuses on productivity, one of our main audiences would be students. Therefore, we would focus on marketing for this audience via university and workplace partnerships. We could start with the University of Bath and market the app via social media platforms, especially via the University’s Instagram page [13] because there are student vloggers who make content that promotes how student life is like at the University of Bath as well as the University’s programmes [14]. However, this does however come with the risk of the app coming across as pushed by the university, contradicting with our core message of take back control. We could also ask content creators that are promoting study content to advertise our app and perhaps, if we get content creators that are very well-known, we could provide a 3-month free premium model if customers sign up with a promotion code. A suitable platform to advertise this on is YouTube because there are study communities on this app such as the “StudyTubing” community [15] and it would be beneficial if content creators could provide demonstrations of the app via long-form content, compared to platforms that mainly provide short-form content such as TikTok.
 
+<!-- TOC --><a name="364-user-case-studies"></a>
 #### 3.6.4 User Case Studies
 
 To promote our app further, we could promote case studies of people using our app as a second point of contact after word-of-mouth referring and marketting advertisements for our product via platforms such as LinkedIn and our app website to signify how our app promotes productivity, which could help provide more information for people that are considering using our product. Furthermore, if our app is successful, we could show the retention statistics of using our app. This would be how many weeks the user would update their credit system as it could signify ongoing use of the app.
 
+<!-- TOC --><a name="37-main-risks-and-mitigation-strategies"></a>
 ### 3.7 Main Risks and Mitigation Strategies
 
 We have four main risks with our business idea: Google and Apple restricting user permissions, user resistance, data privacy and security, and competition with other productivity apps.
 
+<!-- TOC --><a name="371-user-permission-restrictions"></a>
 #### 3.7.1 User Permission Restrictions
 
 The most significant risk to the success of our company come from Google and Apple. This is due to the nature of our app requiring significant privileges to function. The risk comes as the possibility that either Google or Apple could restrict iOS/Android users ability to give such overarching permissions to 3rd party apps such as ours. However, it is unclear how likely a risk this is as it would entail curtailing user control with no financial incentive. This small risk is being mitigated by developing the application for multiple platforms, as it is unlikely all platforms will disallow this at once. 
 
+<!-- TOC --><a name="372-user-resistance"></a>
 #### 3.7.2 User Resistance
 
 For user resistance, users could easily lose retention if they suddenly lose access to apps that they deem unproductive. In order to mitigate users from losing retention and from our app gain viewership, we would implement gradual restrictions instead of a sudden app block. A suggested idea that we may follow is that we would implement a warning system to the user if their credit is getting low. The user would set a number of credits that they would like to start getting warnings at and would also set how often they would want this reminder given to them, whilst they are losing credits.
 
+<!-- TOC --><a name="373-data-privacy-concerns"></a>
 #### 3.7.3 Data Privacy Concerns
 
 Another main concern is data privacy and security. This is specificly important due to the sensitive nature of data. To ensure that our app does not cause any data privacy or security concerns, the data security risk will be mitigated by storing data via the iCloud or Google Drive because they are run by a larger organization and as such have dedicated to address any issues. The privacy risk will be mitigated by ensuring transparency in data collection by not accessing any personal user data except when explicitly given permission (e.g. if the user interacts with our app with the data plan) and complying to all GDPR regulations.
 
+<!-- TOC --><a name="374-competition-with-other-productivity-apps"></a>
 #### 3.7.4 Competition with Other Productivity Apps
 
 In order to deal with competition, we will implement unique features that differentiate our app from competititors, such as making the user complete a long verification process to re-configure the credit system, as well as combining elements that have already succeeded with existing competitors such as gamification, robust blocking, social features and customisation.
 
+<!-- TOC --><a name="reference"></a>
 ## Reference
 
 [1] Harmony Healthcare IT (2025) Phone screen time statistics. Available at: https://www.harmonyhit.com/phone-screen-time-statistics/ (Accessed: 16 March 2025)
@@ -506,4 +613,5 @@ In order to deal with competition, we will implement unique features that differ
 [15] Whitehall, E., 2020. *How StudyTube is Changing Education* [Online]. United Kingdom: The Indiependent. Available from: https://www.indiependent.co.uk/how-studytube-is-changing-education/ [Accessed 16/03/2025]
 
 
+<!-- TOC --><a name="appendices"></a>
 ### Appendices
