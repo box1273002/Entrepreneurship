@@ -52,7 +52,7 @@
       + [3.7.2 User Resistance](#372-user-resistance)
       + [3.7.3 Data Privacy Concerns](#373-data-privacy-concerns)
       + [3.7.4 Competition with Other Productivity Apps](#374-competition-with-other-productivity-apps)
-- [Reference](#reference)
+- [References](#references)
 - [Appendices](#appendices)
 
 <!-- TOC end -->
@@ -579,8 +579,8 @@ Another main concern is data privacy and security. This is specificly important 
 
 In order to deal with competition, we will implement unique features that differentiate our app from competititors, such as making the user complete a long verification process to re-configure the credit system, as well as combining elements that have already succeeded with existing competitors such as gamification, robust blocking, social features and customisation.
 
-<!-- TOC --><a name="reference"></a>
-## Reference
+<!-- TOC --><a name="references"></a>
+## References
 
 [1] Harmony Healthcare IT (2025) Phone screen time statistics. Available at: https://www.harmonyhit.com/phone-screen-time-statistics/ (Accessed: 16 March 2025)
 
