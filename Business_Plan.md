@@ -53,7 +53,7 @@
       + [3.7.3 Data Privacy Concerns](#373-data-privacy-concerns)
       + [3.7.4 Competition with Other Productivity Apps](#374-competition-with-other-productivity-apps)
 - [Reference](#reference)
-   * [Appendices](#appendices)
+- [Appendices](#appendices)
 
 <!-- TOC end -->
 
@@ -614,4 +614,4 @@ In order to deal with competition, we will implement unique features that differ
 
 
 <!-- TOC --><a name="appendices"></a>
-### Appendices
+## Appendices
