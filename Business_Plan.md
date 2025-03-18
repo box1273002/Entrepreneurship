@@ -504,16 +504,16 @@ In order to publish on the App Store a $99.00 per year subscription is necessary
 
 **Work Laptop - N/A**
 
-Due to the small nature of our company and the fact that we all possess personal laptop that can be used for development. This however would likely change as the company matures.
+Due to the small nature of our company and the fact that we all possess personal laptop that can be used for development. This however would likely change to a more professional android app development environment as the company matures.
 
 <!-- TOC --><a name="342-skill-requirements"></a>
 #### 3.4.2 Skill Requirements
 
-**Graphic Designer** 
+**Graphic Designer**
 
 Our team is comprised of technical individuals and as such we need to hire a graphic designer to ensure a visual appealing UI, which is essential to compete in the current mobile phone app market. This is not required until after the creation of a minimum working prototype, which we will use to as a tool to aid hiring.
 
-**App Store Optimization** 
+**App Store Optimization**
 
 Although it is unlikely we will need to bring a dedicated team member on board to handle App Store Optimization it would be beneficial for one or more team member to undertake some form of App Store Optimization training, likely the CMO Dhru Randeria.
 
@@ -547,22 +547,33 @@ As an exit strategy, we could sell the company to a larger technology company or
 <!-- TOC --><a name="361-app-store-optimisation-and-user-feedback"></a>
 #### 3.6.1 App Store Optimisation and User Feedback
 
-We are planning on releasing our app onto the Apple and Google Play Stores and to make our app more visible to the public, we aim to use more optimised descriptions and keywords. We would do this by including keywords and terms such as “Productivity Tracker” or “Focus App”. We will also have a clear explanation of what our app does, highlight its unique features and include screenshots of the app as well as a video demonstrating the app in action. In order to gain positive reviews and respond to user feedback, we will ask users via the app how satisfied they are with the app via a 5-star rating. If the user rates the app, they will be asked to provide some feedback and if the rating is high (4 or 5 stars), they would be asked if they can provide a review to an app store so that more people are convinced to install our app. We would then respond to user feedback and try to implement any features the users suggest.
+Our deployment strategy encompasses releases on both the Apple App Store and Google Play Store, incorporating comprehensive app store optimization (ASO) techniques. The optimization process includes strategic keyword integration, focusing on relevant terms such as "Productivity Tracker" and "Focus App." The app listings will feature detailed functionality descriptions, highlighting distinctive features through professional screenshots and demonstrative videos. 
+
+To maintain quality assurance and user satisfaction, we will implement a structured feedback system. Users will be prompted to provide ratings via an in-app 5-star scale. For ratings of 4 or 5 stars, users will be invited to submit public reviews on the respective app stores, enhancing visibility and credibility. This systematic approach to feedback collection will inform our continuous improvement process, with user suggestions being evaluated for potential implementation in future updates.
 
 <!-- TOC --><a name="362-referral-programs"></a>
 #### 3.6.2 Referral Programs
 
-In order to get more users to use our app, we will also implement a referral program, which would benefit current users of the app as well as new users. Referral programs provide a way to reach new users passively, with its effectiveness scaling with our user base. We are currently exploring two possibles for the reward that given for successful referrals. The first possibility is giving 30 days of premium when somebody you referred purchases a premium plan. The second is a giving the user a random alternate app skin for any sign up with a the referral link regardless of the whether they pay for premium. Both approaches come with different advantages, with the skin based approach having no variable costs but likely having a lower conversion rate to new customers. Once the app launches we experiment to see which approach is more successful and whether they can be successfully run in parallel. 
+The implementation of a strategic referral system aims to facilitate organic user growth while providing value to both existing and new users. We are evaluating two primary incentive structures:
+
+1. **Premium Access Model**: Offering 30 days of premium features when a referred user subscribes to a premium plan
+2. **Customization Rewards**: Providing exclusive cosmetic changes ("skins") for successful referrals, regardless of premium subscription status
+
+Each approach presents distinct advantages: the premium access model potentially drives higher-value conversions, while the customization rewards system operates with minimal variable costs. We plan to conduct systematic testing of both approaches to determine optimal implementation, with the possibility of maintaining parallel systems based on performance metrics.
 
 <!-- TOC --><a name="363-university-and-workplace-partnerships"></a>
 #### 3.6.3 University and Workplace Partnerships
 
-Because our app focuses on productivity, one of our main audiences would be students. Therefore, we would focus on marketing for this audience via university and workplace partnerships. We could start with the University of Bath and market the app via social media platforms, especially via the University’s Instagram page [[13]](#ref-13) because there are student vloggers who make content that promotes how student life is like at the University of Bath as well as the University’s programmes [[14]](#ref-14). However, this does however come with the risk of the app coming across as pushed by the university, contradicting with our core message of take back control. We could also ask content creators that are promoting study content to advertise our app and perhaps, if we get content creators that are very well-known, we could provide a 3-month free premium model if customers sign up with a promotion code. A suitable platform to advertise this on is YouTube because there are study communities on this app such as the “StudyTubing” community [[15]](#ref-15) and it would be beneficial if content creators could provide demonstrations of the app via long-form content, compared to platforms that mainly provide short-form content such as TikTok.
+Our marketing strategy prioritizes educational and professional environments, with a particular focus on academic institutions. Initial partnership efforts will commence with the University of Bath, leveraging their established social media presence, particularly their Instagram platform [[13]](#ref-13), which features student-generated content and program promotion [[14]](#ref-14).
+
+We recognize the importance of maintaining authenticity while pursuing institutional partnerships. To mitigate the risk of appearing institutionally mandated, we will implement a balanced approach that emphasizes user autonomy. Additionally, we plan to collaborate with educational content creators, offering premium access incentives through promotional codes. YouTube presents an optimal platform for these partnerships, given its established study-focused communities [[15]](#ref-15) and capacity for detailed product demonstrations.
 
 <!-- TOC --><a name="364-user-case-studies"></a>
 #### 3.6.4 User Case Studies
 
-To promote our app further, we could promote case studies of people using our app as a second point of contact after word-of-mouth referring and marketting advertisements for our product via platforms such as LinkedIn and our app website to signify how our app promotes productivity, which could help provide more information for people that are considering using our product. Furthermore, if our app is successful, we could show the retention statistics of using our app. This would be how many weeks the user would update their credit system as it could signify ongoing use of the app.
+To enhance market penetration, we will develop comprehensive case studies documenting user experiences and outcomes. These studies will serve as secondary marketing channels, complementing word-of-mouth referrals and traditional marketing efforts. Distribution will occur through professional networks such as LinkedIn and our dedicated website platform.
+
+Success metrics will be prominently featured, with particular emphasis on user retention statistics and engagement patterns. Key performance indicators will include weekly credit system utilization rates and long-term user retention metrics, providing quantitative validation of the application's effectiveness in promoting sustained productivity improvements.
 
 <!-- TOC --><a name="37-main-risks-and-mitigation-strategies"></a>
 ### 3.7 Main Risks and Mitigation Strategies
@@ -572,12 +583,12 @@ We have four main risks with our business idea: Google and Apple restricting use
 <!-- TOC --><a name="371-user-permission-restrictions"></a>
 #### 3.7.1 User Permission Restrictions
 
-The most significant risk to the success of our company come from Google and Apple. This is due to the nature of our app requiring significant privileges to function. The risk comes as the possibility that either Google or Apple could restrict iOS/Android users ability to give such overarching permissions to 3rd party apps such as ours. However, it is unclear how likely a risk this is as it would entail curtailing user control with no financial incentive. This small risk is being mitigated by developing the application for multiple platforms, as it is unlikely all platforms will disallow this at once. 
+The most significant risk to the success of our company come from Google and Apple, due to the nature of our app requiring significant privileges to function. The risk comes as the possibility that either Google or Apple could restrict iOS/Android users ability to give such overarching permissions to 3rd party apps such as ours. However, it is unclear how likely a risk this is as it would entail curtailing user control with no financial incentive. This small risk is being mitigated by developing the application for multiple platforms, as it is unlikely all platforms will disallow this at once. 
 
 <!-- TOC --><a name="372-user-resistance"></a>
 #### 3.7.2 User Resistance
 
-For user resistance, users could easily lose retention if they suddenly lose access to apps that they deem unproductive. In order to mitigate users from losing retention and from our app gain viewership, we would implement gradual restrictions instead of a sudden app block. A suggested idea that we may follow is that we would implement a warning system to the user if their credit is getting low. The user would set a number of credits that they would like to start getting warnings at and would also set how often they would want this reminder given to them, whilst they are losing credits.
+For user resistance, users could easily lose retention if they suddenly lose access to apps that they deem unproductive. In order to mitigate users from losing retention and from our app gain viewership, we would implement gradual restrictions instead of a sudden app block. A suggested idea that we may follow is that we would implement a warning system to the user if their credit is getting low. The user would set a number of credits that they would like to start getting warnings at and would also set how often they would want this reminder given to them while they are losing credits.
 
 <!-- TOC --><a name="373-data-privacy-concerns"></a>
 #### 3.7.3 Data Privacy Concerns
@@ -587,7 +598,7 @@ Another main concern is data privacy and security. This is specificly important 
 <!-- TOC --><a name="374-competition-with-other-productivity-apps"></a>
 #### 3.7.4 Competition with Other Productivity Apps
 
-In order to deal with competition, we will implement unique features that differentiate our app from competititors, such as making the user complete a long verification process to re-configure the credit system, as well as combining elements that have already succeeded with existing competitors such as gamification, robust blocking, social features and customisation.
+In order to deal with competition, we will implement unique features that differentiate our app from competititors, such as making the user complete a long verification process to re-configure the credit system, thus discouraging them from modifying it to spend time on time wasting apps, as well as combining elements that have already succeeded with existing competitors such as gamification, robust blocking, social features and customisation.
 
 <!-- TOC --><a name="references"></a>
 ## References
