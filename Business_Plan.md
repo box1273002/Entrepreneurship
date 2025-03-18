@@ -72,7 +72,7 @@ Our research also uncovered a critical gap in the market — existing screen tim
 <!-- TOC --><a name="12-motivational-experiences"></a>
 ### 1.2 Motivational Experiences
 
-**Dhru's Story:** Dhru, one of FOCO's dedicated developers, has struggled with balancing his screentime. He tried several apps all of which sufferd from the same problem inflexiblity, particularly with apps like WhatsApp. When he blocked WhatsApp to stay focused, he found himself unable to use WhatApp when he genuinely need it to commicate. His experience demonstrates the importance of healthy digital habits and was the initial inspiration behind FOCO.
+**Dhru's Story:** Dhru, one of FOCO's dedicated developers, has struggled with balancing his screentime. He tried several apps all of which sufferd from the same problem: inflexiblity, particularly with apps like WhatsApp. When he blocked WhatsApp to stay focused, he found himself unable to use WhatApp when he genuinely need it to commicate. His experience demonstrates the importance of healthy digital habits and was the initial inspiration behind FOCO.
 
 **Ptolemy's Story:** A similar problem was encountered by Ptolemy. This time the issue was will Youtube. He found himself spending too much time on the app and went to block it. This however was also too restrictive as it meant he was unable to watch some of university resources which were posting on youtube, again the inflexibility was his key pain point.
 
