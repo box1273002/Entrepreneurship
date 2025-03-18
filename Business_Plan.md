@@ -658,11 +658,11 @@ In order to deal with competition, we will implement unique features that differ
 | Feature | Description | Priority |
 | --- | --- | --- |
 | Weekly Coin Allocation | Allow users to set a fixed number of coins each week | $${\color{red}\text{MUST}}$$ |
-| App Blocking | Block apps when coin balance hits zero. | MUST |
-| Coin Customization | Set coins per hour for app usage, or weekly | MUST |
-| Ad-based Coin Earning | Option to watch ads to earn extra coins | MUST |
-| Coin Purchases | In-app purchases for buying additional coins | MUST |
-| Premium Features | Unlock advanced locks, investment options, etc. | SHOULD |
+| App Blocking | Block apps when coin balance hits zero. | $${\color{red}\text{MUST}}$$ |
+| Coin Customization | Set coins per hour for app usage, or weekly | $${\color{red}\text{MUST}}$$ |
+| Ad-based Coin Earning | Option to watch ads to earn extra coins | $${\color{red}\text{MUST}}$$ |
+| Coin Purchases | In-app purchases for buying additional coins | $${\color{red}\text{MUST}}$$ |
+| Premium Features | Unlock advanced locks, investment options, etc. | $${\color{yellow}\text{SHOULD}}$$ |
 | Coin Investment | Allow users to invest coins to earn more later | SHOULD |
 | Daily Coin Weaning | Gradually reduce daily coin allocation | COULD |
 | Customizable Coin Schedules | Different coin costs for different time periods | SHOULD |
@@ -674,13 +674,13 @@ In order to deal with competition, we will implement unique features that differ
 
 | Requirement | Description | Priority |
 | --- | --- | --- |
-| Performance | App should block apps instantly when coins hit zero | MUST |
-| Security | Ensure user data is encrypted and secure | MUST |
+| Performance | App should block apps instantly when coins hit zero | $${\color{red}\text{MUST}}$$ |
+| Security | Ensure user data is encrypted and secure | $${\color{red}\text{MUST}}$$ |
 | Scalability | Support for thousands of concurrent users | SHOULD |
-| Usability | Intuitive interface with a fun, gamified design | MUST |
+| Usability | Intuitive interface with a fun, gamified design | $${\color{red}\text{MUST}}$$ |
 | Compatibility | we will market as an initial release on Android | SHOULD |
 | Accessibility | Ensure the app is usable for users with disabilities | COULD |
-| Ad Transparency | Clear communication about ad-watching rewards | MUST |
+| Ad Transparency | Clear communication about ad-watching rewards | $${\color{red}\text{MUST}}$$ |
 | Data Privacy | No data collection for premium users | SHOULD |
 
 ---
