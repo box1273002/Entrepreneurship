@@ -7,7 +7,7 @@
    * [1.1 The Problem](#11-the-problem)
    * [1.2 Motivational Experiences](#12-motivational-experiences)
    * [1.3 Our Solution](#13-our-solution)
-      + [1.4 App and Product Description](#14-app-and-product-description)
+   * [1.4 App and Product Description](#14-app-and-product-description)
    * [1.5 Selling Points](#15-selling-points)
    * [1.6 Are We Economically Viable? - Value Mapping](#16-are-we-economically-viable-value-mapping)
 - [2. Market Section](#2-market-section)
@@ -85,7 +85,7 @@ Imagine the same scenario — but with FOCO’s innovative coin system.
 Instead of a strict lockout, the user allocates coins to WhatsApp, deciding how much time they’re willing to “spend” on the app. When the coins run out, access is blocked — not as a punishment but as a natural consequence of spending their digital currency. This transforms screen time management into a strategic, gamified experience rather than a restrictive one. We will introduce a solution.
 
 <!-- TOC --><a name="14-app-and-product-description"></a>
-#### 1.4 App and Product Description
+### 1.4 App and Product Description
 
 *FOCO* is a playful, gamified screen time management app designed to help users take back control of their digital habits, one coin at a time! 
 
