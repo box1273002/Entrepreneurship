@@ -130,7 +130,7 @@ There are a number of things that set us apart from the competition. These are o
 <!-- TOC --><a name="16-are-we-economically-viable-value-mapping"></a>
 ### 1.6 Are We Economically Viable? - Value Mapping
 
-Our value mapping (see *Appendix I*) demonstrates that FOCO offers the most affordable, flexible, and engaging screen time solution compared to competitors like *Cold Turkey*, *Opal*, and *Forest*. With features like coin-based time management, ad-based coin earning, and personalized scheduling, FOCO bridges the gap between rigid time-blocking apps and user-driven digital wellness.
+Our value mapping (see *Appendix 1*) demonstrates that FOCO offers the most affordable, flexible, and engaging screen time solution compared to competitors like *Cold Turkey*, *Opal*, and *Forest*. With features like coin-based time management, ad-based coin earning, and personalized scheduling, FOCO bridges the gap between rigid time-blocking apps and user-driven digital wellness.
 
 <!-- TOC --><a name="2-market-section"></a>
 ## 2. Market Section
@@ -144,8 +144,14 @@ To ensure that our product provides users with the most effective productivity s
 - Market size and demand: how many people actively seek screen time control solutions and how will this change into the future?
 - Competitive landscape: what existing apps offer screen time restrictions, and how do they work, how do competitors monetize their apps and what are the strengths and weaknesses of competing products?
 
+### 2.2 Use Cases and Storyboarding
+
+In order to properly consider how we expect our users to interact with our product, we considered a wide breadth of scenarios which our users could run into. We constructed these scenarios as storyboards to allow us to visualize and better consider how we wish to engineer our user-product interaction (see Appendix 2). These scenarios are based on the values we highlighted in our value mapping section.
+
+Overall, this approach was very informative and achieved its goal of allowing us to consider intricacies of the user’s interaction and more deeply think about how to engineer our system, forcing us to consider a wide range of scenarios. If we discover or come up with more such scenarios, we will certainly add to this growing database.
+
 <!-- TOC --><a name="22-secondary-research"></a>
-### 2.2 Secondary Research
+### 2.3 Secondary Research
 
 **Target market and user needs:**
 
@@ -173,7 +179,7 @@ Despite several competitors, our data shows that the market is yet to be fully s
 In terms of business models, most competitors opt for a subscription model to maintain a constant income. Clarymind [4] for example operates on a subscription model (Monthly: $14.99 | 6-Month: $49.99 | Yearly: $62.99 | Pro: $34.99), estimated to generate ~$2M annually with 100,000+ active users.
 
 <!-- TOC --><a name="23-primary-research-and-consulting"></a>
-### 2.3 Primary Research and Consulting
+### 2.4 Primary Research and Consulting
 
 To validate our findings from our secondary research, we decided it would be most productive for our business to conduct our own primary research. First, we tried to determine how to monetize the product in a way that is most compatible with the users. Out of all of the participants, 80% people would prefer sharing their data rather than watching ads, and 60% of participants would be willing to pay up to £3 to remove ads. For the premium version, roughly half would pay £1.00 per month / £ 10.00 per year / £25.00 lifetime (the other half were not interested in premium). Surprisingly, out of monthly, yearly and lifetime subscription models, participants were completely mixed, with an even split each. 
 
@@ -181,7 +187,7 @@ We also asked our participants for more general feedback. Participants suggested
 This survey was excellent at getting a direct insider view into the opinions of the target audience and was greatly influential in how we shaped our product.
 
 <!-- TOC --><a name="24-main-competitors"></a>
-### 2.4 Main Competitors
+### 2.5 Main Competitors
 
 The screen time management app market has experienced significant growth in recent years, driven by increasing awareness of digital wellbeing and the negative impacts of excessive screen time. According to recent studies, the average American spends approximately 7 hours per day on digital devices, with smartphone usage accounting for a significant portion of this time. This has created a substantial market opportunity for applications that help users manage and reduce their screen time.
 
@@ -195,7 +201,7 @@ The market can be segmented into several categories:
 FOCO positions itself primarily in the comprehensive management category, offering a blend of monitoring, blocking, and behavioral modification through its unique coin system. This approach allows it to appeal to a broad audience while differentiating itself from competitors.
 
 <!-- TOC --><a name="241-opal-the-premium-competitor"></a>
-#### 2.4.1 Opal: The Premium Competitor
+#### 2.5.1 Opal: The Premium Competitor
 
 Opal [9] has established itself as a premium player in the focus app market, with a strong emphasis on deep work and distraction elimination.
 
@@ -217,7 +223,7 @@ Opal's premium positioning and relatively high price point ($8.29/month) create 
 FOCO should consider implementing a similarly robust blocking mechanism while maintaining its price advantage and expanding its customization options. The significant price differential ($7/month) could be a compelling driver for users to choose FOCO over Opal if the core blocking functionality is comparable.
 
 <!-- TOC --><a name="242-forest-the-gamification-pioneer"></a>
-#### 2.4.2 Forest: The Gamification Pioneer
+#### 2.5.2 Forest: The Gamification Pioneer
 
 Forest [10] has successfully leveraged environmental impact and visual rewards to create a compelling productivity tool that has garnered significant market attention.
 
@@ -240,7 +246,7 @@ Forest's success demonstrates the power of gamification in the screen time manag
 FOCO's potential advantage lies in combining Forest's engaging gamification with more robust blocking mechanisms and detailed analytics. By providing users with both the emotional rewards of gamification and the practical tools for enforcing discipline, FOCO could position itself as an evolution beyond Forest's approach.
 
 <!-- TOC --><a name="243-cold-turkey-the-hardcore-blocker"></a>
-#### 2.4.3 Cold Turkey: The Hardcore Blocker
+#### 2.5.3 Cold Turkey: The Hardcore Blocker
 
 Cold Turkey [11] takes a no-nonsense approach to digital distraction, offering some of the most stringent blocking mechanisms available.
 
@@ -263,7 +269,7 @@ Cold Turkey's focus on desktop platforms creates a significant opportunity for F
 FOCO should consider how to balance blocking effectiveness with user experience, perhaps offering tiered levels of restriction that allow users to gradually increase blocking severity as they build discipline. The subscription model versus one-time purchase difference represents a strategic choice, with FOCO betting on long-term recurring revenue over upfront payments.
 
 <!-- TOC --><a name="244-jomo-the-widget-innovator"></a>
-#### 2.4.4 Jomo: The Widget Innovator
+#### 2.5.4 Jomo: The Widget Innovator
 
 Jomo [12] has created distinctive value through its widget-based approach and dynamic limits.
 
@@ -285,7 +291,7 @@ Jomo's widget-based approach represents an opportunity for FOCO to enhance its a
 The lack of cross-device synchronization in Jomo highlights an opportunity for FOCO to implement robust cross-platform functionality, ensuring a seamless experience across all of a user's devices. Additionally, FOCO's coin system could be extended to the widget interface, bringing gamification elements to the home screen in a way that Jomo has not accomplished.
 
 <!-- TOC --><a name="25-competitive-analysis"></a>
-### 2.5 Competitive Analysis
+### 2.6 Competitive Analysis
 
 Based on an analyiss of our competitors, FOCO occupies a promising position in the screen time management market by combining elements that have proven successful across multiple competitors:
 
@@ -298,7 +304,7 @@ Based on an analyiss of our competitors, FOCO occupies a promising position in t
 This combined approach addresses multiple user needs within a single platform, potentially eliminating the need for users to employ multiple applications for different aspects of screen time management.
 
 <!-- TOC --><a name="251-key-market-advantages"></a>
-#### 2.5.1 Key Market Advantages
+#### 2.6.1 Key Market Advantages
 
 FOCO's most significant advantages in the current market include:
 
@@ -309,7 +315,7 @@ FOCO's most significant advantages in the current market include:
 5. **Mission-Driven Positioning**: The emphasis on accessibility and wellbeing over profit maximization can create stronger brand loyalty and word-of-mouth marketing.
 
 <!-- TOC --><a name="252-primary-challenges-and-risks"></a>
-#### 2.5.2 Primary Challenges and Risks
+#### 2.6.2 Primary Challenges and Risks
 
 Despite its advantages, FOCO faces several significant challenges that could impact its success:
 
@@ -321,7 +327,7 @@ Despite its advantages, FOCO faces several significant challenges that could imp
 6. **Behavioral Change Complexity**: Successfully changing deeply ingrained digital habits requires more than just technical tools—it requires behavioral science expertise that may be challenging to implement effectively.
 
 <!-- TOC --><a name="26-assumptions-and-risk-assessment"></a>
-### 2.6 Assumptions and Risk Assessment
+### 2.7 Assumptions and Risk Assessment
 
 FOCO's business model rests on several key assumptions that should be critically evaluated:
 
@@ -615,20 +621,20 @@ In order to deal with competition, we will implement unique features that differ
 
 <!-- TOC --><a name="appendices"></a>
 ## Appendices
-### Appendix 1
-#### **Functional Requirements Specification**
+### Appendix 1 - Requirements Specification
+#### **Functional Requirements**
 
 | Feature | Description | Priority |
 | --- | --- | --- |
 | Weekly Coin Allocation | Allow users to set a fixed number of coins each week | MUST |
-| App Blocking | Block apps when coin balance hits zero. (give option to buy more using money or adds) | MUST |
+| App Blocking | Block apps when coin balance hits zero. | MUST |
 | Coin Customization | Set coins per hour for app usage, or weekly | MUST |
 | Ad-based Coin Earning | Option to watch ads to earn extra coins | MUST |
 | Coin Purchases | In-app purchases for buying additional coins | MUST |
 | Premium Features | Unlock advanced locks, investment options, etc. | SHOULD |
-| Coin Investment | Allow users to invest coins to earn more later (speak to group)  | SHOULD |
-| Daily Coin Weaning | Gradually reduce daily coin allocation (optional) - could be a cool feature  | COULD |
-| Customizable Coin Schedules | Different coin costs for different time periods (holidays more coins?) | SHOULD |
+| Coin Investment | Allow users to invest coins to earn more later | SHOULD |
+| Daily Coin Weaning | Gradually reduce daily coin allocation | COULD |
+| Customizable Coin Schedules | Different coin costs for different time periods | SHOULD |
 | Adjustable Weekly Coin Caps | Premium feature to set stricter weekly limits | COULD |
 
 ---
@@ -641,7 +647,7 @@ In order to deal with competition, we will implement unique features that differ
 | Security | Ensure user data is encrypted and secure | MUST |
 | Scalability | Support for thousands of concurrent users | SHOULD |
 | Usability | Intuitive interface with a fun, gamified design | MUST |
-| Compatibility | we will market as an initial release on Android (create hype for other platforms like android)  | SHOULD |
+| Compatibility | we will market as an initial release on Android | SHOULD |
 | Accessibility | Ensure the app is usable for users with disabilities | COULD |
 | Ad Transparency | Clear communication about ad-watching rewards | MUST |
 | Data Privacy | No data collection for premium users | SHOULD |
@@ -657,13 +663,7 @@ Our Core features have been chosen based on market research and a deep understan
 
 Our non-functional requirements ensure FOCO provides a seamless, enjoyable, and trustworthy experience for users. FOCO cares about its users and prioritises transparency and trust. This is why we guarantee premium users with zero data collection. Unlike competitors we address concerns about data exploitation. Our intuitive gamified interface will make managing screen time enjoyable;  we aren’t a prison, we are guide. FOCO will grow with its user base. Launching on Android, will allow us to refine the app before expanding, as we aim to get it right the first time.
 
-### Appendix 2
-# Storyboarding
-
-- In order to properly consider how we expect/wish our users to interact with our product, we considered a wide breadth of scenarios which our users could run into.
-- We constructed these scenarios as storyboards to allow us to visualize and better consider how we wish to engineer our user-product interaction.
-- These scenarios are based on the values we highlighted in our value mapping section (REFER)
-- NOTE: We will use Marilyn’s diagram version in the actual thing
+### Appendix 2 - Storyboarding
 
 ### Scenario 1 - “First Use”:
 
@@ -688,8 +688,8 @@ Evaluation:
 - **Reductive Apps -** Negative credits on specific apps allow users to spend credits as these apps are deemed reductive.
 - **User Locked -** User is locked from changing the credits for 7 days once they have generated settings for each app.
 - **Using FOCO -** The user starts with 100 credits.
-- **Gaining Credits -** User opens up DuoLingo (MAKE THIS GENERIC USEFUL APP) for 1hr and gains 50 credits.
-- **Losing Credits -** User then opens TikTok (AGAIN, SAY GENERIC APP, EXAMPLE: TIKTOK) for 1hr and loses 50 credits.
+- **Gaining Credits -** User opens up DuoLingo for 1hr and gains 50 credits.
+- **Losing Credits -** User then opens TikTok for 1hr and loses 50 credits.
 - **Zero Credit -** User uses loads of reductive apps and their credit goes to 0.
 - **Reductive Apps Blocked -** All reductive apps are now blocked from the user until they gain credits.
 - **Forces the User to Use Productive Apps -** User uses productive apps to gain credit.
@@ -717,11 +717,11 @@ Evaluation:
 
 ### Scenario 4 - “Premium Use”:
 
-- **Unhappy User -** User notices that their credits are lost very easily on weekends and at night. (MODIFY THIS TO SAY THAT THE USER IS NOT UNHAPPY BUT STILL WANTS TO TAKE THEIR PRODUCTIVITY FURTHER)
-- **User wants to Relax -** User wants their weekends and their nights to be less productive so that they can relax. (GIVE AS EXAMPLE TO PREVIOUS POINT)
+- **Unhappy User -** User notices that their credits are lost very easily on weekends and at night.
+- **User wants to Relax -** User wants their weekends and their nights to be less productive so that they can relax. 
 - **Account Creation -** However, the reductive apps they want to use at these times sometimes get blocked due to excessive use.
 - **Changing Credit Settings based on Date and Time -** The user wants to be able to adjust this without having to change their credit settings recurringly.
-- **FOCO Premium -** User installs premium version of the app. (BUYS NOT INSTALLS)
+- **FOCO Premium -** User installs premium version of the app. 
 - **Calendar and Time Settings -** User now has a calendar and time setting.
 - **Adjusting the Date and Time Settings -** User adjusts the setting so they do not lose credits on the weekends or at night, when they are using reductive apps.
 - **Happy User -** User is now happy because they are not blocked for using reductive apps when they are relaxing.
@@ -732,10 +732,3 @@ Evaluation:
 - As a result, we decided to build our premium version to reflect that by providing very much increased flexibility to the apps features. This involves the weekly schedule from S4 and the possibility of a user goal in S1.
 - Given that most of our target audience are young career driven people, we safely assume that they will be comfortable operating a more flexible interface and that this will not be a detriment like in alternate products.
 - Special care was noted when increasing flexibility to align this with directly helping improve productivity, without undermining the restrictions of the app that are the main selling point.
-
-**STORYBOARDING EVALUATION:**
-
-- Overall very informative and achieved its goal of allowing us to consider intricacies of the user’s interaction and more deeply think about how to engineer our system.
-- Forced us to consider a wide range of scenarios (not just the obvious ones, some we didn’t think of).
-- Directly lead to consideration of premium version
-- Possible that we missed some scenarios, we may return to this stage if we believe so.
