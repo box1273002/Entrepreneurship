@@ -65,7 +65,7 @@
 <!-- TOC --><a name="11-the-problem"></a>
 ### 1.1 The Problem
 
-In today's digital age, screen time dependency has become a widespread issue, with approximately **53% of Americans** seeking to reduce their device usage to improve time management, mental health, and productivity. However, moderating digital consumption presents significant challenges — research indicates that **49% of individuals** report device dependency, with **69% of Generation Z** explicitly acknowledging their reliance on mobile devices [1].
+In today's digital age, screen time dependency has become a widespread issue, with approximately **53% of Americans** seeking to reduce their device usage to improve time management, mental health, and productivity. However, moderating digital consumption presents significant challenges — research indicates that **49% of individuals** report device dependency, with **69% of Generation Z** explicitly acknowledging their reliance on mobile devices [[1]](#ref-1).
 
 Our research has identified a significant limitation in existing solutions — current screen time management applications, such as *Opal*, implement inflexible blocking mechanisms that often prove counterproductive and diminish user engagement.
 
@@ -84,7 +84,7 @@ Our research has identified a significant limitation in existing solutions — c
 
 Imagine the same scenario — but with FOCO’s innovative coin system.
 
-Instead of a strict lockout, the user allocates coins to WhatsApp, deciding how much time they’re willing to “spend” on the app. When the coins run out, access is blocked — not as a punishment but as a natural consequence of spending their digital currency. This transforms screen time management into a strategic, gamified experience rather than a restrictive one. We will introduce a solution.
+Instead of a strict lockout, the user allocates coins to WhatsApp, deciding how much time they’re willing to “spend” on the app. When the coins run out, access is blocked — not as a punishment but as a natural consequence of spending their digital currency. This innovation transforms screen time management into a strategic, gamified experience rather than a restrictive one.
 
 <!-- TOC --><a name="14-app-and-product-description"></a>
 ### 1.4 App and Product Description
@@ -591,34 +591,49 @@ In order to deal with competition, we will implement unique features that differ
 <!-- TOC --><a name="references"></a>
 ## References
 
+<!-- TOC --><a name="ref-1"></a>
 [1] Harmony Healthcare IT (2025) Phone screen time statistics. Available at: https://www.harmonyhit.com/phone-screen-time-statistics/ (Accessed: 16 March 2025)
 
+<!-- TOC --><a name="ref-2"></a>
 [2] Nield, D. (2025) *The Best Time Management Apps to tame the chaos*, *Wired*. Available at: https://www.wired.com/story/best-time-management-apps (Accessed: 16 March 2025). 
 
+<!-- TOC --><a name="ref-3"></a>
 [3] Persichetti, E. (2020). *Unplugging: An Evidence-Based Project to Reduce Screen Time and Improve Healthy Media Use in the Adolescent Population*. https://doi.org/10.22371/07.2020.024 (Accessed: 16 March 2025). 
 
+<!-- TOC --><a name="ref-4"></a>
 [4] Olson, J. A., D, S., Chmoulevitch, D., Raz, A., & Spl, V. (2021). *A ten-step behavioural intervention to reduce screen time and problematic smartphone use*. https://doi.org/10.31234/OSF.IO/TJYNK (Accessed: 16 March 2025).
 
+<!-- TOC --><a name="ref-5"></a>
 [5] Chanda, D. (2025) Mindful Screen Time Management app development like Clarymind, IdeaUsher. Available at: https://ideausher.com/blog/screen-time-management-app-development-like-clarymind (Accessed: 16 March 2025). 
 
+<!-- TOC --><a name="ref-6"></a>
 [6] Bleckmann, P., Schwendemann, H., Flaig, S., Kuntz, L., Stiller, A., Mößle, T., & Bitzer, E. M. (2019). *MEDIA PROTECT: A setting- and parent-targeted intervention for a healthy childhood in the digital age* (pp. 233–246). Policy Press. https://doi.org/10.56687/9781447344520-018 (Accessed: 16 March 2025). 
 
+<!-- TOC --><a name="ref-7"></a>
 [7] Agrawal, P. A. (2024). AppLimit Monitor for Smartphone Addiction. *Indian Scientific Journal Of Research In Engineering And Management*. https://doi.org/10.55041/ijsrem29133 (Accessed: 16 March 2025). 
 
+<!-- TOC --><a name="ref-8"></a>
 [8] Hoof, K. van (2023) *5 best apps for limiting screen time in 2025: Tested*, *SafetyDetectives*. Available at: https://www.safetydetectives.com/blog/best-apps-for-limiting-screen-time (Accessed: 16 March 2025).
 
+<!-- TOC --><a name="ref-9"></a>
 [9] Opal Corporation (2024). Opal. https://www.opal.so/ (Accessed: 16 March 2025).
 
+<!-- TOC --><a name="ref-10"></a>
 [10] SeekrTech (2025). Forest: Focus for Productivity. https://www.forestapp.cc/ (Accessed: 16 March 2025).
 
+<!-- TOC --><a name="ref-11"></a>
 [11] Cold Turkey Software Inc. (2025) Cold Turkey. https://getcoldturkey.com/ (Accessed: 16th March 2025). 
 
+<!-- TOC --><a name="ref-12"></a>
 [12] Jomo SAS. (2024) Jomo. https://jomo.so/ (Accessed: 16th March 2025) 
 
+<!-- TOC --><a name="ref-13"></a>
 [13] University of Bath [@uniofbath], 2025. Instagram Page [Online]. Available from: https://www.instagram.com/uniofbath/?hl=en [Accessed 16/03/2025]
 
+<!-- TOC --><a name="ref-14"></a>
 [14] Uni of Bath Student Support [@bathstusupport], 2025. Instagram Post [Online], 21/11/2023. Available from: https://www.instagram.com/bathstusupport/reel/Cz6hbgvtd_n/ [Accessed 16/03/2025]
 
+<!-- TOC --><a name="ref-15"></a>
 [15] Whitehall, E., 2020. *How StudyTube is Changing Education* [Online]. United Kingdom: The Indiependent. Available from: https://www.indiependent.co.uk/how-studytube-is-changing-education/ [Accessed 16/03/2025]
 
 
