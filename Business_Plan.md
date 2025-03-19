@@ -115,9 +115,7 @@ Our system will consist of a free verion and a premium version:
 
 **The Service We Are Developing** 
 
-The app will run on Android.
-
-We will utilise gamification, behavioral psychology, and simple finance-style mechanisms (coins, investments) to create a fun app that helps users break free from digital addiction or casual users who want to be purposeful with their time. *Our Functional and Non Functional Requirements for our project can be found in the appendix*.
+We will utilise gamification, behavioral psychology, and simple finance-style mechanisms (coins, investments) to create a fun app that helps users break free from digital addiction or casual users who want to be purposeful with their time. Our Functional and Non Functional Requirements for our project can be found in [*Appendix 1*](#appendix-1).
 
 <!-- TOC --><a name="15-selling-points"></a>
 ### 1.5 Selling Points
@@ -163,7 +161,7 @@ Our research has shown that the market for productivity and time management apps
 
 From analyzing the literature on the subject, we confirmed that most of the target audience would use the system as an intervention rather than as a guide. Based on this, we tailored our app to take into account the relationships of the user with their family and friends. By involving families in the intervention in a Family Media Plan, the project aimed to create tailored strategies for managing screen time, which can be supported by caregivers modeling healthy behaviors. This approach is essential for fostering long-term changes in media habits among adolescents. Intervening technologies are most effective when paired with support and enforcement of a third-party [[3]](#ref-3).
 
-The benefits of the intervention were not just short-term; participants in a study by Olsen et al. (2021) [[4]](#ref-4) maintained lower levels of smartphone use and improved well-being for at least six weeks after the intervention ended. Ensuring that the user makes it through the initial few days is the hardest part in the “rehabilitation” timeline, hence it is a part we need to focus on the most in terms of encouraging and motivating the user.
+The benefits of the intervention were not just short-term; participants in a study by Olsen et al. (2021) [[4]](#ref-4) maintained lower levels of smartphone use and improved well-being for at least six weeks after the intervention ended. Ensuring that the user makes it through the initial few days is the hardest part in the “rehabilitation” timeline. Therefore, a key priority for us will be encouraging and motivating our users to stay on track.
 
 **Market size and demand:**
 
@@ -472,7 +470,7 @@ Perhaps the most well rounded team with prior experience acting as team leader i
 
 **Marilyn D’Costa - CFO**
 
-Marilyn has specialized in the data science and business strategy elements of her computer science. As such she is best suited to take on the role of CEO.
+Marilyn has specialized in the data science and business strategy elements of her computer science. As such she is best suited to take on the role of CFO.
 
 **Dhru Randeria - CMO**
 
@@ -559,7 +557,7 @@ The implementation of a strategic referral system aims to facilitate organic use
 1. **Premium Access Model**: Offering 30 days of premium features when a referred user subscribes to a premium plan
 2. **Customization Rewards**: Providing exclusive cosmetic changes ("skins") for successful referrals, regardless of premium subscription status
 
-Each approach presents distinct advantages: the premium access model potentially drives higher-value conversions, while the customization rewards system operates with minimal variable costs. We plan to conduct systematic testing of both approaches to determine optimal implementation, with the possibility of maintaining parallel systems based on performance metrics.
+We are considering two approaches: a premium access model, designed to drive higher-value conversions, and a customization rewards system, which operates with minimal variable costs. To inform our decision, we will conduct thorough testing of both approaches. Based on our results, we will determine whether to implement a single optimal system or maintain both systems in parallel.
 
 <!-- TOC --><a name="363-university-and-workplace-partnerships"></a>
 #### 3.6.3 University and Workplace Partnerships
