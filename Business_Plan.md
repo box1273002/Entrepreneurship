@@ -667,8 +667,6 @@ In order to deal with competition, we will implement unique features that differ
 | Customizable Coin Schedules | Different coin costs for different time periods | $${\color{orange}\text{SHOULD}}$$ |
 | Adjustable Weekly Coin Caps | Premium feature to set stricter weekly limits | $${\color{lightgreen}\text{COULD}}$$ |
 
----
-
 #### **Non-Functional Requirements Specification**
 
 | Requirement | Description | Priority |
@@ -682,8 +680,6 @@ In order to deal with competition, we will implement unique features that differ
 | Ad Transparency | Clear communication about ad-watching rewards | $${\color{red}\text{MUST}}$$ |
 | Data Privacy | No data collection for premium users | $${\color{orange}\text{SHOULD}}$$ |
 
----
-
 #### **Justification of Chosen Requirements**
 
 **Core Functional Requirements:**
@@ -691,7 +687,9 @@ Our Core features have been chosen based on market research and a deep understan
 
 **Non-Functional Requirements:**
 
-Our non-functional requirements ensure FOCO provides a seamless, enjoyable, and trustworthy experience for users. FOCO cares about its users and prioritises transparency and trust. This is why we guarantee premium users with zero data collection. Unlike competitors we address concerns about data exploitation. Our intuitive gamified interface will make managing screen time enjoyable; we aren’t a prison, we are guide. FOCO will grow with its user base. Launching on Android, will allow us to refine the app before expanding, as we aim to get it right the first time.
+Our non-functional requirements ensure FOCO provides a seamless, enjoyable, and trustworthy experience for users. FOCO cares about its users and prioritises transparency and trust. This is why we guarantee premium users with zero data collection. Unlike competitors we address concerns about data exploitation. Our intuitive gamified interface will make managing screen time enjoyable; we aren’t a prison, we are guide. FOCO will grow with its user base. We aim to launch on Android first, which will allow us to refine the app before expanding, as we want FOCO to embrace a culture of getting it right the first time.
+
+---
 
 <!-- LINK --><a name="appendix-2"></a>
 ### Appendix 2 - Value Mapping
@@ -705,6 +703,8 @@ Our non-functional requirements ensure FOCO provides a seamless, enjoyable, and 
 | Engagement & motivation | Mostly strict blocking | Investing coins for future rewards |
 | Weekly time budgeting | Daily time limits | Fixed weekly coin budgets |
 | Scarcity-driven discipline | Fixed app locks | Coin exhaustion = locked apps. This encourages strategy; we don’t just block apps we encourage balance and moderation. |
+
+---
 
 <!-- LINK --><a name="appendix-3"></a>
 ### Appendix 3 - Storyboarding
