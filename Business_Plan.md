@@ -130,7 +130,7 @@ There are a number of things that set us apart from the competition. These are o
 <!-- TOC --><a name="16-are-we-economically-viable-value-mapping"></a>
 ### 1.6 Are We Economically Viable? - Value Mapping
 
-Our value mapping (see [*Appendix 1*](#appendix-1) demonstrates that FOCO offers the most affordable, flexible, and engaging screen time solution compared to competitors like *Cold Turkey*, *Opal*, and *Forest*. With features like coin-based time management, ad-based coin earning, and personalized scheduling, FOCO bridges the gap between rigid time-blocking apps and user-driven digital wellness.
+Our value mapping (see [*Appendix 0*](#appendix-0) demonstrates that FOCO offers the most affordable, flexible, and engaging screen time solution compared to competitors like *Cold Turkey*, *Opal*, and *Forest*. With features like coin-based time management, ad-based coin earning, and personalized scheduling, FOCO bridges the gap between rigid time-blocking apps and user-driven digital wellness.
 
 <!-- TOC --><a name="2-market-section"></a>
 ## 2. Market Section
@@ -650,6 +650,20 @@ In order to deal with competition, we will implement unique features that differ
 <!-- TOC --><a name="appendices"></a>
 ## Appendices
 <!-- LINK --><a name="appendix-1"></a>
+
+### Appendix 0 - Value Mapping
+
+| Value Proposition | Competitor Offering (Cold Turkey, Opal, Forest) | Our Offering (FOCO) |
+| --- | --- | --- |
+| Gamified screen time control | Traditional app blockers, timers | Coin system — spend or save time like currency |
+| Ultra-affordable premium version | Premium models starting at higher prices | Competitive pricing  |
+| Earning extra usage time | No earning mechanisms | Watch ads or buy coins |
+| Long-term habit building | Time-blocking only | Gradual “weaning” schedules |
+| Engagement & motivation | Mostly strict blocking | Investing coins for future rewards |
+| Weekly time budgeting | Daily time limits | Fixed weekly coin budgets |
+| Scarcity-driven discipline | Fixed app locks | Coin exhaustion = locked apps.
+This encourages strategy; we don’t just block apps we encourage balance and moderation.  |
+
 ### Appendix 1 - Requirements Specification
 #### **Functional Requirements**
 
