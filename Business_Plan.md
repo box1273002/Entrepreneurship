@@ -191,7 +191,7 @@ This survey was excellent at getting a direct insider view into the opinions of 
 <!-- TOC --><a name="25-main-competitors"></a>
 ### 2.5 Main Competitors
 
-The screen time management app market has experienced significant growth in recent years, driven by increasing awareness of digital wellbeing and the negative impacts of excessive screen time. According to recent studies, the average American spends approximately 7 hours per day on digital devices, with smartphone usage accounting for a significant portion of this time. This has created a substantial market opportunity for applications that help users manage and reduce their screen time.
+The screen time management app market has experienced significant growth in recent years, driven by increasing awareness of digital wellbeing and the negative impacts of excessive screen time. According to recent studies, the average American spends approximately 7 hours per day on digital devices [[9]](#ref-9), with smartphone usage accounting for a significant portion of this time. This has created a substantial market opportunity for applications that help users manage and reduce their screen time.
 
 The market can be segmented into several categories:
 
@@ -205,7 +205,7 @@ FOCO positions itself primarily in the comprehensive management category, offeri
 <!-- TOC --><a name="251-opal-the-premium-competitor"></a>
 #### 2.5.1 Opal: The Premium Competitor
 
-Opal [[9]](#ref-9) has established itself as a premium player in the focus app market, with a strong emphasis on deep work and distraction elimination.
+Opal [[10]](#ref-10) has established itself as a premium player in the focus app market, with a strong emphasis on deep work and distraction elimination.
 
 **Strengths**:
 
@@ -227,7 +227,7 @@ FOCO should consider implementing a similarly robust blocking mechanism while ma
 <!-- TOC --><a name="252-forest-the-gamification-pioneer"></a>
 #### 2.5.2 Forest: The Gamification Pioneer
 
-Forest [[10]](#ref-10) has successfully leveraged environmental impact and visual rewards to create a compelling productivity tool that has garnered significant market attention.
+Forest [[10]](#ref-11) has successfully leveraged environmental impact and visual rewards to create a compelling productivity tool that has garnered significant market attention.
 
 **Strengths**:
 
@@ -250,7 +250,7 @@ FOCO's potential advantage lies in combining Forest's engaging gamification with
 <!-- TOC --><a name="253-cold-turkey-the-hardcore-blocker"></a>
 #### 2.5.3 Cold Turkey: The Hardcore Blocker
 
-Cold Turkey [[11]](#ref-11) takes a no-nonsense approach to digital distraction, offering some of the most stringent blocking mechanisms available.
+Cold Turkey [[11]](#ref-12) takes a no-nonsense approach to digital distraction, offering some of the most stringent blocking mechanisms available.
 
 **Strengths**:
 
@@ -273,7 +273,7 @@ FOCO should consider how to balance blocking effectiveness with user experience,
 <!-- TOC --><a name="254-jomo-the-widget-innovator"></a>
 #### 2.5.4 Jomo: The Widget Innovator
 
-Jomo [[12]](#ref-12) has created distinctive value through its widget-based approach and dynamic limits.
+Jomo [[12]](#ref-13) has created distinctive value through its widget-based approach and dynamic limits.
 
 **Strengths**:
 
@@ -562,9 +562,9 @@ We are considering two approaches: a premium access model, designed to drive hig
 <!-- TOC --><a name="363-university-and-workplace-partnerships"></a>
 #### 3.6.3 University and Workplace Partnerships
 
-Our marketing strategy prioritizes educational and professional environments, with a particular focus on academic institutions. Initial partnership efforts will commence with the University of Bath, leveraging their established social media presence, particularly their Instagram platform [[13]](#ref-13), which features student-generated content and program promotion [[14]](#ref-14).
+Our marketing strategy prioritizes educational and professional environments, with a particular focus on academic institutions. Initial partnership efforts will commence with the University of Bath, leveraging their established social media presence, particularly their Instagram platform [[13]](#ref-14), which features student-generated content and program promotion [[15]](#ref-14).
 
-We recognize the importance of maintaining authenticity while pursuing institutional partnerships. To mitigate the risk of appearing institutionally mandated, we will implement a balanced approach that emphasizes user autonomy. Additionally, we plan to collaborate with educational content creators, offering premium access incentives through promotional codes. YouTube presents an optimal platform for these partnerships, given its established study-focused communities [[15]](#ref-15) and capacity for detailed product demonstrations.
+We recognize the importance of maintaining authenticity while pursuing institutional partnerships. To mitigate the risk of appearing institutionally mandated, we will implement a balanced approach that emphasizes user autonomy. Additionally, we plan to collaborate with educational content creators, offering premium access incentives through promotional codes. YouTube presents an optimal platform for these partnerships, given its established study-focused communities [[15]](#ref-16) and capacity for detailed product demonstrations.
 
 <!-- TOC --><a name="364-user-case-studies"></a>
 #### 3.6.4 User Case Studies
@@ -626,25 +626,28 @@ In order to deal with competition, we will implement unique features that differ
 [8] Hoof, K. van (2023) *5 best apps for limiting screen time in 2025: Tested*, *SafetyDetectives*. Available at: https://www.safetydetectives.com/blog/best-apps-for-limiting-screen-time (Accessed: 16 March 2025).
 
 <!-- LINK --><a name="ref-9"></a>
-[9] Opal Corporation (2024). Opal. https://www.opal.so/ (Accessed: 16 March 2025).
+[9] Dean, B. (2025). Revealing Average Screen Time Statistics. Backlinko. Available at: https://backlinko.com/screen-time-statistics [Accessed 19 Mar. 2025].
 
 <!-- LINK --><a name="ref-10"></a>
-[10] SeekrTech (2025). Forest: Focus for Productivity. https://www.forestapp.cc/ (Accessed: 16 March 2025).
+[10] Opal Corporation (2024). Opal. https://www.opal.so/ (Accessed: 16 March 2025).
 
 <!-- LINK --><a name="ref-11"></a>
-[11] Cold Turkey Software Inc. (2025) Cold Turkey. https://getcoldturkey.com/ (Accessed: 16th March 2025). 
+[11] SeekrTech (2025). Forest: Focus for Productivity. https://www.forestapp.cc/ (Accessed: 16 March 2025).
 
 <!-- LINK --><a name="ref-12"></a>
-[12] Jomo SAS. (2024) Jomo. https://jomo.so/ (Accessed: 16th March 2025) 
+[12] Cold Turkey Software Inc. (2025) Cold Turkey. https://getcoldturkey.com/ (Accessed: 16th March 2025). 
 
 <!-- LINK --><a name="ref-13"></a>
-[13] University of Bath [@uniofbath], 2025. Instagram Page [Online]. Available from: https://www.instagram.com/uniofbath/?hl=en [Accessed 16/03/2025]
+[13] Jomo SAS. (2024) Jomo. https://jomo.so/ (Accessed: 16th March 2025) 
 
 <!-- LINK --><a name="ref-14"></a>
-[14] Uni of Bath Student Support [@bathstusupport], 2025. Instagram Post [Online], 21/11/2023. Available from: https://www.instagram.com/bathstusupport/reel/Cz6hbgvtd_n/ [Accessed 16/03/2025]
+[14] University of Bath [@uniofbath], 2025. Instagram Page [Online]. Available from: https://www.instagram.com/uniofbath/?hl=en [Accessed 16/03/2025]
 
 <!-- LINK --><a name="ref-15"></a>
-[15] Whitehall, E., 2020. *How StudyTube is Changing Education* [Online]. United Kingdom: The Indiependent. Available from: https://www.indiependent.co.uk/how-studytube-is-changing-education/ [Accessed 16/03/2025]
+[15] Uni of Bath Student Support [@bathstusupport], 2025. Instagram Post [Online], 21/11/2023. Available from: https://www.instagram.com/bathstusupport/reel/Cz6hbgvtd_n/ [Accessed 16/03/2025]
+
+<!-- LINK --><a name="ref-16"></a>
+[16] Whitehall, E., 2020. *How StudyTube is Changing Education* [Online]. United Kingdom: The Indiependent. Available from: https://www.indiependent.co.uk/how-studytube-is-changing-education/ [Accessed 16/03/2025]
 
 
 <!-- TOC --><a name="appendices"></a>
