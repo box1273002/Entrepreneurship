@@ -626,7 +626,7 @@ In order to deal with competition, we will implement unique features that differ
 [8] Hoof, K. van (2023) *5 best apps for limiting screen time in 2025: Tested*, *SafetyDetectives*. Available at: https://www.safetydetectives.com/blog/best-apps-for-limiting-screen-time (Accessed: 16 March 2025).
 
 <!-- LINK --><a name="ref-9"></a>
-[9] Dean, B. (2025). Revealing Average Screen Time Statistics. Backlinko. Available at: https://backlinko.com/screen-time-statistics [Accessed 19 Mar. 2025].
+[9] Dean, B. (2025). Revealing Average Screen Time Statistics. Backlinko. Available at: https://backlinko.com/screen-time-statistics (Accessed 19 Mar. 2025).
 
 <!-- LINK --><a name="ref-10"></a>
 [10] Opal Corporation (2024). Opal. https://www.opal.so/ (Accessed: 16 March 2025).
