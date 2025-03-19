@@ -651,19 +651,6 @@ In order to deal with competition, we will implement unique features that differ
 ## Appendices
 <!-- LINK --><a name="appendix-1"></a>
 
-### Appendix 0 - Value Mapping
-
-| Value Proposition | Competitor Offering (Cold Turkey, Opal, Forest) | Our Offering (FOCO) |
-| --- | --- | --- |
-| Gamified screen time control | Traditional app blockers, timers | Coin system — spend or save time like currency |
-| Ultra-affordable premium version | Premium models starting at higher prices | Competitive pricing  |
-| Earning extra usage time | No earning mechanisms | Watch ads or buy coins |
-| Long-term habit building | Time-blocking only | Gradual “weaning” schedules |
-| Engagement & motivation | Mostly strict blocking | Investing coins for future rewards |
-| Weekly time budgeting | Daily time limits | Fixed weekly coin budgets |
-| Scarcity-driven discipline | Fixed app locks | Coin exhaustion = locked apps.
-This encourages strategy; we don’t just block apps we encourage balance and moderation.  |
-
 ### Appendix 1 - Requirements Specification
 #### **Functional Requirements**
 
@@ -707,6 +694,20 @@ Our Core features have been chosen based on market research and a deep understan
 Our non-functional requirements ensure FOCO provides a seamless, enjoyable, and trustworthy experience for users. FOCO cares about its users and prioritises transparency and trust. This is why we guarantee premium users with zero data collection. Unlike competitors we address concerns about data exploitation. Our intuitive gamified interface will make managing screen time enjoyable; we aren’t a prison, we are guide. FOCO will grow with its user base. Launching on Android, will allow us to refine the app before expanding, as we aim to get it right the first time.
 
 <!-- LINK --><a name="appendix-2"></a>
+### Appendix 0 - Value Mapping
+
+| Value Proposition | Competitor Offering (Cold Turkey, Opal, Forest) | Our Offering (FOCO) |
+| --- | --- | --- |
+| Gamified screen time control | Traditional app blockers, timers | Coin system — spend or save time like currency |
+| Ultra-affordable premium version | Premium models starting at higher prices | Competitive pricing  |
+| Earning extra usage time | No earning mechanisms | Watch ads or buy coins |
+| Long-term habit building | Time-blocking only | Gradual “weaning” schedules |
+| Engagement & motivation | Mostly strict blocking | Investing coins for future rewards |
+| Weekly time budgeting | Daily time limits | Fixed weekly coin budgets |
+| Scarcity-driven discipline | Fixed app locks | Coin exhaustion = locked apps.
+This encourages strategy; we don’t just block apps we encourage balance and moderation.  |
+
+<!-- LINK --><a name="appendix-3"></a>
 ### Appendix 2 - Storyboarding
 
 ### Scenario 1 - “First Use”:
@@ -774,3 +775,4 @@ Evaluation:
 Storyboarding lead us to consider how to properly monetize our product. We had considered a premium feature but did not initially know what functionality to give it. Based on our value mapping, we identified the demographic that would be most willing to buy the premium as young people of arbitrary gender who are most determined to take control of their productivity. As a result, we decided to build our premium version to reflect that by providing very much increased flexibility to the apps features. This involves the weekly schedule from S4 and the possibility of a user goal in Scenario 1.
 
 Given that most of our target audience are young (possibly career driven) people, we safely assume that they will be comfortable operating a more flexible interface and that this will not be a detriment like in alternate products. Special care was noted when increasing flexibility to align this with directly helping improve productivity, without undermining the restrictions of the app that are the main selling point.
+
