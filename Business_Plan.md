@@ -130,7 +130,7 @@ There are a number of things that set us apart from the competition. These are o
 <!-- TOC --><a name="16-are-we-economically-viable-value-mapping"></a>
 ### 1.6 Are We Economically Viable? - Value Mapping
 
-Our value mapping (see [*Appendix 0*](#appendix-0) demonstrates that FOCO offers the most affordable, flexible, and engaging screen time solution compared to competitors like *Cold Turkey*, *Opal*, and *Forest*. With features like coin-based time management, ad-based coin earning, and personalized scheduling, FOCO bridges the gap between rigid time-blocking apps and user-driven digital wellness.
+Our value mapping (see [*Appendix 2*](#appendix-2) demonstrates that FOCO offers the most affordable, flexible, and engaging screen time solution compared to competitors like *Cold Turkey*, *Opal*, and *Forest*. With features like coin-based time management, ad-based coin earning, and personalized scheduling, FOCO bridges the gap between rigid time-blocking apps and user-driven digital wellness.
 
 <!-- TOC --><a name="2-market-section"></a>
 ## 2. Market Section
@@ -148,7 +148,7 @@ To ensure that our product provides users with the most effective productivity s
 <!-- TOC --><a name="22-use-cases-and-storyboarding"></a>
 ### 2.2 Use Cases and Storyboarding
 
-In order to properly consider how we expect our users to interact with our product, we considered a wide breadth of scenarios which our users could run into. We constructed these scenarios as storyboards to allow us to visualize and better consider how we wish to engineer our user-product interaction (see [*Appendix 2*](#appendix-2)). These scenarios are based on the values we highlighted in our value mapping section.
+In order to properly consider how we expect our users to interact with our product, we considered a wide breadth of scenarios which our users could run into. We constructed these scenarios as storyboards to allow us to visualize and better consider how we wish to engineer our user-product interaction (see [*Appendix 3*](#appendix-3)). These scenarios are based on the values we highlighted in our value mapping section.
 
 Overall, this approach was very informative and achieved its goal of allowing us to consider intricacies of the user’s interaction and more deeply think about how to engineer our system, forcing us to consider a wide range of scenarios. If we discover or come up with more such scenarios, we will certainly add to this growing database.
 
@@ -694,7 +694,7 @@ Our Core features have been chosen based on market research and a deep understan
 Our non-functional requirements ensure FOCO provides a seamless, enjoyable, and trustworthy experience for users. FOCO cares about its users and prioritises transparency and trust. This is why we guarantee premium users with zero data collection. Unlike competitors we address concerns about data exploitation. Our intuitive gamified interface will make managing screen time enjoyable; we aren’t a prison, we are guide. FOCO will grow with its user base. Launching on Android, will allow us to refine the app before expanding, as we aim to get it right the first time.
 
 <!-- LINK --><a name="appendix-2"></a>
-### Appendix 0 - Value Mapping
+### Appendix 2 - Value Mapping
 
 | Value Proposition | Competitor Offering (Cold Turkey, Opal, Forest) | Our Offering (FOCO) |
 | --- | --- | --- |
@@ -704,11 +704,10 @@ Our non-functional requirements ensure FOCO provides a seamless, enjoyable, and 
 | Long-term habit building | Time-blocking only | Gradual “weaning” schedules |
 | Engagement & motivation | Mostly strict blocking | Investing coins for future rewards |
 | Weekly time budgeting | Daily time limits | Fixed weekly coin budgets |
-| Scarcity-driven discipline | Fixed app locks | Coin exhaustion = locked apps.
-This encourages strategy; we don’t just block apps we encourage balance and moderation.  |
+| Scarcity-driven discipline | Fixed app locks | Coin exhaustion = locked apps. This encourages strategy; we don’t just block apps we encourage balance and moderation. |
 
 <!-- LINK --><a name="appendix-3"></a>
-### Appendix 2 - Storyboarding
+### Appendix 3 - Storyboarding
 
 ### Scenario 1 - “First Use”:
 
