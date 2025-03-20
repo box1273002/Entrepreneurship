@@ -171,7 +171,7 @@ From looking at other similar systems, one standout aspects of many successful s
 
 **Competitive landscape:**
 
-When assessing the competitive landscape, we were able to identify a number of successful competing systems, proving that this idea is tried and true. Nevertheless, we identified several gaps in the market which we look to exploit (see Main Competitors). Some applications and their revenues are listed below:
+When assessing the competitive landscape, we were able to identify a number of successful competing systems, proving that this idea is tried and true. Nevertheless, we identified several gaps in the market which we look to exploit (see 2.5 Main Competitors). Some applications and their revenues are listed below:
 
 - Clarymind (launched Dec 2023) reduces screen time by up to 2 hours/day through AI-driven mindfulness features like 10-second pause before app use, guided meditation, sleep aids (calming music).
 - ScreenTime+ ($15K/month) and BePresent ($10K/month) show strong market demand for screen management tools.
@@ -183,7 +183,7 @@ In terms of business models, most competitors opt for a subscription model to ma
 <!-- TOC --><a name="24-primary-research-and-consulting"></a>
 ### 2.4 Primary Research and Consulting
 
-To validate our findings from our secondary research, we decided it would be most productive for our business to conduct our own primary research. First, we tried to determine how to monetize the product in a way that is most compatible with the users. Out of all of the participants, 80% people would prefer sharing their data rather than watching ads, and 60% of participants would be willing to pay up to £3 to remove ads. For the premium version, roughly half would pay £1.00 per month / £ 10.00 per year / £25.00 lifetime (the other half were not interested in premium). Surprisingly, out of monthly, yearly and lifetime subscription models, participants were completely mixed, with an even split each. 
+To validate our findings from our secondary research, we decided it would be most productive for our business to conduct our own primary research. First, we tried to determine how to monetize the product in a way that is most compatible with the users. Out of all of the participants, 80% of people would prefer sharing their data rather than watching ads, and 60% of participants would be willing to pay up to £3 to remove ads. For the premium version, roughly half would pay £1.00 per month / £ 10.00 per year / £25.00 lifetime (the other half were not interested in premium). Surprisingly, out of monthly, yearly and lifetime subscription models, participants were completely mixed, with an even split for each option. 
 
 We also asked our participants for more general feedback. Participants suggested as premium features: graphing the amount of time spent on each app, allowing cashing in unused coins and buying cosmetic features. In additional comments, participants stated that the user should not be allowed to game the system, such as by leaving productive apps open and not doing anything in the.
 This survey was excellent at getting a direct insider view into the opinions of the target audience and was greatly influential in how we shaped our product.
@@ -295,7 +295,7 @@ The lack of cross-device synchronization in Jomo highlights an opportunity for F
 <!-- TOC --><a name="26-competitive-analysis"></a>
 ### 2.6 Competitive Analysis
 
-Based on an analyiss of our competitors, FOCO occupies a promising position in the screen time management market by combining elements that have proven successful across multiple competitors:
+Based on an analysis of our competitors, FOCO occupies a promising position in the screen time management market by combining elements that have proven successful across multiple competitors:
 
 1. **Gamification (like Forest)** through its coin system
 2. **Robust blocking (like Cold Turkey)** through DNS-level website blocking
@@ -686,7 +686,7 @@ In order to deal with competition, we will implement unique features that differ
 #### **Justification of Chosen Requirements**
 
 **Core Functional Requirements:**
-Our Core features have been chosen based on market research and a deep understanding of the our users. Our primary research* indicates 80% of users are open to paying for advanced features like daily coin weaning and zero data retention, with the majority saying they are would willing to pay the £1.00 per month/ £10.00 per year / £25.00 lifetime plan. This willing to pay show Showcasing the demand for deeper, long-term digital management options. We know everyone's journey is unique so we have opted for personalisation features. Our system will adapt to our users - not the other way round. Our weekly coin allocation and app blocking is a core feature. Evidenced through our market research we know that our users often thrive better in flexible, strategic approaches to time management opposed to total restriction. We encourage moderation, balance and purpose. 
+Our Core features have been chosen based on market research and a deep understanding of the our users. Our primary research indicates 80% of users are open to paying for advanced features like daily coin weaning and zero data retention, with the majority saying they are would willing to pay the £1.00 per month/ £10.00 per year / £25.00 lifetime plan. This willing to pay show Showcasing the demand for deeper, long-term digital management options. We know everyone's journey is unique so we have opted for personalisation features. Our system will adapt to our users - not the other way round. Our weekly coin allocation and app blocking is a core feature. Evidenced through our market research we know that our users often thrive better in flexible, strategic approaches to time management opposed to total restriction. We encourage moderation, balance and purpose. 
 
 **Non-Functional Requirements:**
 
