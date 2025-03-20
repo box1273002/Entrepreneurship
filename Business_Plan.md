@@ -545,7 +545,7 @@ As an exit strategy, we could sell the company to a larger technology company or
 <!-- TOC --><a name="361-app-store-optimisation-and-user-feedback"></a>
 #### 3.6.1 App Store Optimisation and User Feedback
 
-Our deployment strategy encompasses releases on both the Apple App Store and Google Play Store, incorporating comprehensive app store optimization (ASO) techniques. The optimization process includes strategic keyword integration, focusing on relevant terms such as "Productivity Tracker" and "Focus App." The app listings will feature detailed functionality descriptions, highlighting distinctive features through professional screenshots and demonstrative videos. 
+Our deployment strategy encompasses releases on both the Google Play Store, incorporating comprehensive app store optimization (ASO) techniques. The optimization process includes strategic keyword integration, focusing on relevant terms such as "Productivity Tracker" and "Focus App." The app listings will feature detailed functionality descriptions, highlighting distinctive features through professional screenshots and demonstrative videos. 
 
 To maintain quality assurance and user satisfaction, we will implement a structured feedback system. Users will be prompted to provide ratings via an in-app 5-star scale. For ratings of 4 or 5 stars, users will be invited to submit public reviews on the respective app stores, enhancing visibility and credibility. This systematic approach to feedback collection will inform our continuous improvement process, with user suggestions being evaluated for potential implementation in future updates.
 
@@ -576,12 +576,12 @@ Success metrics will be prominently featured, with particular emphasis on user r
 <!-- TOC --><a name="37-main-risks-and-mitigation-strategies"></a>
 ### 3.7 Main Risks and Mitigation Strategies
 
-We have four main risks with our business idea: Google and Apple restricting user permissions, user resistance, data privacy and security, and competition with other productivity apps.
+We have four main risks with our business idea: Google restricting user permissions, user resistance, data privacy and security, and competition with other productivity apps.
 
 <!-- TOC --><a name="371-user-permission-restrictions"></a>
 #### 3.7.1 User Permission Restrictions
 
-The most significant risk to the success of our company come from Google and Apple, due to the nature of our app requiring significant privileges to function. The risk comes as the possibility that either Google or Apple could restrict iOS/Android users ability to give such overarching permissions to 3rd party apps such as ours. However, it is unclear how likely a risk this is as it would entail curtailing user control with no financial incentive. This small risk is being mitigated by developing the application for multiple platforms, as it is unlikely all platforms will disallow this at once. 
+The most significant risk to the success of our company come from Google, due to the nature of our app requiring significant privileges to function. The risk comes as the possibility that either Google could restrict Android users ability to give such overarching permissions to 3rd party apps such as ours. However, it is unclear how likely a risk this is as it would entail curtailing user control with no financial incentive. This small risk is being mitigated by developing the application for multiple platforms, as it is unlikely all platforms will disallow this at once. 
 
 <!-- TOC --><a name="372-user-resistance"></a>
 #### 3.7.2 User Resistance
@@ -591,7 +591,7 @@ For user resistance, users could easily lose retention if they suddenly lose acc
 <!-- TOC --><a name="373-data-privacy-concerns"></a>
 #### 3.7.3 Data Privacy Concerns
 
-Another main concern is data privacy and security. This is specificly important due to the sensitive nature of data. To ensure that our app does not cause any data privacy or security concerns, the data security risk will be mitigated by storing data via the iCloud or Google Drive because they are run by a larger organization and as such have dedicated to address any issues. The privacy risk will be mitigated by ensuring transparency in data collection by not accessing any personal user data except when explicitly given permission (e.g. if the user interacts with our app with the data plan) and complying to all GDPR regulations.
+Another main concern is data privacy and security. This is specificly important due to the sensitive nature of data. To ensure that our app does not cause any data privacy or security concerns, the data security risk will be mitigated by storing data via the Google Drive because they are run by a larger organization and as such have dedicated to address any issues. The privacy risk will be mitigated by ensuring transparency in data collection by not accessing any personal user data except when explicitly given permission (e.g. if the user interacts with our app with the data plan) and complying to all GDPR regulations.
 
 <!-- TOC --><a name="374-competition-with-other-productivity-apps"></a>
 #### 3.7.4 Competition with Other Productivity Apps
