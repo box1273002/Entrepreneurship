@@ -629,28 +629,28 @@ In order to deal with competition, we will implement unique features that differ
 [9] Dean, B. (2025). Revealing Average Screen Time Statistics. Backlinko. Available at: https://backlinko.com/screen-time-statistics (Accessed: 19 Mar. 2025).
 
 <!-- LINK --><a name="ref-10"></a>
-[10] Opal Corporation (2024). Opal. https://www.opal.so/ (Accessed: 16 March 2025).
+[10] Opal Corporation (2024). Opal. Available at: https://www.opal.so/ (Accessed: 16 March 2025).
 
 <!-- LINK --><a name="ref-11"></a>
-[11] SeekrTech (2025). Forest: Focus for Productivity. https://www.forestapp.cc/ (Accessed: 16 March 2025).
+[11] SeekrTech (2025). Forest: Focus for Productivity. Available at: https://www.forestapp.cc/ (Accessed: 16 March 2025).
 
 <!-- LINK --><a name="ref-12"></a>
-[12] Cold Turkey Software Inc. (2025) Cold Turkey. https://getcoldturkey.com/ (Accessed: 16th March 2025). 
+[12] Cold Turkey Software Inc. (2025) Cold Turkey. Available at: https://getcoldturkey.com/ (Accessed: 16th March 2025). 
 
 <!-- LINK --><a name="ref-13"></a>
-[13] Jomo SAS. (2024) Jomo. https://jomo.so/ (Accessed: 16th March 2025) 
+[13] Jomo SAS. (2024) Jomo. Available at: https://jomo.so/ (Accessed: 16th March 2025) 
 
 <!-- LINK --><a name="ref-14"></a>
-[14] Kickstarter, 2025. Kickstarter (Online). New York: Kickstarter. Available from: https://www.kickstarter.com (Accessed: 21 March 2025).
+[14] Kickstarter, 2025. Kickstarter (Online). New York: Kickstarter. Available at: https://www.kickstarter.com (Accessed: 21 March 2025).
 
 <!-- LINK --><a name="ref-15"></a>
-[15] University of Bath (@uniofbath). (2025). Instagram Page (Online). Available from: https://www.instagram.com/uniofbath/?hl=en (Accessed: 16 March 2025)
+[15] University of Bath (@uniofbath). (2025). Instagram Page (Online). Available at: https://www.instagram.com/uniofbath/?hl=en (Accessed: 16 March 2025)
 
 <!-- LINK --><a name="ref-16"></a>
-[16] Uni of Bath Student Support (@bathstusupport). (2025). Instagram Post (Online), 21 November 2023. Available from: https://www.instagram.com/bathstusupport/reel/Cz6hbgvtd_n/ (Accessed: 16 March 2025)
+[16] Uni of Bath Student Support (@bathstusupport). (2025). Instagram Post (Online), 21 November 2023. Available at: https://www.instagram.com/bathstusupport/reel/Cz6hbgvtd_n/ (Accessed: 16 March 2025)
 
 <!-- LINK --><a name="ref-17"></a>
-[17] Whitehall, E. (2020). *How StudyTube is Changing Education* (Online). United Kingdom: The Indiependent. Available from: https://www.indiependent.co.uk/how-studytube-is-changing-education/ (Accessed: 16 March 2025)
+[17] Whitehall, E. (2020). *How StudyTube is Changing Education* (Online). United Kingdom: The Indiependent. Available at: https://www.indiependent.co.uk/how-studytube-is-changing-education/ (Accessed: 16 March 2025)
 
 
 <!-- TOC --><a name="appendices"></a>
