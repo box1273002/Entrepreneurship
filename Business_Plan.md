@@ -644,13 +644,13 @@ In order to deal with competition, we will implement unique features that differ
 [14] Kickstarter, 2025. Kickstarter (Online). New York: Kickstarter. Available from: https://www.kickstarter.com (Accessed: 21 March 2025).
 
 <!-- LINK --><a name="ref-15"></a>
-[15] University of Bath (@uniofbath), 2025. Instagram Page (Online). Available from: https://www.instagram.com/uniofbath/?hl=en (Accessed: 16 March 2025)
+[15] University of Bath (@uniofbath). (2025). Instagram Page (Online). Available from: https://www.instagram.com/uniofbath/?hl=en (Accessed: 16 March 2025)
 
 <!-- LINK --><a name="ref-16"></a>
-[16] Uni of Bath Student Support (@bathstusupport), 2025. Instagram Post (Online), 21/11/2023. Available from: https://www.instagram.com/bathstusupport/reel/Cz6hbgvtd_n/ (Accessed: 16 March 2025)
+[16] Uni of Bath Student Support (@bathstusupport). (2025). Instagram Post (Online), 21 November 2023. Available from: https://www.instagram.com/bathstusupport/reel/Cz6hbgvtd_n/ (Accessed: 16 March 2025)
 
 <!-- LINK --><a name="ref-17"></a>
-[17] Whitehall, E., 2020. *How StudyTube is Changing Education* (Online). United Kingdom: The Indiependent. Available from: https://www.indiependent.co.uk/how-studytube-is-changing-education/ (Accessed: 16 March 2025)
+[17] Whitehall, E. (2020). *How StudyTube is Changing Education* (Online). United Kingdom: The Indiependent. Available from: https://www.indiependent.co.uk/how-studytube-is-changing-education/ (Accessed: 16 March 2025)
 
 
 <!-- TOC --><a name="appendices"></a>
