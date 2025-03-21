@@ -1,5 +1,5 @@
 # FOCO: Creating a credit-based screen time limiter app
-*Group 13:*
+**Group 13:**
 
 mdc63 - Marilyn D'Costa
 
