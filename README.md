@@ -4,4 +4,4 @@ This consists of:
 - Coursework 1: Business Plan
 - Coursework 2: Business Execution
 
-The group contribution form can be found [here](./group-contribution-form.pdf).
+The Business Plan group contribution form can be found [here](./BusinessPlan_GCF.pdf).
