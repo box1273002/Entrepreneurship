@@ -6,7 +6,7 @@
 
 **Our Team (Group 13):**
 
-|--------|------------------|
+
 | mdc63  | Marilyn D'Costa  |
 | pm2038 | Ptolemy Morris   |
 | tp873  | Tom Pecher       |
