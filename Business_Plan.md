@@ -518,7 +518,7 @@ Although it is unlikely we will need to bring a dedicated team member on board t
 <!-- TOC --><a name="35-approach-to-financing"></a>
 ### 3.5 Approach to Financing
 
-Our approach to funding will involve bootstrapping the app for initial development and testing so we can have full control of the app without relying on investors and to allow us to validate our idea before committing to any financial decisions. We would then release a free version of the app with basic features to gain users such as configuring the credit settings and being able to change them by performing a long task. After one year, we would then release a Freemium Model of our app. The premium version of our app would have simpler tasks to change the credit system and could also contain features that can implement the credit system from the app during certain periods of the day, e.g.: the credit system could be implemented on Monday to Friday from 9am-5pm if someone wants to be productive during the working week but wants to relax outside of work. Additionally, we may explore crowdfunding through platforms such as Kickstarter to raise funds for further development and marketing, allowing us to engage early adopters and validate demand while keeping equity in the company.
+Our approach to funding will involve bootstrapping the app for initial development and testing so we can have full control of the app without relying on investors and to allow us to validate our idea before committing to any financial decisions. We would then release a free version of the app with basic features to gain users such as configuring the credit settings and being able to change them by performing a long task. After one year, we would then release a Freemium Model of our app. The premium version of our app would have simpler tasks to change the credit system and could also contain features that can implement the credit system from the app during certain periods of the day, e.g.: the credit system could be implemented on Monday to Friday from 9am-5pm if someone wants to be productive during the working week but wants to relax outside of work. Additionally, we may explore crowdfunding through platforms such as Kickstarter [[14]](#ref-14) to raise funds for further development and marketing, allowing us to engage early adopters and validate demand while keeping equity in the company.
 
 <!-- TOC --><a name="351-financial-projections"></a>
 #### 3.5.1 Financial Projections
@@ -562,9 +562,9 @@ We are considering two approaches: a premium access model, designed to drive hig
 <!-- TOC --><a name="363-university-and-workplace-partnerships"></a>
 #### 3.6.3 University and Workplace Partnerships
 
-Our marketing strategy prioritizes educational and professional environments, with a particular focus on academic institutions. Initial partnership efforts will commence with the University of Bath, leveraging their established social media presence, particularly their Instagram platform [[13]](#ref-14), which features student-generated content and program promotion [[15]](#ref-14).
+Our marketing strategy prioritizes educational and professional environments, with a particular focus on academic institutions. Initial partnership efforts will commence with the University of Bath, leveraging their established social media presence, particularly their Instagram platform [[15]](#ref-15), which features student-generated content and program promotion [[16]](#ref-16).
 
-We recognize the importance of maintaining authenticity while pursuing institutional partnerships. To mitigate the risk of appearing institutionally mandated, we will implement a balanced approach that emphasizes user autonomy. Additionally, we plan to collaborate with educational content creators, offering premium access incentives through promotional codes. YouTube presents an optimal platform for these partnerships, given its established study-focused communities [[15]](#ref-16) and capacity for detailed product demonstrations.
+We recognize the importance of maintaining authenticity while pursuing institutional partnerships. To mitigate the risk of appearing institutionally mandated, we will implement a balanced approach that emphasizes user autonomy. Additionally, we plan to collaborate with educational content creators, offering premium access incentives through promotional codes. YouTube presents an optimal platform for these partnerships, given its established study-focused communities [[17]](#ref-17) and capacity for detailed product demonstrations.
 
 <!-- TOC --><a name="364-user-case-studies"></a>
 #### 3.6.4 User Case Studies
@@ -641,13 +641,16 @@ In order to deal with competition, we will implement unique features that differ
 [13] Jomo SAS. (2024) Jomo. https://jomo.so/ (Accessed: 16th March 2025) 
 
 <!-- LINK --><a name="ref-14"></a>
-[14] University of Bath (@uniofbath), 2025. Instagram Page (Online). Available from: https://www.instagram.com/uniofbath/?hl=en (Accessed: 16/03/2025)
+[14] Kickstarter, 2025. Kickstarter. [Online]. New York: Kickstarter. Available from: https://www.kickstarter.com [Accessed 21 March 2025].
 
 <!-- LINK --><a name="ref-15"></a>
-[15] Uni of Bath Student Support (@bathstusupport), 2025. Instagram Post (Online), 21/11/2023. Available from: https://www.instagram.com/bathstusupport/reel/Cz6hbgvtd_n/ (Accessed: 16/03/2025)
+[15] University of Bath (@uniofbath), 2025. Instagram Page (Online). Available from: https://www.instagram.com/uniofbath/?hl=en (Accessed: 16/03/2025)
 
 <!-- LINK --><a name="ref-16"></a>
-[16] Whitehall, E., 2020. *How StudyTube is Changing Education* (Online). United Kingdom: The Indiependent. Available from: https://www.indiependent.co.uk/how-studytube-is-changing-education/ (Accessed: 16/03/2025)
+[16] Uni of Bath Student Support (@bathstusupport), 2025. Instagram Post (Online), 21/11/2023. Available from: https://www.instagram.com/bathstusupport/reel/Cz6hbgvtd_n/ (Accessed: 16/03/2025)
+
+<!-- LINK --><a name="ref-17"></a>
+[17] Whitehall, E., 2020. *How StudyTube is Changing Education* (Online). United Kingdom: The Indiependent. Available from: https://www.indiependent.co.uk/how-studytube-is-changing-education/ (Accessed: 16/03/2025)
 
 
 <!-- TOC --><a name="appendices"></a>
