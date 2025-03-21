@@ -3,7 +3,7 @@
   <p><i>Creating a credit-based screen time limiter app</i></p>
 </div>
 
-<p align="center" width="100%">
+<p align="center" width="50%">
   <img src="https://github.com/user-attachments/assets/e5031d67-459c-46a6-be24-6fca9c72d6df" alt="FOCO logo" style="width:100%; height:auto;">
   <span align="left" width="100%">
     <img src="https://github.com/user-attachments/assets/245ea161-f9ea-4933-9446-52ffa41b0d65" alt="scroll text" style="width:100%; height:auto;">
