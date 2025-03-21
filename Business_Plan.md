@@ -1,5 +1,7 @@
-# FOCO: Creating a credit-based screen time limiter app
-<center> <h1>FOCO: Creating a credit-based screen time limiter app</h1> </center>
+<div align="center">
+  <h1>FOCO</h1>
+  <p><i>Creating a credit-based screen time limiter app</i></p>
+</div>
 
 <p align="center" width="100%">
   <img src="https://github.com/user-attachments/assets/98a2cf66-657c-4704-9145-1b4622023200" alt="FOCO logo" style="width:50%; height:auto;">
