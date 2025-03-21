@@ -247,7 +247,7 @@ FOCO should consider implementing a similarly robust blocking mechanism while ma
 <!-- TOC --><a name="252-forest-the-gamification-pioneer"></a>
 #### 2.5.2 Forest: The Gamification Pioneer
 
-Forest [[10]](#ref-11) has successfully leveraged environmental impact and visual rewards to create a compelling productivity tool that has garnered significant market attention.
+Forest [[11]](#ref-11) has successfully leveraged environmental impact and visual rewards to create a compelling productivity tool that has garnered significant market attention.
 
 **Strengths**:
 
@@ -270,7 +270,7 @@ FOCO's potential advantage lies in combining Forest's engaging gamification with
 <!-- TOC --><a name="253-cold-turkey-the-hardcore-blocker"></a>
 #### 2.5.3 Cold Turkey: The Hardcore Blocker
 
-Cold Turkey [[11]](#ref-12) takes a no-nonsense approach to digital distraction, offering some of the most stringent blocking mechanisms available.
+Cold Turkey [[12]](#ref-12) takes a no-nonsense approach to digital distraction, offering some of the most stringent blocking mechanisms available.
 
 **Strengths**:
 
@@ -293,7 +293,7 @@ FOCO should consider how to balance blocking effectiveness with user experience,
 <!-- TOC --><a name="254-jomo-the-widget-innovator"></a>
 #### 2.5.4 Jomo: The Widget Innovator
 
-Jomo [[12]](#ref-13) has created distinctive value through its widget-based approach and dynamic limits.
+Jomo [[13]](#ref-13) has created distinctive value through its widget-based approach and dynamic limits.
 
 **Strengths**:
 
