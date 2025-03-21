@@ -1,10 +1,15 @@
 # FOCO: Creating a credit-based screen time limiter app
 *Group 13:*
 mdc63 - Marilyn D'Costa
+
 pm2038 - Ptolemy Morris
+
 tp873 - Tom Pecher
+
 dr761 - Dhru Randeria
+
 gr553 - George Rawlinson
+
 
 ## Table of Contents
 <!-- TOC start -->
