@@ -8,7 +8,7 @@
 </p>
 
 <div align="center" width="100%">
-  **Our Team (Group 13):**
+  <h2></h2>Our Team (Group 13)</h2>
 
   | BUCS ID | Name            |
   | ------ | ---------------- |
