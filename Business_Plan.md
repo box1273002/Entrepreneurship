@@ -6,7 +6,7 @@
 <p align="center" width="100%">
   <img src="https://github.com/user-attachments/assets/e5031d67-459c-46a6-be24-6fca9c72d6df" alt="FOCO logo" style="width:50%; height:auto;">
 </p>
-<p align="center" width="100%">
+<p  width="100%">
   <span style="width:33%"></span>
   <span style="width:66%">
     <img src="https://github.com/user-attachments/assets/245ea161-f9ea-4933-9446-52ffa41b0d65" alt="scroll text" style="width:75%; height:auto;">
