@@ -4,7 +4,7 @@
 </div>
 
 <p align="center" width="100%">
-  <img src="https://github.com/user-attachments/assets/e5031d67-459c-46a6-be24-6fca9c72d6df" alt="FOCO logo" style="width:50%; height:auto;">
+  <img src="https://github.com/user-attachments/assets/abd27cd1-354c-4444-a4e4-9a6791ea4a2c" alt="FOCO logo" style="width:50%; height:auto;">
   <img src="https://github.com/user-attachments/assets/5b2ea9c0-fc97-4613-9180-8ba76ed7a04d" alt="scroll text" style="width:60%; height:auto;">
 </p>
 
