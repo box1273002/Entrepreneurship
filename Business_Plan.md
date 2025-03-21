@@ -3,10 +3,9 @@
   <p><i>Creating a credit-based screen time limiter app</i></p>
 </div>
 
-<p align="center" width="50%">
-  <img src="https://github.com/user-attachments/assets/e5031d67-459c-46a6-be24-6fca9c72d6df" alt="FOCO logo" style="width:100%; height:auto;">
-    <img src="https://github.com/user-attachments/assets/245ea161-f9ea-4933-9446-52ffa41b0d65" alt="scroll text" style="width:100%; height:auto;">
-  
+<p align="center" width="100%">
+  <img src="https://github.com/user-attachments/assets/e5031d67-459c-46a6-be24-6fca9c72d6df" alt="FOCO logo" style="width:50%; height:auto;">
+  <img src="https://github.com/user-attachments/assets/5b2ea9c0-fc97-4613-9180-8ba76ed7a04d" alt="scroll text" style="width:50%; height:auto;">
 </p>
 
 <div align="center" width="100%">
