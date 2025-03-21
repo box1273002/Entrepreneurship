@@ -8,7 +8,10 @@
 </p>
 <p align="center" width="100%">
   <span style="width:25%"></span>
-  <img src="https://github.com/user-attachments/assets/245ea161-f9ea-4933-9446-52ffa41b0d65" alt="scroll text" style="width:75%; height:auto;">
+  <span style="width:75%">
+    <img src="https://github.com/user-attachments/assets/245ea161-f9ea-4933-9446-52ffa41b0d65" alt="scroll text" style="width:75%; height:auto;">
+  </span>
+  
 </p>
 
 <div align="center" width="100%">
