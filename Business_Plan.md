@@ -4,16 +4,17 @@
   <img src="https://github.com/user-attachments/assets/98a2cf66-657c-4704-9145-1b4622023200" alt="FOCO logo" style="width:50%; height:auto;">
 </p>
 
-**Our Team (Group 13):**
+<p align="center" width="100%">
+  **Our Team (Group 13):**
 
-| BUCS ID | Name            |
-| ------ | ---------------- |
-| mdc63  | Marilyn D'Costa  |
-| pm2038 | Ptolemy Morris   |
-| tp873  | Tom Pecher       |
-| dr761  | Dhru Randeria    |
-| gr553  | George Rawlinson |
-
+  | BUCS ID | Name            |
+  | ------ | ---------------- |
+  | mdc63  | Marilyn D'Costa  |
+  | pm2038 | Ptolemy Morris   |
+  | tp873  | Tom Pecher       |
+  | dr761  | Dhru Randeria    |
+  | gr553  | George Rawlinson |
+</p>
 
 ## Table of Contents
 <!-- TOC start -->
