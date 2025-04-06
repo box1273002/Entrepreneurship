@@ -14,9 +14,6 @@
 ### LinkedIn
 
 
-### Instagram
-
-
 ### Prototype
 
 
@@ -63,9 +60,6 @@
 
 ## Testing product
 <!-- How have we tested the product and what results did we get?  -->
-
-### Experiment Setup
-
 
 ### Feedback
 
