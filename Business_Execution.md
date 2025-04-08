@@ -23,7 +23,23 @@
 
 Clearly, since first laying out our production timeline, we have made good progress towards setting up a sustainable and thriving business framework, already tackling a number of goals laid out in the Priority Roadmap Section (3.1). However, since then, we have also come across new information/insights. A good business plan is a dynamic one, hence we would like to point out some of the most notable changes we are making to proposed product and business strategy.
 
-### Issue 1 - 2.2 Use Cases and Storyboarding
+
+### Issue 1 - 2.6.2 Primary Challenges and Risks
+
+#### Blocking Apps Successfully
+<!-- How do we ensure that the MVP can actually block other apps? -->
+In our planning phase, we correctly identified the ability (or lack thereof) of our app successfully blocking/restricting other apps as the greatest "existential threat" to our product. Whilst it is clear that others have successfully implemented such features, we were unsure how difficult this would be and so we immediately turned our attention to prototyping and verifying this for ourselves after the planning phase concluded. From this initial prototyping phase, we have confirmed that it is quite difficult to restrict other apps in this way. As a result, we have focussed our attention on researching, particularly in the Flutter documentation as well as similar projects and threads related to app restriction.
+
+#### Going Cross-Platform
+<!-- How do we ensure functionality across all OSs? -->
+
+
+
+### Issue 2 - 2.7 Assumptions and Risk Assessment
+
+
+
+### Issue 3 - 2.2 Use Cases and Storyboarding
 
 #### Setting permissions
 <!-- How will the system interact with app permission settings? -->
@@ -31,18 +47,6 @@ Clearly, since first laying out our production timeline, we have made good progr
 #### Blocking method
 <!-- How will the blocking method be manifested to the user? -->
 
-
-### Issue 2 - 2.6.2 Primary Challenges and Risks
-
-#### Blocking Apps Successfully
-<!-- How do we ensure that the MVP can actually block other apps? -->
-
-
-#### Going Cross-Platform
-<!-- How do we ensure functionality across all OSs? -->
-
-
-### Issue 3 - 2.7 Assumptions and Risk Assessment
 
 
 ### Issue 4 - 3.2.1 Current Structure: Private Limited Company (Ltd)
