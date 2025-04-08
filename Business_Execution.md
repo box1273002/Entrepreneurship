@@ -47,12 +47,13 @@ On a related topic, we will be adding the issue of cross-compatibility to our of
 #### Setting permissions
 <!-- How will the system interact with app permission settings? -->
 
+While we have several potential methods with different approaches, one area in which they all share from is their use of permissions. From the beginning, it was obvious to us that the app would require the user to allow FOCO with some form of permissions, however it seems that we overlooked this when writing out our business plan. Hence, we will add this part of the user experience to our storyboards. Furthermore, we have begun noting down (from our prototyping) what specific permissions may be required.
+
+
 #### Blocking method
 <!-- How will the blocking method be manifested to the user? -->
 
-
-
-### Issue 4 - 3.2.1 Current Structure: Private Limited Company (Ltd)
+Additionally, we also decided to rethink how the blocking/restriction would actually be manifested to the user. While superficial, we did not properly consider what the block would look like, whether simply creating a notification or fully displaying a window to the user. Such gaps in design are to be expected as each of us has our own ideas and we all implicity have a collective idea, yet we failed to properly transfer this to our design. We are continuing to mull over the best way to present this to the user (since this is the primary barrier, we believe that implementing this well or poorly will impact how effectively FOCO assists the user psychologically in conquering their bad screen habits). As part of this, we are revisiting our market research and rigorously documenting the methods used by our competitors, weighting up their pros and cons, and we will soon use this to inform the development of our initial product.
 
 
 
