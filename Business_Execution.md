@@ -21,6 +21,7 @@
 ## Plan Progression
 <!-- How far we have gotten with the business plan?  -->
 
+Clearly, since first laying out our production timeline, we have made good progress towards setting up a sustainable and thriving business framework, already tackling a number of goals laid out in the Priority Roadmap Section (3.1). However, since then, we have also come across new information/insights. A good business plan is a dynamic one, hence we would like to point out some of the most notable changes we are making to proposed product and business strategy.
 
 ### Issue 1 - 2.2 Use Cases and Storyboarding
 
