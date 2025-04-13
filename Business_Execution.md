@@ -239,7 +239,7 @@ From the feedback we have received so far, users have agreed that the website is
 
 The main criticism we had was that the contrast between the headings of our website and the backgrounds could be more defined because a more defined contrast can help older users or users with visual impairments to view the content of our website easily. Another criticism we received was that one of our graphs could have been explained in a bit more detail as it was confusing to one of our users because it look like the user would spend more time using FOCO, when our graph was supposed to represent the amount of time left in the day from using FOCO in comparison to not using FOCO.
 
-A suggestion that was given for our website was to include video content that can demonstrate how our app works either by an explanation of how the coin system works or a visual demonstration of a user interacting with our app. This is feedback that we will plan to implement once we have a complete version of our app as we want to market our app via social media. We believe that a YouTube channel that has videos to demonstrate our app or working with content creators in a field related to productivity, such as wellbeing or education, to demonstrate and review our app would be useful to market our app, especially because there are many student content creators that promote being productive.
+A suggestion that was given for our website was to include video content that can demonstrate how our app works either by an explanation of how the coin system works or a visual demonstration of a user interacting with our app. This is feedback that we will plan to implement once we have a complete version of our app as we want to market our app via social media. We believe that a YouTube channel that has videos to demonstrate our app or working with content creators in a field related to productivity, such as wellbeing or education, to demonstrate and review our app would be useful to market our app, especially because there are many student content creators that promote being productive and offer advice in order to motivate their audience to be productive in order to succeed [[a]](#ref-a).
 
 
 <!-- TOC --><a name="7-conclusion"></a>
@@ -257,6 +257,10 @@ Overall, this project has given us valuable insight into what it takes to build 
 
 <!-- LINK --><a name="ref-1"></a>
 [1] Harmony Healthcare IT (2025) Phone screen time statistics. Available at: https://www.harmonyhit.com/phone-screen-time-statistics/ (Accessed: 16 March 2025)
+
+
+[a] Whitehall, E. (2020). How StudyTube is Changing Education (Online). United Kingdom: The Indiependent. Available at: https://www.indiependent.co.uk/how-studytube-is-changing-education/ (Accessed: 16 March 2025)
+
 
 <!-- TOC --><a name="appendices"></a>
 ## Appendices
