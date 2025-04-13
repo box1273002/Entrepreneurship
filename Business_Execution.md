@@ -80,12 +80,12 @@ To initialise our business plan, we implemented a working prototype in Figma and
 
 
 <!-- TOC --><a name="3-completion"></a>
-## Completion
+## 3. Completion
 <!-- What we have done so far?  -->
 
 
 <!-- TOC --><a name="31-website"></a>
-### Website 
+### 3.1. Website 
 In today's digital-first world, our website serves as both our virtual storefront and our most powerful brand ambassador. For FOCO, a platform dedicated to mindful technology use, having a thoughtful online presence isn't just practical - it's essential to our mission and growth strategy.
 
 #### Our domain: Simple, Professional, Memorable
@@ -115,25 +115,25 @@ Our website content strikes a careful balance between informing the user and ins
 
 
 <!-- TOC --><a name="32-linkedin"></a>
-### LinkedIn
+### 3.2. LinkedIn
 Establishing a professional LinkedIn presence for FOCO was identified as a crucial early step in executing our business plan and transitioning from concept to active market engagement. We created a dedicated company page, meticulously populating it with key details including our mission, value proposition, relevant industry tags, and location, ensuring a comprehensive and professional representation of the brand. Initial content posts, such as the introduction to FOCO and its focus on digital wellbeing, were published to begin building awareness and driving engagement towards our primary platform. This online hub serves as a vital tool for implementing our initial marketing strategy, particularly for identifying and initiating contact with potential university and workplace partners as outlined in our plan, and for establishing credibility with prospective users and investors.
 
 Demonstrating entrepreneurial resourcefulness and a commitment to maximizing impact within budget constraints, the team acquired a LinkedIn account for £5 from a connection. Crucially, this account retained its unused Premium free trial—a necessary maneuver as our marketing lead had already exhausted their personal trial eligibility. This creative solution allowed us to access Premium features immediately, circumventing the significant standard monthly subscription cost. The initiative was undertaken specifically to accelerate our outreach efforts and gain a competitive edge. Premium features unlock enhanced visibility for our content and enable direct InMail messaging to key stakeholders, such as experienced app developers, potential mentors, or partnership managers within target organizations. This capability is invaluable for bypassing gatekeepers, capturing the attention of influential individuals, and initiating meaningful conversations that might otherwise be difficult to secure. Furthermore, access to more detailed analytics via Premium will allow us to track engagement, understand our audience better, and refine our communication strategy, ultimately supporting our goal of building momentum and validating FOCO's market potential.
 
 
 <!-- TOC --><a name="33-prototype"></a>
-### Prototype
+### 3.3. Prototype
 
 
 <!-- TOC --><a name="4-plan-progression"></a>
-## Business Plan Progression
+## 4. Business Plan Progression
 <!-- How far we have gotten with the business plan?  -->
 
 Clearly, since first laying out our production timeline, we have made good progress towards setting up a sustainable and thriving business framework, already tackling a number of goals laid out in the Priority Roadmap Section (3.1). However, since then, we have also come across new information/insights. A good business plan is a dynamic one, hence we would like to point out some of the most notable changes we are making to proposed product and business strategy.
 
 
 <!-- TOC --><a name="41-issue1"></a>
-### Issue 1 - 2.6.2 Primary Challenges and Risks
+### 4.1. Issue 1 - 2.6.2 Primary Challenges and Risks
 
 #### Blocking Apps Successfully
 <!-- How do we ensure that the MVP can actually block other apps? -->
@@ -147,13 +147,13 @@ Following on from this, we have identified a number of potential methods and are
 
 
 <!-- TOC --><a name="42-issue2"></a>
-### Issue 2 - 2.7 Assumptions and Risk Assessment
+### 4.2. Issue 2 - 2.7 Assumptions and Risk Assessment
 
 On a related topic, we will be adding the issue of cross-compatibility to our official risk assessment based on the reasoning specified above.
 
 
 <!-- TOC --><a name="43-issue3"></a>
-### Issue 3 - 2.2 Use Cases and Storyboarding
+### 4.3. Issue 3 - 2.2 Use Cases and Storyboarding
 
 #### Setting permissions
 <!-- How will the system interact with app permission settings? -->
@@ -169,7 +169,7 @@ Additionally, we also decided to rethink how the blocking/restriction would actu
 
 
 <!-- TOC --><a name="5-raising-capital"></a>
-## Raising Capital 
+## 5. Raising Capital 
 <!-- How have we raised money to support the business in the initial phase?  -->
 
 At this time we already have approached various friends and family for investment. This investment will be used to fund the initial marketing budget in order to start building a brand. We have had so signs of interesting with from a investors. This initial investment will go towards the marketing of our product specifically on TikTok (as this is, by definition, is our target audience). The target for this  initial capital raise is £3000 as TikTok estimates to convert to 50,000 clicks, which will establish our presence and allow our product to start spreading by word of mouth. This would also allow us to recoup our initial investment if only 6% of those who clicked purchased only one month of premium.
@@ -192,19 +192,19 @@ This investment however is all contingent on the completion of a working v1.0 of
 
 
 <!-- TOC --><a name="6-product-testing"></a>
-## Product Testing
+## 6. Product Testing
 <!-- How have we tested the product and what results did we get?  -->
 
 <!-- TOC --><a name="61-user-studies"></a>
-### User Studies
+### 6.1. User Studies
 
 <!-- TOC --><a name="62-user-feedback"></a>
-### User Feedback
+### 6.2. User Feedback
 
 
 
 <!-- TOC --><a name="7-conclusion"></a>
-## Conclusion
+## 7. Conclusion
 <!-- How do we evaluate our progress and what will we do next?  -->
 
 <!-- TOC --><a name="references"></a>
