@@ -24,17 +24,17 @@
 
 ## Table of Contents
 <!-- TOC start -->
-- [1. Overview of FOCO]
+- [1. Overview of FOCO] (#1-foco-overview)
   * [1.1 Our Customer]
   * [1.2 Customer Needs]
   * [1.3 Value Proposition]
   * [1.4 Meeting Customer Needs]
   * [1.5 Our Market Proposition]
-- [2. Methodology]
-- [3. Completion]
-  * [3.1 Website]
-  * [3.2 LinkedIn]
-  * [3.3 Prototype]
+- [2. Methodology] (#2-methodology)
+- [3. Completion] (#3-completion)
+  * [3.1 Website] (#31-website)
+  * [3.2 LinkedIn] (#32-linkedin)
+  * [3.3 Prototype] (#33-prototype)
 - [4. Plan Progression]
 - [5. Raising Capital]
 - [6. Product Testing]
@@ -45,6 +45,11 @@
 - [Appendices](#appendices)
 <!-- TOC end -->
 
+<!-- TOC --><a name="1-foco-overview"></a>
+## Overview of FOCO
+
+
+<!-- TOC --><a name="2-methodology"></a>
 ## Methodology
 <!-- How have we run our business so far?  -->
 
@@ -57,10 +62,13 @@ However, despite the strengths of the Agile framework for executing our business
 To initialise our business plan, we implemented a working prototype in Figma and designed a website for advertising our app. We also worked on marketing our app towards students at our university by creating posters and flyers to hand out to students around campus to gain early customers. We initially started with students studying computer science because computer science students are very familiar with user testing and could provide us some additional insight compared to students unfamiliarised usability tests work. Furthermore, as computer science students, we believed that, we would have a common ground to talk about, especially with third or fourth-year students as they may also be enrolled in the Entrepreneurship module.
 
 
+<!-- TOC --><a name="3-completion"></a>
 ## Completion
 <!-- What we have done so far?  -->
 
-### Website
+
+<!-- TOC --><a name="31-website"></a>
+### Website 
 In today's digital-first world, our website serves as both our virtual storefront and our most powerful brand ambassador. For FOCO, a platform dedicated to mindful technology use, having a thoughtful online presence isn't just practical - it's essential to our mission and growth strategy.
 
 #### Our domain: Simple, Professional, Memorable
@@ -88,11 +96,15 @@ Our website content strikes a careful balance between informing the user and ins
 - **Authentic Testimonials**: Real user stories highlighting tangible benefits like improved productivity, better sleep, and increased mindfulness
 - **Compelling Calls-to-Action**: Strategically placed prompts encouraging visitors to download or learn more
 
+
+<!-- TOC --><a name="32-linkedin"></a>
 ### LinkedIn
 Establishing a professional LinkedIn presence for FOCO was identified as a crucial early step in executing our business plan and transitioning from concept to active market engagement. We created a dedicated company page, meticulously populating it with key details including our mission, value proposition, relevant industry tags, and location, ensuring a comprehensive and professional representation of the brand. Initial content posts, such as the introduction to FOCO and its focus on digital wellbeing, were published to begin building awareness and driving engagement towards our primary platform. This online hub serves as a vital tool for implementing our initial marketing strategy, particularly for identifying and initiating contact with potential university and workplace partners as outlined in our plan, and for establishing credibility with prospective users and investors.
 
 Demonstrating entrepreneurial resourcefulness and a commitment to maximizing impact within budget constraints, the team acquired a LinkedIn account for £5 from a connection. Crucially, this account retained its unused Premium free trial—a necessary maneuver as our marketing lead had already exhausted their personal trial eligibility. This creative solution allowed us to access Premium features immediately, circumventing the significant standard monthly subscription cost. The initiative was undertaken specifically to accelerate our outreach efforts and gain a competitive edge. Premium features unlock enhanced visibility for our content and enable direct InMail messaging to key stakeholders, such as experienced app developers, potential mentors, or partnership managers within target organizations. This capability is invaluable for bypassing gatekeepers, capturing the attention of influential individuals, and initiating meaningful conversations that might otherwise be difficult to secure. Furthermore, access to more detailed analytics via Premium will allow us to track engagement, understand our audience better, and refine our communication strategy, ultimately supporting our goal of building momentum and validating FOCO's market potential.
 
+
+<!-- TOC --><a name="33-prototype"></a>
 ### Prototype
 
 
