@@ -20,6 +20,11 @@
   | gr553  | George Rawlinson |
 </div>
 
+## Table of Contents
+<!-- TOC start -->
+
+<!-- TOC end -->
+
 # FOCO: Business Execution Report
 
 ## Methodology
