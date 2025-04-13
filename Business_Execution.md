@@ -53,6 +53,7 @@
 
 <!-- TOC --><a name="1-foco-overview"></a>
 ## 1. Overview of FOCO
+FOCO is a productivity app that implements a coin-based system to minimise screen time on reductive apps. FOCO works by giving users a specific amount of coins, which the user can then spend based on the apps they are using. At the start of the week, the user must configure the settings for the apps on their device. They can either set a negative number of coins, which is used for reductive apps, or a positive number for productive apps. The number of coins they set for an app would be the rate at which they gain or lose coins, whilst interacting with that app for a specific amount of time. If the user runs out of coins, all reductive apps would be blocked on their device and the only way the user would be able to access these apps would be to spend time interacting with productive apps.
 
 <!-- TOC --><a name="11-customer"></a>
 ### 1.1 Our Customer
