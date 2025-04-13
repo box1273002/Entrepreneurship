@@ -57,6 +57,7 @@ FOCO is a productivity app that implements a coin-based system to minimise scree
 
 <!-- TOC --><a name="11-customer"></a>
 ### 1.1 Our Customer
+FOCO is aimed at people wanting to improve their wellbeing or productivity. Despite our app being able to target a lot of demographics due to screen time dependency being a widespread issue [1], FOCO’s main audience is students and working professionals as these audiences most likely need to focus on projects at school or work and would need to reduce their screen time on reductive apps in order to focus more on tasks that could benefit their education or professional lifestyle. We also chose students and working professionals as our main audience because our team have had personal experiences with having screen-time-related issues, which has given us motivation to create this app. As a result of our app being focused on increasing productivity, our marketing strategy also involves getting sponsorships or promotions from apps or content creators that focus on education, wellbeing or productivity.
 
 <!-- TOC --><a name="12-customer-needs"></a>
 ### 1.2 Customer Needs
