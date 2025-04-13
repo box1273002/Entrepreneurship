@@ -75,7 +75,7 @@
 
 <!-- TOC --><a name="21-team-roles"></a>
 ### 2.1. Team Roles
-We set up team roles based on individual strengths in order to create a suitable prototype for our users quickly. We have 5 members, who all have distinct roles: CEO, CFO, CMO, Developer Lead and Product Manager. When selecting our roles, because all of us have previously worked in a coursework group, we could easily identify each member’s core strengths and knew how the dynamic between us would be, as well as how to boost team morale efficiently.
+We set up team roles based on individual strengths in order to create a suitable prototype for our users quickly. We have 5 members, who all have distinct roles: CEO, CFO, CMO, Developer Lead and Product Manager. When selecting our roles, because all of us have previously worked in a coursework group, we could easily identify each member’s core strengths and knew how the dynamic between us would be, as well as how to boost team morale efficiently. It should be noted that the current stage of the company that all team members share responsibility, and as the company matures the roles may change as they become more strictly defined.
 
 <!-- TOC --><a name="22-agile"></a>
 ### 2.2. Agile Framework
