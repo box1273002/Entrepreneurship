@@ -25,17 +25,17 @@
 ## Table of Contents
 <!-- TOC start -->
 - [1. Overview of FOCO](#1-foco-overview)
-  * [1.1 Our Customer]
-  * [1.2 Customer Needs]
-  * [1.3 Value Proposition]
-  * [1.4 Meeting Customer Needs]
-  * [1.5 Our Market Proposition]
+  * [1.1 Our Customer](#11-customer)
+  * [1.2 Customer Needs](#12-customer-needs)
+  * [1.3 Value Proposition](#13-value-proposition)
+  * [1.4 Meeting Customer Needs](#14-meeting-customer-needs)
+  * [1.5 Our Market Proposition](#15-market-proposition)
 - [2. Methodology](#2-methodology)
 - [3. Completion](#3-completion)
   * [3.1 Website](#31-website)
   * [3.2 LinkedIn](#32-linkedin)
   * [3.3 Prototype](#33-prototype)
-- [4. Plan Progression]
+- [4. Plan Progression](#4-plan-progression)
 - [5. Raising Capital]
 - [6. Product Testing]
   * [6.1. Usability Studies]
@@ -46,11 +46,25 @@
 <!-- TOC end -->
 
 <!-- TOC --><a name="1-foco-overview"></a>
-## Overview of FOCO
+## 1. Overview of FOCO
 
+<!-- TOC --><a name="11-customer"></a>
+### 1.1 Our Customer
+
+<!-- TOC --><a name="12-customer-needs"></a>
+### 1.2 Customer Needs
+
+<!-- TOC --><a name="13-value-proposition"></a>
+### 1.3 Value Proposition
+
+<!-- TOC --><a name="14-meeting-customer-needs"></a>
+### 1.4 Customer Needs
+
+<!-- TOC --><a name="15-market-proposition"></a>
+### 1.5 Market Proposition
 
 <!-- TOC --><a name="2-methodology"></a>
-## Methodology
+## 2. Methodology
 <!-- How have we run our business so far?  -->
 
 We set up team roles based on individual strengths in order to create a suitable prototype for our users quickly. We have 5 members, who all have distinct roles: CEO, CFO, CMO, Developer Lead and Product Manager. When selecting our roles, because all of us have previously worked in a coursework group, we could easily identify each member’s core strengths and knew how the dynamic between us would be, as well as how to boost team morale efficiently.
@@ -108,7 +122,7 @@ Demonstrating entrepreneurial resourcefulness and a commitment to maximizing imp
 ### Prototype
 
 
-
+<!-- TOC --><a name="4-plan-progression"></a>
 ## Plan Progression
 <!-- How far we have gotten with the business plan?  -->
 
