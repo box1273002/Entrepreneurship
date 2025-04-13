@@ -79,25 +79,13 @@ FOCO is aimed at people wanting to improve their wellbeing or productivity. Desp
 ### 2.1. Team Roles
 We set up team roles based on individual strengths in order to create a suitable prototype for our users quickly. We have 5 members, who all have distinct roles: CEO, CFO, CMO, Developer Lead and Product Manager. When selecting our roles, because all of us have previously worked in a coursework group, we could easily identify each member’s core strengths and knew how the dynamic between us would be, as well as how to boost team morale efficiently. It should be noted that the current stage of the company that all team members share responsibility, and as the company matures the roles may change as they become more strictly defined.
 
-**Tomáš Pecher - CEO**
-
-  Perhaps the most well rounded team with prior experience acting as team leader in numerous university project, Tom is well positioned to lead the team as CEO.
-
-**Marilyn D’Costa - CFO**
-
-  Marilyn has specialized in the data science and business strategy elements of her computer science. As such she is best suited to take on the role of CFO.
-
-**Dhru Randeria - CMO**
-
-  With prior experience as a social media ambassador for the University, Dhru is well position to bring our message across as CMO. 
-
-**George Rawlinson - Developer Lead**
-
-  The most technically proficient member of the team, George’s high grades development modules as well as his experience as a professional software developer place him in a strong position to lead the technical of the app.
-
-**Ptolemy Morris - Product manager**
-
-  With prior stakeholder engagement experience, Ptolemy will be working closely the development team translating costumer suggestions/feedback into them into technical requirements.
+| Name             | Role     | Reasons Why They are Suitable for the Role  |         
+| ---------------- |------------------| ------------------------------------------- |
+| Tom Pecher       | CEO              | Has rior experience as a team leader in university projects |
+| Marilyn D'Costa  | CFO              | Specialises in data science and business strategy in her computer science degree |
+| Dhru Randeria    | CMO              | Has prior work experience as a social media ambassador for the University of Bath |
+| George Rawlinson | Developer Lead   | Has a high level of technical proficiency and previous work experience as a professional software developer |
+| Ptolemy Morris   | Product Manager  | Has previous stakeholder engagement experience |
 
 
 <!-- TOC --><a name="22-agile"></a>
