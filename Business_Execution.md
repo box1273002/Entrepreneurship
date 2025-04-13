@@ -1,7 +1,7 @@
 
 # FOCO: Business Execution Report
 
-## Methodology so far
+## Methodology
 <!-- How have we run our business so far?  -->
 
 We set up team roles based on individual strengths in order to create a suitable prototype for our users quickly. We have 5 members, who all have distinct roles: CEO, CFO, CMO, Developer Lead and Product Manager. When selecting our roles, because all of us have previously worked in a coursework group, we could easily identify each member’s core strengths and knew how the dynamic between us would be, as well as how to boost team morale efficiently.
