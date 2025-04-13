@@ -77,6 +77,27 @@
 ### 2.1. Team Roles
 We set up team roles based on individual strengths in order to create a suitable prototype for our users quickly. We have 5 members, who all have distinct roles: CEO, CFO, CMO, Developer Lead and Product Manager. When selecting our roles, because all of us have previously worked in a coursework group, we could easily identify each member’s core strengths and knew how the dynamic between us would be, as well as how to boost team morale efficiently. It should be noted that the current stage of the company that all team members share responsibility, and as the company matures the roles may change as they become more strictly defined.
 
+**Tomáš Pecher - CEO**
+
+Perhaps the most well rounded team with prior experience acting as team leader in numerous university project, Tom is well positioned to lead the team as CEO.
+
+**Marilyn D’Costa - CFO**
+
+Marilyn has specialized in the data science and business strategy elements of her computer science. As such she is best suited to take on the role of CFO.
+
+**Dhru Randeria - CMO**
+
+With prior experience as a social media ambassador for the University, Dhru is well position to bring our message across as CMO. 
+
+**George Rawlinson - Developer Lead**
+
+The most technically proficient member of the team, George’s high grades development modules as well as his experience as a professional software developer place him in a strong position to lead the technical of the app.
+
+**Ptolemy Morris - Product manager**
+
+With prior stakeholder engagement experience, Ptolemy will be working closely the development team translating costumer suggestions/feedback into them into technical requirements.
+
+
 <!-- TOC --><a name="22-agile"></a>
 ### 2.2. Agile Framework
 We used an Agile methodology to execute the initial plans of our business. We chose this methodology because it is a collaborative framework that has worked well for us when we last worked together and suits with the dynamics of our team as well as the need to design a prototype and create an app to market for this assignment. Additionally, Agile is flexible and adaptible. This is beneficial especially, if at any stage of executing our business, its current direction is not working, which can happen often in a product’s initial stages because user needs and market conditions can change rapidly, especially if a product has novelty elements, which our app does. Furthermore, because Agile is faster to implement than other methodologies, it would therefore allow us to gain feedback and start monetising earlier, especially as we are releasing an early version of our app.
