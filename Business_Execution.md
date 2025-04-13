@@ -36,6 +36,9 @@
   * [3.2 LinkedIn](#32-linkedin)
   * [3.3 Prototype](#33-prototype)
 - [4. Plan Progression](#4-plan-progression)
+  * [4.1. Issue 1 - 2.6.2 Primary Challenges and Risks](#41-issue1)
+  * [4.2. Issue 2 - 2.7 Assumptions and Risk Assessment](#42-issue2)
+  * [4.3. Issue 3 - 2.2 Use Cases and Storyboarding](#43-issue3)
 - [5. Raising Capital](#5-raising-capital)
 - [6. Product Testing](#6-product-testing)
   * [6.1. Usability Studies](#61-user-studies)
@@ -129,6 +132,7 @@ Demonstrating entrepreneurial resourcefulness and a commitment to maximizing imp
 Clearly, since first laying out our production timeline, we have made good progress towards setting up a sustainable and thriving business framework, already tackling a number of goals laid out in the Priority Roadmap Section (3.1). However, since then, we have also come across new information/insights. A good business plan is a dynamic one, hence we would like to point out some of the most notable changes we are making to proposed product and business strategy.
 
 
+<!-- TOC --><a name="41-issue1"></a>
 ### Issue 1 - 2.6.2 Primary Challenges and Risks
 
 #### Blocking Apps Successfully
@@ -142,11 +146,13 @@ In our planning phase, we correctly identified the ability (or lack thereof) of 
 Following on from this, we have identified a number of potential methods and are in the process of testing each one. However, these methods are now raising a second potential risk to the business plan as several of them are OS specific, and so using them would mean narrowing our target audience quite significantly. We believe this to be a pertinent issue as a lack of cross-compatibility would substantially limit our potential revenue and are considering different ways of circumventing this issue (mainly, whether we keep researching for an all-encompassing solution for each OS, or implementing specific solutions for each one).
 
 
+<!-- TOC --><a name="42-issue2"></a>
 ### Issue 2 - 2.7 Assumptions and Risk Assessment
 
 On a related topic, we will be adding the issue of cross-compatibility to our official risk assessment based on the reasoning specified above.
 
 
+<!-- TOC --><a name="43-issue3"></a>
 ### Issue 3 - 2.2 Use Cases and Storyboarding
 
 #### Setting permissions
