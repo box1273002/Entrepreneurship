@@ -204,7 +204,7 @@ Additionally, we also decided to rethink how the blocking/restriction would actu
 
 At this time we already have approached various friends and family for investment. This investment will be used to fund the initial marketing budget in order to start building a brand. We have had so signs of interesting with from a investors. This initial investment will go towards the marketing of our product specifically on TikTok (as this is, by definition, is our target audience). The target for this  initial capital raise is £3000 as TikTok estimates to convert to 50,000 clicks, which will establish our presence and allow our product to start spreading by word of mouth. This would also allow us to recoup our initial investment if only 6% of those who clicked purchased only one month of premium.
 
-List of prospective investors
+List of prospective investors:
 
 | Investor  | Investment | Equity |
 | --- | --- | --- |
