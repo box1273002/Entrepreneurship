@@ -17,7 +17,32 @@ To initialise our business plan, we implemented a working prototype in Figma and
 <!-- What we have done so far?  -->
 
 ### Website
+In today's digital-first world, our website serves as both our virtual storefront and our most powerful brand ambassador. For FOCO, a platform dedicated to mindful technology use, having a thoughtful online presence isn't just practical - it's essential to our mission and growth strategy.
 
+#### Our domain: Simple, Professional, Memorable
+
+We carefully selected the domain http[s://focodigital.co.uk/](https://focodigital.co.uk/) to embody our core values:
+
+- **Intuitive and memorable**: “FOCO” (Derived from Focus Corporation), our business name, is short and distinctive, and instantly conveys our purpose.
+- **Professional and approachable**: The name signals credibility while remaining friendly and accessible.
+- **Available across platforms: This consistency helps users find us easily through search, social media, or word of mouth.**
+
+#### User - Centric Design Philosophy
+
+Every element of our website has been thoughtfully crafted with our users needs at the forefront:
+
+- **Intuitive Navigation**: Clean menu structure allowing visitors to find information with minimal clicks
+- **Responsive Design**: Seamless experience across all devices, with adaptive scaling to fit the user’s device
+- **Fast Loading times: Respecting our visitors’ time and attention - practicing what we preach about digital efficiency.**
+
+#### Content that Converts
+
+Our website content strikes a careful balance between informing the user and inspiring action:
+
+- **Clear Value Proposition**: Immediately communicating how FOCO solves the universal problem of digital distraction
+- **Evidence-Based Approach**: Incorporating research on digital wellness to build credibility
+- **Authentic Testimonials**: Real user stories highlighting tangible benefits like improved productivity, better sleep, and increased mindfulness
+- **Compelling Calls-to-Action**: Strategically placed prompts encouraging visitors to download or learn more
 
 ### LinkedIn
 
