@@ -35,7 +35,7 @@
   * [3.1 Website](#31-website)
   * [3.2 LinkedIn](#32-linkedin)
   * [3.3 Prototype](#33-prototype)
-- [4. Plan Progression](#4-plan-progression)
+- [4. Business Plan Progression](#4-plan-progression)
   * [4.1. Issue 1 - 2.6.2 Primary Challenges and Risks](#41-issue1)
   * [4.2. Issue 2 - 2.7 Assumptions and Risk Assessment](#42-issue2)
   * [4.3. Issue 3 - 2.2 Use Cases and Storyboarding](#43-issue3)
@@ -126,7 +126,7 @@ Demonstrating entrepreneurial resourcefulness and a commitment to maximizing imp
 
 
 <!-- TOC --><a name="4-plan-progression"></a>
-## Plan Progression
+## Business Plan Progression
 <!-- How far we have gotten with the business plan?  -->
 
 Clearly, since first laying out our production timeline, we have made good progress towards setting up a sustainable and thriving business framework, already tackling a number of goals laid out in the Priority Roadmap Section (3.1). However, since then, we have also come across new information/insights. A good business plan is a dynamic one, hence we would like to point out some of the most notable changes we are making to proposed product and business strategy.
