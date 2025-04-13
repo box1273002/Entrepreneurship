@@ -110,7 +110,7 @@ In today's digital-first world, our website serves as both our virtual storefron
 
 #### Our domain: Simple, Professional, Memorable
 
-We carefully selected the domain http[s://focodigital.co.uk/](https://focodigital.co.uk/) to embody our core values:
+We carefully selected the domain [https://focodigital.co.uk/](https://focodigital.co.uk/) to embody our core values:
 
 - **Intuitive and memorable**: “FOCO” (Derived from Focus Corporation), our business name, is short and distinctive, and instantly conveys our purpose.
 - **Professional and approachable**: The name signals credibility while remaining friendly and accessible.
