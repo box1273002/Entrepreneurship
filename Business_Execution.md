@@ -24,7 +24,8 @@
 
 ## Table of Contents
 <!-- TOC start -->
-
+- [References](#references)
+- [Appendices](#appendices)
 <!-- TOC end -->
 
 ## Methodology
@@ -149,3 +150,9 @@ This investment however is all contingent on the completion of a working v1.0 of
 
 ## Conclusion
 <!-- How do we evaluate our progress and what will we do next?  -->
+
+<!-- TOC --><a name="references"></a>
+## References
+
+<!-- TOC --><a name="appendices"></a>
+## Appendices
