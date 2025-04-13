@@ -228,9 +228,16 @@ This investment however is all contingent on the completion of a working v1.0 of
 <!-- TOC --><a name="61-user-studies"></a>
 ### 6.1. User Studies
 
+We got users to provide us feedback for our Figma low-fidelity prototype and our website. We asked users whether it is easy to navigate through the Figma prototype and the website, what they liked about their design and whether they could think of anything that could help in regards to the layout of these interfaces that could benefit users.
+
 <!-- TOC --><a name="62-user-feedback"></a>
 ### 6.2. User Feedback
 
+From the feedback we have received so far, users have agreed that the website is easy to navigate and the layout of our prototype is easy to understand for users. Notable positive feedback that was mentioned was that there was not massive blocks of text, which made it easy for users to read and understand, and that the pictures in our website did not take over from the content of our website but worked in a way to help users to easily visualise how our app works in order to help out our customers. 
+
+The main criticism we had was that the contrast between the headings of our website and the backgrounds could be more defined because a more defined contrast can help older users or users with visual impairments to view the content of our website easily. Another criticism we received was that one of our graphs could have been explained in a bit more detail as it was confusing to one of our users because it look like the user would spend more time using FOCO, when our graph was supposed to represent the amount of time left in the day from using FOCO in comparison to not using FOCO.
+
+A suggestion that was given for our website was to include video content that can demonstrate how our app works either by an explanation of how the coin system works or a visual demonstration of a user interacting with our app. This is feedback that we will plan to implement once we have a complete version of our app as we want to market our app via social media. We believe that a YouTube channel that has videos to demonstrate our app or working with content creator in a field related to productivity, such as wellbeing or education, to demonstrate and review our app would be useful to market our app.
 
 
 <!-- TOC --><a name="7-conclusion"></a>
