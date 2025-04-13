@@ -238,7 +238,7 @@ In conclusion, our journey with FOCO has not only helped us create a tool aimed 
 
 Even before securing this major investment, we made several key moves using our initial seed funds. These included acquiring a domain for FOCO’s website and purchasing a Google Play license, allowing us to publish the app on the Play Store and make it accessible to Android users worldwide. These early steps were crucial in laying the groundwork for FOCO's public presence and upcoming launch.
 
-Overall, this project has given us valuable insight into what it takes to build and grow a startup—from idea validation and prototype development, to pitching investors and making strategic business decisions. While we’re proud of how far FOCO has come, this is just the beginning. We’re committed to continuing the development of FOCO and expanding its reach, helping more people take control of their digital lives and find balance in an increasingly connected world.
+Overall, this project has given us valuable insight into what it takes to build and grow a startup - from idea validation and prototype development, to pitching investors and making strategic business decisions. While we’re proud of how far FOCO has come, this is just the beginning. We’re committed to continuing the development of FOCO and expanding its reach, helping more people take control of their digital lives and find balance in an increasingly connected world.
 
 <!-- TOC --><a name="references"></a>
 ## References
