@@ -61,15 +61,29 @@ FOCO is aimed at people wanting to improve their wellbeing or productivity. Desp
 
 <!-- TOC --><a name="12-customer-needs"></a>
 ### 1.2 Customer Needs
+Customers seeking a screen time manager app are primarily motivated by a desire to regain control over their digital habits. Many users struggle with excessive time spent on unproductive apps like social media, mobile games, or content streaming platforms, often at the expense of their mental health, productivity, or personal goals. These users are looking for a tool that goes beyond passive tracking and actively supports behavior change. They want an intuitive, engaging system that helps them not only become aware of their screen time patterns but also provides clear, motivating incentives to reduce usage on apps they deem unproductive.
 
 <!-- TOC --><a name="13-value-proposition"></a>
 ### 1.3 Value Proposition
+Our product is a coin-based screen time management app designed with an emphasis on flexibility while still promoting lasting changes in behavior. During the initial setup, users assign a value—or "cost"—to each app they use. This cost can be positive, negative, or neutral, depending on whether they view the app as productive, unproductive, or somewhere in between.
+
+Each day, users are given a set screen time budget in the form of coins. As they use their devices, time spent on apps will either spend, earn, or have no effect on their daily coin balance, based on the values they’ve set. This system gives users the freedom to make intentional choices about how they spend their time, offering day-to-day flexibility while still encouraging mindful use.
+
+By turning screen time management into a budgeting game, our app helps users become more aware of their habits and empowers them to take control—without rigid restrictions. The goal is to make reducing unproductive screen time both achievable and motivating, while still leaving room for balance and enjoyment.
 
 <!-- TOC --><a name="14-meeting-customer-needs"></a>
 ### 1.4 Meeting Customer Needs
+Our product is a coin-based screen time management app designed with an emphasis on flexibility while still promoting lasting changes in behavior. During the initial setup, users assign a value—or "cost"—to each app they use. This cost can be positive, negative, or neutral, depending on whether they view the app as productive, unproductive, or somewhere in between.
+
+Each day, users are given a set screen time budget in the form of coins. As they use their devices, time spent on apps will either spend, earn, or have no effect on their daily coin balance, based on the values they’ve set. This system gives users the freedom to make intentional choices about how they spend their time, offering day-to-day flexibility while still encouraging mindful use.
+
+By turning screen time management into a budgeting game, our app helps users become more aware of their habits and empowers them to take control—without rigid restrictions. The goal is to make reducing unproductive screen time both achievable and motivating, while still leaving room for balance and enjoyment.
 
 <!-- TOC --><a name="15-selling-proposition"></a>
 ### 1.5 Unique Selling Proposition
+Our product’s primary value proposition lies in its substantially lower cost, enabled by a zero operating cost model that leverages users’ existing storage infrastructure. In contrast, market alternatives such as Opal — our leading competitor — charge $19.99 per month or $99.99 annually, with similar pricing models seen across the industry, due to the additional server costs of these companies and significant markup. This pricing disparity presents a significant market opportunity for a low-cost, user-friendly app blocking solution.
+
+Moreover, our integrated coin system offers a distinctive advantage by introducing a gamified experience that encourages users to reduce screen time in an engaging and effective way.
 
 <!-- TOC --><a name="2-methodology"></a>
 ## 2. Methodology
