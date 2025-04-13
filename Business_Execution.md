@@ -1,3 +1,24 @@
+<div align="center">
+  <h1>FOCO</h1>
+  <p><i>Creating a credit-based screen time limiter app</i></p>
+</div>
+
+<p align="center" width="100%">
+  <img src="https://github.com/user-attachments/assets/abd27cd1-354c-4444-a4e4-9a6791ea4a2c" alt="FOCO logo" style="width:50%; height:auto;">
+  <img src="https://github.com/user-attachments/assets/5b2ea9c0-fc97-4613-9180-8ba76ed7a04d" alt="scroll text" style="width:60%; height:auto;">
+</p>
+
+<div align="center" width="100%">
+  <h2>Our Team (Group 13)</h2>
+
+  | BUCS ID | Name            |
+  | ------ | ---------------- |
+  | mdc63  | Marilyn D'Costa  |
+  | pm2038 | Ptolemy Morris   |
+  | tp873  | Tom Pecher       |
+  | dr761  | Dhru Randeria    |
+  | gr553  | George Rawlinson |
+</div>
 
 # FOCO: Business Execution Report
 
