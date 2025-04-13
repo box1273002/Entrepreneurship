@@ -143,9 +143,23 @@ Demonstrating entrepreneurial resourcefulness and a commitment to maximizing imp
 
 <!-- TOC --><a name="33-prototype"></a>
 ### 3.3. Prototype
+
+#### 3.3.1. Functionality Prototype
 Based on our risk assessment from our business plan, it was clear to us that successfully and safely overriding other applications would likely be challenging. For this reason, we choose to attack this problem early on by immediately beginning the prototyping process. Our final goal for an MVP is to create a Flutter-based system whose only functionality is to block access to a specified app (the rest of the functionality is superficial and can easily be added afterwards). We chose Flutter as our desired framework due to its cross-platform compatibility, which we believe to be vital to the business model. However, as we anticipated, this functionality is much harder to implement than we had initially thought and we have currently been unsuccessful in implementing this feature in Flutter. This led us back to reassessing our risk assessment to figure out how to deal with this issue (see 4.1). Fortunately, many have had similar issues online and after conducting research on similar systems, we have found several similar systems which we are actively testing to find a solution to our problem. Our Flutter prototype can be found at: https://github.com/TheGogy/foco.
 
 Since progress with Flutter was very slow, we decided to split our development team, half of which worked on the Flutter system and the other half going back to basics, specifically into making a Python script for Linux only. We did this with the idea that by solving this problem, we could then build upon it until we have a working product that works on all operating systems. This proved to be very successful and we were quickly able to make an implementation that can block access any application. Whilst working as intended, this script is still far too primitive and unsafe to ever be considered an adequate product as its manipulation of system processes has not yet been fully tested and safeguarded against potentially dangerous bugs. Nevertheless, we are very close to having a working system, despite being confined to Linux for the time being. We hope that very soon, we will be able to complete the rest of the functionality (the credit system and customisation) and soon be able to expand to other operating systems. This prototype can be found here: https://github.com/Tom-Pecher/AppSlayer.
+
+#### 3.3.2. Design Prototype
+When thinking about the design of our app and how the user would navigate through the app, we created a low-fidelity prototype using Figma that differentiated itself from the other prototype that focuses on functionality. When designing the low-fidelity prototype, we considered how whether the user would be able to easily navigate through the app and made sure that the font size, buttons and text boxes were designed so that the user can easily navigate through the app without making too many mistakes. We also considered how to make the the text easily readable to the user and made sure that the backgrounds had a high level of contrast from the text and button colours of our app. 
+
+For our Figma Prototype, we have designed the free model for now and have the following pages:
+
+- Login and Sign Up: allows the user to create an account and to keep their screen-time data private
+- Main Menu: allows the user to see whether they can configure their setting yet based on whether they are locked or unlocked. From this page, the user can be directed to a Configure Settings or User Insights page
+- Configure Settings: allows the user to adjust the coins that an app can gain or lose at a given rate
+- User Insights: allows the user to see how many hours they have spent on an app per day, month and year
+
+Once a user has logged in or signed up, they can sign out by clicking the user icon.
 
 
 <!-- TOC --><a name="4-plan-progression"></a>
