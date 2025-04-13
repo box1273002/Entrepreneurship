@@ -66,7 +66,7 @@ FOCO is aimed at people wanting to improve their wellbeing or productivity. Desp
 ### 1.3 Value Proposition
 
 <!-- TOC --><a name="14-meeting-customer-needs"></a>
-### 1.4 Customer Needs
+### 1.4 Meeting Customer Needs
 
 <!-- TOC --><a name="15-market-proposition"></a>
 ### 1.5 Market Proposition
