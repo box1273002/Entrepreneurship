@@ -37,7 +37,7 @@
 - [3. Completion](#3-completion)
   * [3.1 Website](#31-website)
   * [3.2 LinkedIn](#32-linkedin)
-  * [3.3 Prototype](#33-prototype)
+  * [3.3 Prototypes](#33-prototypes)
 - [4. Business Plan Progression](#4-plan-progression)
   * [4.1. Issue 1 - 2.6.2 Primary Challenges and Risks](#41-issue1)
   * [4.2. Issue 2 - 2.7 Assumptions and Risk Assessment](#42-issue2)
@@ -141,15 +141,15 @@ Establishing a professional LinkedIn presence for FOCO was identified as a cruci
 Demonstrating entrepreneurial resourcefulness and a commitment to maximizing impact within budget constraints, the team acquired a LinkedIn account for £5 from a connection. Crucially, this account retained its unused Premium free trial—a necessary maneuver as our marketing lead had already exhausted their personal trial eligibility. This creative solution allowed us to access Premium features immediately, circumventing the significant standard monthly subscription cost. The initiative was undertaken specifically to accelerate our outreach efforts and gain a competitive edge. Premium features unlock enhanced visibility for our content and enable direct InMail messaging to key stakeholders, such as experienced app developers, potential mentors, or partnership managers within target organizations. This capability is invaluable for bypassing gatekeepers, capturing the attention of influential individuals, and initiating meaningful conversations that might otherwise be difficult to secure. Furthermore, access to more detailed analytics via Premium will allow us to track engagement, understand our audience better, and refine our communication strategy, ultimately supporting our goal of building momentum and validating FOCO's market potential.
 
 
-<!-- TOC --><a name="33-prototype"></a>
-### 3.3. Prototype
+<!-- TOC --><a name="33-prototypes"></a>
+### 3.3. Prototypes
 
-#### 3.3.1. Functionality Prototype
+#### Functionality Prototype
 Based on our risk assessment from our business plan, it was clear to us that successfully and safely overriding other applications would likely be challenging. For this reason, we choose to attack this problem early on by immediately beginning the prototyping process. Our final goal for an MVP is to create a Flutter-based system whose only functionality is to block access to a specified app (the rest of the functionality is superficial and can easily be added afterwards). We chose Flutter as our desired framework due to its cross-platform compatibility, which we believe to be vital to the business model. However, as we anticipated, this functionality is much harder to implement than we had initially thought and we have currently been unsuccessful in implementing this feature in Flutter. This led us back to reassessing our risk assessment to figure out how to deal with this issue (see 4.1). Fortunately, many have had similar issues online and after conducting research on similar systems, we have found several similar systems which we are actively testing to find a solution to our problem. Our Flutter prototype can be found at: https://github.com/TheGogy/foco.
 
 Since progress with Flutter was very slow, we decided to split our development team, half of which worked on the Flutter system and the other half going back to basics, specifically into making a Python script for Linux only. We did this with the idea that by solving this problem, we could then build upon it until we have a working product that works on all operating systems. This proved to be very successful and we were quickly able to make an implementation that can block access any application. Whilst working as intended, this script is still far too primitive and unsafe to ever be considered an adequate product as its manipulation of system processes has not yet been fully tested and safeguarded against potentially dangerous bugs. Nevertheless, we are very close to having a working system, despite being confined to Linux for the time being. We hope that very soon, we will be able to complete the rest of the functionality (the credit system and customisation) and soon be able to expand to other operating systems. This prototype can be found here: https://github.com/Tom-Pecher/AppSlayer.
 
-#### 3.3.2. Design Prototype
+#### Design Prototype
 When thinking about the design of our app and how the user would navigate through the app, we created a low-fidelity prototype using Figma that differentiated itself from the other prototype that focuses on functionality. When designing the low-fidelity prototype, we considered how whether the user would be able to easily navigate through the app and made sure that the font size, buttons and text boxes were designed so that the user can easily navigate through the app without making too many mistakes. We also considered how to make the the text easily readable to the user and made sure that the backgrounds had a high level of contrast from the text and button colours of our app. 
 
 For our Figma Prototype, we have designed the free model for now and have the following pages:
