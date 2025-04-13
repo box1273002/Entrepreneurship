@@ -93,11 +93,23 @@ Additionally, we also decided to rethink how the blocking/restriction would actu
 ## Raising capital
 <!-- How have we raised money to support the business in the initial phase?  -->
 
-### Sources of capital
+At this time we already have approached various friends and family for investment. This investment will be used to fund the initial marketing budget in order to start building a brand. We have had so signs of interesting with from a investors. This initial investment will go towards the marketing of our product specifically on TikTok (as this is, by definition, is our target audience). The target for this  initial capital raise is £3000 as TikTok estimates to convert to 50,000 clicks, which will establish our presence and allow our product to start spreading by word of mouth. This would also allow us to recoup our initial investment if only 6% of those who clicked purchased only one month of premium.
 
+List of prospective investors
 
-### Next steps
+| Investor  | Investment | Equity |
+| --- | --- | --- |
+| Charlotte Morris | £1000 | 6.7% |
+| TJ Rawlinson | £500  | 3.3% |
+| Dhru’s Mum | £500  | 3.3% |
+| Sammy | £150 | 1% |
+| Total | £2150 | 14.3% |
 
+This investment however is all contingent on the completion of a working v1.0 of our app being published to the google play store. In order to get to this point the team has/is planning to cover the upfront costs as they are relatively small and as such are able to be payed out of pocket by the team, these include:
+
+- £7.50 - **Domain Acquisition:** We secured https://focodigital.co.uk as our digital headquarters, prioritizing this investment to establish a professional online presence from day one. We researched our options for purchasing this domain, and found that Cloudflare was the easiest option, as it worked well as a hosting provider, and was a reputable source for domain purchasing.
+- £25.00 - **Google Play:** Initially, we decided to launch on Google play instead of the App Store. This is because we have completed our initial development on Flutter Studio, which emulates an Android phone, and additionally the pricing model is much cheaper to get started, taking a 15% cut instead of Apple’s 30% cut.
+- £50 - **Company House Registration (Planned):** We intend to register *The Focus Corporation* as a limited company with Companies House in the near future. This will formalize our operations, providing legal protection to our investors. Setting up as a limited company also opens the door to more professional opportunities, such as business banking and grant applications, while securing our brand name officially.
 
 
 ## Testing product
