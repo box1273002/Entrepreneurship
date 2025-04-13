@@ -254,5 +254,8 @@ Overall, this project has given us valuable insight into what it takes to build 
 <!-- TOC --><a name="references"></a>
 ## References
 
+<!-- LINK --><a name="ref-1"></a>
+[1] Harmony Healthcare IT (2025) Phone screen time statistics. Available at: https://www.harmonyhit.com/phone-screen-time-statistics/ (Accessed: 16 March 2025)
+
 <!-- TOC --><a name="appendices"></a>
 ## Appendices
