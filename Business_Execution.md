@@ -31,6 +31,9 @@
   * [1.4 Meeting Customer Needs](#14-meeting-customer-needs)
   * [1.5 Our Market Proposition](#15-market-proposition)
 - [2. Methodology](#2-methodology)
+  * [2.1. Team Roles](#21-team-roles)
+  * [2.2. Agile Framework](#22-agile)
+  * [2.3. Meeting Our Current Business Plan](#23-meeting-bp)
 - [3. Completion](#3-completion)
   * [3.1 Website](#31-website)
   * [3.2 LinkedIn](#32-linkedin)
@@ -70,12 +73,18 @@
 ## 2. Methodology
 <!-- How have we run our business so far?  -->
 
+<!-- TOC --><a name="21-team-roles"></a>
+### 2.1. Team Roles
 We set up team roles based on individual strengths in order to create a suitable prototype for our users quickly. We have 5 members, who all have distinct roles: CEO, CFO, CMO, Developer Lead and Product Manager. When selecting our roles, because all of us have previously worked in a coursework group, we could easily identify each member’s core strengths and knew how the dynamic between us would be, as well as how to boost team morale efficiently.
 
+<!-- TOC --><a name="22-agile"></a>
+### 2.2. Agile Framework
 We used an Agile methodology to execute the initial plans of our business. We chose this methodology because it is a collaborative framework that has worked well for us when we last worked together and suits with the dynamics of our team as well as the need to design a prototype and create an app to market for this assignment. Additionally, Agile is flexible and adaptible. This is beneficial especially, if at any stage of executing our business, its current direction is not working, which can happen often in a product’s initial stages because user needs and market conditions can change rapidly, especially if a product has novelty elements, which our app does. Furthermore, because Agile is faster to implement than other methodologies, it would therefore allow us to gain feedback and start monetising earlier, especially as we are releasing an early version of our app.
 
 However, despite the strengths of the Agile framework for executing our business in its initial stages, there are also drawbacks to using this methodology, especially if we want to use the framework beyond the initial stages of developing FOCO. One of the main challenges is that the Agile Framework can cause us to lack planning in the long-term as the methodology focuses on short sprints and could lead to a lack of big-picture thinking, which is needed in entrepreneurship. This could lead to our team developing a product that does not have a coherent overall strategy. In order to mitigate this, we arranged weekly meetings to discuss individual progress and to evaluate whether our progress aligns well with FOCO’s strategic direction. A challenge that we also addressed is customer confusion that can arise, especially when demonstrating our app to early users because Agile methodologies have frequent updates and features can easily change, which can lead to confusion. To mitigate this challenge, we initially advertised our app to students within our department for early feedback before we started marketing to students in other departments at our university because computer science students are familiar with the Agile methodology and user testing and could give us more insightful feedback that could help us identify weaknesses in our product that may cause user confusion. Looking towards the future, an issue that can arise is scaling because Agile is a suitable methodology for small teams but, if we gain additional members as our business develops, we may need to consider methodologies such as SCRUM or Waterfall in order to deal with more members and new team dynamics. 
 
+<!-- TOC --><a name="23-meeting-bp"></a>
+### 2.3. Meeting Our Current Business Plan
 To initialise our business plan, we implemented a working prototype in Figma and designed a website for advertising our app. We also worked on marketing our app towards students at our university by creating posters and flyers to hand out to students around campus to gain early customers. We initially started with students studying computer science because computer science students are very familiar with user testing and could provide us some additional insight compared to students unfamiliarised usability tests work. Furthermore, as computer science students, we believed that, we would have a common ground to talk about, especially with third or fourth-year students as they may also be enrolled in the Entrepreneurship module.
 
 
