@@ -498,7 +498,7 @@ With prior experience as a social media ambassador for the University, Dhru is w
 
 **George Rawlinson - Developer Lead**
 
-The most technically proficient member of the team, George’s high grades development modules as well as his experience as a professional software developer place him in a strong position to lead the technical of the app.
+The most technically proficient member of the team, George’s high grades development modules as well as his experience as a professional software developer place him in a strong position to lead the technical development of the app.
 
 **Ptolemy Morris - Product manager**
 
