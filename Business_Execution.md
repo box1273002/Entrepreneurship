@@ -36,11 +36,11 @@
   * [3.2 LinkedIn](#32-linkedin)
   * [3.3 Prototype](#33-prototype)
 - [4. Plan Progression](#4-plan-progression)
-- [5. Raising Capital]
-- [6. Product Testing]
-  * [6.1. Usability Studies]
-  * [6.1. User Feedback]
-- [7. Conclusion]
+- [5. Raising Capital](#5-raising-capital)
+- [6. Product Testing](#6-product-testing)
+  * [6.1. Usability Studies](#61-user-studies)
+  * [6.2. User Feedback](#62-user-feedback)
+- [7. Conclusion](#7-conclusion)
 - [References](#references)
 - [Appendices](#appendices)
 <!-- TOC end -->
@@ -162,7 +162,8 @@ Additionally, we also decided to rethink how the blocking/restriction would actu
 
 
 
-## Raising capital
+<!-- TOC --><a name="5-raising-capital"></a>
+## Raising Capital 
 <!-- How have we raised money to support the business in the initial phase?  -->
 
 At this time we already have approached various friends and family for investment. This investment will be used to fund the initial marketing budget in order to start building a brand. We have had so signs of interesting with from a investors. This initial investment will go towards the marketing of our product specifically on TikTok (as this is, by definition, is our target audience). The target for this  initial capital raise is £3000 as TikTok estimates to convert to 50,000 clicks, which will establish our presence and allow our product to start spreading by word of mouth. This would also allow us to recoup our initial investment if only 6% of those who clicked purchased only one month of premium.
@@ -184,13 +185,19 @@ This investment however is all contingent on the completion of a working v1.0 of
 - £50 - **Company House Registration (Planned):** We intend to register *The Focus Corporation* as a limited company with Companies House in the near future. This will formalize our operations, providing legal protection to our investors. Setting up as a limited company also opens the door to more professional opportunities, such as business banking and grant applications, while securing our brand name officially.
 
 
-## Testing product
+<!-- TOC --><a name="6-product-testing"></a>
+## Product Testing
 <!-- How have we tested the product and what results did we get?  -->
 
-### Feedback
+<!-- TOC --><a name="61-user-studies"></a>
+### User Studies
+
+<!-- TOC --><a name="62-user-feedback"></a>
+### User Feedback
 
 
 
+<!-- TOC --><a name="7-conclusion"></a>
 ## Conclusion
 <!-- How do we evaluate our progress and what will we do next?  -->
 
