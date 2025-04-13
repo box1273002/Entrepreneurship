@@ -45,7 +45,9 @@ Our website content strikes a careful balance between informing the user and ins
 - **Compelling Calls-to-Action**: Strategically placed prompts encouraging visitors to download or learn more
 
 ### LinkedIn
+Establishing a professional LinkedIn presence for FOCO was identified as a crucial early step in executing our business plan and transitioning from concept to active market engagement. We created a dedicated company page, meticulously populating it with key details including our mission, value proposition, relevant industry tags, and location, ensuring a comprehensive and professional representation of the brand. Initial content posts, such as the introduction to FOCO and its focus on digital wellbeing, were published to begin building awareness and driving engagement towards our primary platform. This online hub serves as a vital tool for implementing our initial marketing strategy, particularly for identifying and initiating contact with potential university and workplace partners as outlined in our plan, and for establishing credibility with prospective users and investors.
 
+Demonstrating entrepreneurial resourcefulness and a commitment to maximizing impact within budget constraints, the team acquired a LinkedIn account for £5 from a connection. Crucially, this account retained its unused Premium free trial—a necessary maneuver as our marketing lead had already exhausted their personal trial eligibility. This creative solution allowed us to access Premium features immediately, circumventing the significant standard monthly subscription cost. The initiative was undertaken specifically to accelerate our outreach efforts and gain a competitive edge. Premium features unlock enhanced visibility for our content and enable direct InMail messaging to key stakeholders, such as experienced app developers, potential mentors, or partnership managers within target organizations. This capability is invaluable for bypassing gatekeepers, capturing the attention of influential individuals, and initiating meaningful conversations that might otherwise be difficult to secure. Furthermore, access to more detailed analytics via Premium will allow us to track engagement, understand our audience better, and refine our communication strategy, ultimately supporting our goal of building momentum and validating FOCO's market potential.
 
 ### Prototype
 
@@ -101,8 +103,8 @@ List of prospective investors
 | --- | --- | --- |
 | Charlotte Morris | £1000 | 6.7% |
 | TJ Rawlinson | £500  | 3.3% |
-| Dhru’s Mum | £500  | 3.3% |
-| Sammy | £150 | 1% |
+| Jitesh Randeria | £500  | 3.3% |
+| Sammy Ndenecho | £150 | 1% |
 | Total | £2150 | 14.3% |
 
 This investment however is all contingent on the completion of a working v1.0 of our app being published to the google play store. In order to get to this point the team has/is planning to cover the upfront costs as they are relatively small and as such are able to be payed out of pocket by the team, these include:
