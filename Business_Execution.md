@@ -29,7 +29,7 @@
   * [1.2 Customer Needs](#12-customer-needs)
   * [1.3 Value Proposition](#13-value-proposition)
   * [1.4 Meeting Customer Needs](#14-meeting-customer-needs)
-  * [1.5 Our Market Proposition](#15-market-proposition)
+  * [1.5 Unique Selling Proposition](#15-seling-proposition)
 - [2. Methodology](#2-methodology)
   * [2.1. Team Roles](#21-team-roles)
   * [2.2. Agile Framework](#22-agile)
@@ -68,7 +68,7 @@ FOCO is aimed at people wanting to improve their wellbeing or productivity. Desp
 <!-- TOC --><a name="14-meeting-customer-needs"></a>
 ### 1.4 Meeting Customer Needs
 
-<!-- TOC --><a name="15-market-proposition"></a>
+<!-- TOC --><a name="15-selling-proposition"></a>
 ### 1.5 Market Proposition
 
 <!-- TOC --><a name="2-methodology"></a>
