@@ -81,7 +81,7 @@ We set up team roles based on individual strengths in order to create a suitable
 
 | Name             | Role     | Reasons Why They are Suitable for the Role  |         
 | ---------------- |------------------| ------------------------------------------- |
-| Tom Pecher       | CEO              | Has rior experience as a team leader in university projects |
+| Tom Pecher       | CEO              | Has prior experience as a team leader in university projects |
 | Marilyn D'Costa  | CFO              | Specialises in data science and business strategy in her computer science degree |
 | Dhru Randeria    | CMO              | Has prior work experience as a social media ambassador for the University of Bath |
 | George Rawlinson | Developer Lead   | Has a high level of technical proficiency and previous work experience as a professional software developer |
