@@ -305,7 +305,7 @@ Overall, this project has given us valuable insight into what it takes to build 
 <img width="721" alt="app0-0" src="https://github.com/user-attachments/assets/725af213-6d1c-4332-b363-b9bf49b3bc70" />
 ![app0-1](https://github.com/user-attachments/assets/cc0dda57-ad4e-478f-b893-2ca30c946657)
 
-**Figma Prototypes**
+### Figma Prototypes
 ![signal-2025-04-11-195757_002](https://github.com/user-attachments/assets/72cea363-8b27-4752-bad7-8910c579250e)
 ![signal-2025-04-11-195757_003](https://github.com/user-attachments/assets/cbce9ce2-006c-4b7f-bc87-466a166efee1)
 ![signal-2025-04-11-195757_004](https://github.com/user-attachments/assets/54467f99-3710-4724-9b09-5ad0f8975179)
