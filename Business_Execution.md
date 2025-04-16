@@ -38,6 +38,7 @@
   * [3.1 Website](#31-website)
   * [3.2 LinkedIn](#32-linkedin)
   * [3.3 Prototypes](#33-prototypes)
+  * [3.4 Pipeline manager](#34-#pipeline)
 - [4. Business Plan Progression](#4-plan-progression)
   * [4.1. Issue 1 - 2.6.2 Primary Challenges and Risks](#41-issue1)
   * [4.2. Issue 2 - 2.7 Assumptions and Risk Assessment](#42-issue2)
@@ -159,9 +160,18 @@ Demonstrating entrepreneurial resourcefulness and a commitment to maximizing imp
 ### 3.3. Prototypes
 
 #### Functionality Prototype
-Based on our risk assessment from our business plan, it was clear to us that successfully and safely overriding other applications would likely be challenging. For this reason, we choose to attack this problem early on by immediately beginning the prototyping process. Our final goal for an MVP is to create a Flutter-based system whose only functionality is to block access to a specified app (the rest of the functionality is superficial and can easily be added afterwards). We chose Flutter as our desired framework due to its cross-platform compatibility, which we believe to be vital to the business model. However, as we anticipated, this functionality is much harder to implement than we had initially thought and we have currently been unsuccessful in implementing this feature in Flutter. This led us back to reassessing our risk assessment to figure out how to deal with this issue (see 4.1). Fortunately, many have had similar issues online and after conducting research on similar systems, we have found several similar systems which we are actively testing to find a solution to our problem. Our Flutter prototype can be found at: https://github.com/TheGogy/foco.
+Based on our risk assessment from our business plan, it was clear to us that successfully and safely overriding other applications would likely be challenging. For this reason, we choose to attack this problem early on by immediately beginning the prototyping process. Our final goal for an MVP is to create a Flutter-based system whose only functionality is to block access to a specified app (the rest of the functionality is superficial and can easily be added afterwards). We chose Flutter as our desired framework due to its cross-platform compatibility, which we believe to be vital to the business model. However, as we anticipated, this functionality is much harder to implement than we had initially thought and we have currently been unsuccessful in implementing this feature in Flutter. This led us back to reassessing our risk assessment to figure out how to deal with this issue (see 4.1). Fortunately, many have had similar issues online and after conducting research on similar systems, we have found several similar systems which we are actively testing to find a solution to our problem. Our Flutter prototype can be found at: [https://github.com/TheGogy/foco](#https://github.com/TheGogy/foco).
 
-Since progress with Flutter was very slow, we decided to split our development team, half of which worked on the Flutter system and the other half going back to basics, specifically into making a Python script for Linux only. We did this with the idea that by solving this problem, we could then build upon it until we have a working product that works on all operating systems. This proved to be very successful and we were quickly able to make an implementation that can block access any application. Whilst working as intended, this script is still far too primitive and unsafe to ever be considered an adequate product as its manipulation of system processes has not yet been fully tested and safeguarded against potentially dangerous bugs. Nevertheless, we are very close to having a working system, despite being confined to Linux for the time being. We hope that very soon, we will be able to complete the rest of the functionality (the credit system and customisation) and soon be able to expand to other operating systems. This prototype can be found here: https://github.com/Tom-Pecher/AppSlayer.
+Since progress with Flutter was very slow, we decided to split our development team, half of which worked on the Flutter system and the other half going back to basics, specifically into making a Python script for Linux only. We did this with the idea that by solving this problem, we could then build upon it until we have a working product that works on all operating systems. This proved to be very successful and we were quickly able to make an implementation that can block access any application. Whilst working as intended, this script is still far too primitive and unsafe to ever be considered an adequate product as its manipulation of system processes has not yet been fully tested and safeguarded against potentially dangerous bugs. Nevertheless, we are very close to having a working system, despite being confined to Linux for the time being. We hope that very soon, we will be able to complete the rest of the functionality (the credit system and customisation) and soon be able to expand to other operating systems. This prototype can be found here: [https://github.com/Tom-Pecher/AppSlayer](#https://github.com/Tom-Pecher/AppSlayer).
+
+<!-- TOC --><a name="34-pipeline"></a>
+### 3.4. Pipeline Manager App
+
+We created a custom-built Partnership Pipeline Manager app (See appendix [1](#appendix-1) using Microsoft Power Apps to streamline and professionalise FOCO’s outreach process. The development journey included both low-fidelity and high-fidelity prototype (See appendix [0](#appendix-0)), which helped shape the final product through feedback and iteration. The app centralises partnership leads into a single visual pipeline, replacing fragmented tracking across WhatsApp and Discord. It enables us to manage outreach stages, assign ownership, and ensure consistent follow-ups through integrated LinkedIn and email touchpoints. To improve usability, we outsourced a 30-minute session with a UI/UX consultant who provided valuable design advice that directly informed the app’s look and feel.
+
+
+To support and amplify our outreach strategy, we also utilised a free trial of LinkedIn Premium. This allowed us to directly message decision-makers, significantly increasing engagement and making the most of the new pipeline manager. The app and LinkedIn Premium were used in tandem — the app tracked the progress of each lead, while LinkedIn enabled direct, targeted messaging. Additionally, we designed and purchased printed posters to advertise FOCO at events and within university spaces. These posters (See appendix [3](#appendix-3) and [2](#appendix-2)) helped spark conversations and raise awareness, building momentum for partnership opportunities. Together, these tools have brought clarity, structure, and increased visibility to FOCO’s outreach efforts.
+
 
 #### Design Prototype
 When thinking about the design of our app and how the user would navigate through the app, we created a low-fidelity prototype using Figma that differentiated itself from the other prototype that focuses on functionality. When designing the low-fidelity prototype, we considered how whether the user would be able to easily navigate through the app and made sure that the font size, buttons and text boxes were designed so that the user can easily navigate through the app without making too many mistakes. We also considered how to make the the text easily readable to the user and made sure that the backgrounds had a high level of contrast from the text and button colours of our app. 
@@ -289,3 +299,26 @@ Overall, this project has given us valuable insight into what it takes to build 
 
 <!-- TOC --><a name="appendices"></a>
 ## Appendices
+
+<!-- TOC --><a name="appendix-0"></a>
+### Appendix 0 - Low fidelity prototypes
+<img width="721" alt="app0-0" src="https://github.com/user-attachments/assets/725af213-6d1c-4332-b363-b9bf49b3bc70" />
+![app0-1](https://github.com/user-attachments/assets/cc0dda57-ad4e-478f-b893-2ca30c946657)
+
+
+<!-- TOC --><a name="appendix-1"></a>
+### Appendix 1 - Final product - Partnership pipeline manager app
+![app1-0](https://github.com/user-attachments/assets/9eacd4dc-e5eb-4443-9eeb-f087b73f187c)
+![app1-1](https://github.com/user-attachments/assets/e8bd181c-1c7c-430b-a66b-133f63e577aa)
+![app1-2](https://github.com/user-attachments/assets/722b7f4b-f4a3-4fa6-9676-e82800bce151)
+![app1-3](https://github.com/user-attachments/assets/7ef23cc5-42f6-45c1-aac8-6616da82cd72)
+
+<!-- TOC --><a name="appendix-2"></a>
+### Appendix 2 - Our linkedin
+<img width="608" alt="app2-1" src="https://github.com/user-attachments/assets/27d76160-19b5-46dc-823c-9c9585f2a577" />
+<img width="431" alt="app2-0" src="https://github.com/user-attachments/assets/d1c7093f-66e3-49d9-9cb7-3db485c94153" />
+
+<!-- TOC --><a name="appendix-3"></a>
+### Appendix 3 - Distributing our poster for physical advertisement
+<img width="441" alt="app3-1" src="https://github.com/user-attachments/assets/c37ff13c-1a23-422e-8366-53192a6405d7" />
+![app3-0](https://github.com/user-attachments/assets/46e9a612-d4ea-4b6c-ae83-ccb993376641)
