@@ -111,7 +111,7 @@ However, despite the strengths of the Agile framework for executing our business
 
 <!-- TOC --><a name="23-meeting-bp"></a>
 ### 2.3. Meeting Our Current Business Plan
-To initialise our business plan, we implemented a working prototype in Figma (see Appendix [0](#appendix-0)) and designed a website for advertising our app. We also worked on marketing our app towards students at our university by creating posters and flyers to hand out to students around campus to gain early customers. We initially started with students studying computer science because computer science students are very familiar with user testing and could provide us some additional insight compared to students unfamiliarised usability tests work. Furthermore, as computer science students, we believed that, we would have a common ground to talk about, especially with third or fourth-year students as they may also be enrolled in the Entrepreneurship module.
+To initialise our business plan, we implemented a working prototype in Figma (see Appendix [1](#appendix-1)) and designed a website for advertising our app. We also worked on marketing our app towards students at our university by creating posters and flyers to hand out to students around campus to gain early customers. We initially started with students studying computer science because computer science students are very familiar with user testing and could provide us some additional insight compared to students unfamiliarised usability tests work. Furthermore, as computer science students, we believed that, we would have a common ground to talk about, especially with third or fourth-year students as they may also be enrolled in the Entrepreneurship module.
 
 
 <!-- TOC --><a name="3-completion"></a>
@@ -164,15 +164,6 @@ Based on our risk assessment from our business plan, it was clear to us that suc
 
 Since progress with Flutter was very slow, we decided to split our development team, half of which worked on the Flutter system and the other half going back to basics, specifically into making a Python script for Linux only. We did this with the idea that by solving this problem, we could then build upon it until we have a working product that works on all operating systems. This proved to be very successful and we were quickly able to make an implementation that can block access any application. Whilst working as intended, this script is still far too primitive and unsafe to ever be considered an adequate product as its manipulation of system processes has not yet been fully tested and safeguarded against potentially dangerous bugs. Nevertheless, we are very close to having a working system, despite being confined to Linux for the time being. We hope that very soon, we will be able to complete the rest of the functionality (the credit system and customisation) and soon be able to expand to other operating systems. This prototype can be found here: [https://github.com/Tom-Pecher/AppSlayer](#https://github.com/Tom-Pecher/AppSlayer).
 
-<!-- TOC --><a name="34-pipeline"></a>
-### 3.4. Pipeline Manager App
-
-We created a custom-built Partnership Pipeline Manager app (See appendix [1](#appendix-1) using Microsoft Power Apps to streamline and professionalise FOCO’s outreach process. The development journey included both low-fidelity and high-fidelity prototype (See appendix [0](#appendix-0)), which helped shape the final product through feedback and iteration. The app centralises partnership leads into a single visual pipeline, replacing fragmented tracking across WhatsApp and Discord. It enables us to manage outreach stages, assign ownership, and ensure consistent follow-ups through integrated LinkedIn and email touchpoints. To improve usability, we outsourced a 30-minute session with a UI/UX consultant who provided valuable design advice that directly informed the app’s look and feel.
-
-
-To support and amplify our outreach strategy, we also utilised a free trial of LinkedIn Premium. This allowed us to directly message decision-makers, significantly increasing engagement and making the most of the new pipeline manager. The app and LinkedIn Premium were used in tandem — the app tracked the progress of each lead, while LinkedIn enabled direct, targeted messaging. Additionally, we designed and purchased printed posters to advertise FOCO at events and within university spaces. These posters (See appendix [3](#appendix-3) and [2](#appendix-2)) helped spark conversations and raise awareness, building momentum for partnership opportunities. Together, these tools have brought clarity, structure, and increased visibility to FOCO’s outreach efforts.
-
-
 #### Design Prototype
 When thinking about the design of our app and how the user would navigate through the app, we created a low-fidelity prototype using Figma that differentiated itself from the other prototype that focuses on functionality. When designing the low-fidelity prototype, we considered how whether the user would be able to easily navigate through the app and made sure that the font size, buttons and text boxes were designed so that the user can easily navigate through the app without making too many mistakes. We also considered how to make the the text easily readable to the user and made sure that the backgrounds had a high level of contrast from the text and button colours of our app. 
 
@@ -184,6 +175,14 @@ For our Figma Prototype, we have designed the free model for now and have the fo
 - User Insights: allows the user to see how many hours they have spent on an app per day, month and year
 
 Once a user has logged in or signed up, they can sign out by clicking the user icon.
+
+<!-- TOC --><a name="34-pipeline"></a>
+### 3.4. Pipeline Manager App
+
+We created a custom-built Partnership Pipeline Manager app (See appendix [2](#appendix-2) using Microsoft Power Apps to streamline and professionalise FOCO’s outreach process. The development journey included both low-fidelity and high-fidelity prototype (See appendix [1](#appendix-1)), which helped shape the final product through feedback and iteration. The app centralises partnership leads into a single visual pipeline, replacing fragmented tracking across WhatsApp and Discord. It enables us to manage outreach stages, assign ownership, and ensure consistent follow-ups through integrated LinkedIn and email touchpoints. To improve usability, we outsourced a 30-minute session with a UI/UX consultant who provided valuable design advice that directly informed the app’s look and feel.
+
+
+To support and amplify our outreach strategy, we also utilised a free trial of LinkedIn Premium. This allowed us to directly message decision-makers, significantly increasing engagement and making the most of the new pipeline manager. The app and LinkedIn Premium were used in tandem — the app tracked the progress of each lead, while LinkedIn enabled direct, targeted messaging. Additionally, we designed and purchased printed posters to advertise FOCO at events and within university spaces. These posters (See appendix [4](#appendix-4) and [3](#appendix-3)) helped spark conversations and raise awareness, building momentum for partnership opportunities. Together, these tools have brought clarity, structure, and increased visibility to FOCO’s outreach efforts.
 
 
 <!-- TOC --><a name="4-plan-progression"></a>
@@ -268,7 +267,7 @@ Before we conducted a user study with any of our users, we adhered to the Univer
 
 From the feedback we have received so far, users have agreed that the website is easy to navigate and the layout of our prototype is easy to understand for users. Notable positive feedback that was mentioned was that there was not massive blocks of text, which made it easy for users to read and understand, and that the pictures in our website did not take over from the content of our website but worked in a way to help users to easily visualise how our app works in order to help out our customers. 
 
-The main criticism we had was that the contrast between the headings of our website and the backgrounds could be more defined because a more defined contrast can help older users or users with visual impairments to view the content of our website easily (see Appendix [4](#appendix-4)). Another criticism we received was that one of our graphs (see Appendix [4](#appendix-4)) could have been explained in a bit more detail as it was confusing to one of our users because it look like the user would spend more time using FOCO, when our graph was supposed to represent the amount of time left in the day from using FOCO in comparison to not using FOCO.
+The main criticism we had was that the contrast between the headings of our website and the backgrounds could be more defined because a more defined contrast can help older users or users with visual impairments to view the content of our website easily (see Appendix [5](#appendix-5)). Another criticism we received was that one of our graphs (see Appendix [5](#appendix-5)) could have been explained in a bit more detail as it was confusing to one of our users because it look like the user would spend more time using FOCO, when our graph was supposed to represent the amount of time left in the day from using FOCO in comparison to not using FOCO.
 
 A suggestion that was given for our website was to include video content that can demonstrate how our app works either by an explanation of how the coin system works or a visual demonstration of a user interacting with our app. This is feedback that we will plan to implement once we have a complete version of our app as we want to market our app via social media. We believe that a YouTube channel that has videos to demonstrate our app or working with content creators in a field related to productivity, such as wellbeing or education, to demonstrate and review our app would be useful to market our app, especially because there are many student content creators that promote being productive and offer advice in order to motivate their audience to be productive in order to succeed [[2]](#ref-2).
 
@@ -305,8 +304,8 @@ Overall, this project has given us valuable insight into what it takes to build 
 <!-- TOC --><a name="appendices"></a>
 ## Appendices
 
-<!-- TOC --><a name="appendix-0"></a>
-### Appendix 0 - Low fidelity prototypes
+<!-- TOC --><a name="appendix-1"></a>
+### Appendix 1 - Low fidelity prototypes
 <img width="721" alt="app0-0" src="https://github.com/user-attachments/assets/725af213-6d1c-4332-b363-b9bf49b3bc70" />
 ![app0-1](https://github.com/user-attachments/assets/cc0dda57-ad4e-478f-b893-2ca30c946657)
 
@@ -323,25 +322,25 @@ Overall, this project has given us valuable insight into what it takes to build 
 ![Screenshot 2025-04-11 193032](https://github.com/user-attachments/assets/85e7ece8-d391-499e-ae86-a7893054bf31)
 
 
-<!-- TOC --><a name="appendix-1"></a>
-### Appendix 1 - Final product - Partnership pipeline manager app
+<!-- TOC --><a name="appendix-2"></a>
+### Appendix 2 - Final product - Partnership pipeline manager app
 ![app1-0](https://github.com/user-attachments/assets/9eacd4dc-e5eb-4443-9eeb-f087b73f187c)
 ![app1-1](https://github.com/user-attachments/assets/e8bd181c-1c7c-430b-a66b-133f63e577aa)
 ![app1-2](https://github.com/user-attachments/assets/722b7f4b-f4a3-4fa6-9676-e82800bce151)
 ![app1-3](https://github.com/user-attachments/assets/7ef23cc5-42f6-45c1-aac8-6616da82cd72)
 
-<!-- TOC --><a name="appendix-2"></a>
-### Appendix 2 - Our linkedin
+<!-- TOC --><a name="appendix-3"></a>
+### Appendix 3 - Our linkedin
 <img width="608" alt="app2-1" src="https://github.com/user-attachments/assets/27d76160-19b5-46dc-823c-9c9585f2a577" />
 <img width="431" alt="app2-0" src="https://github.com/user-attachments/assets/d1c7093f-66e3-49d9-9cb7-3db485c94153" />
 
-<!-- TOC --><a name="appendix-3"></a>
-### Appendix 3 - Distributing our poster for physical advertisement
+<!-- TOC --><a name="appendix-4"></a>
+### Appendix 4 - Distributing our poster for physical advertisement
 <img width="441" alt="app3-1" src="https://github.com/user-attachments/assets/c37ff13c-1a23-422e-8366-53192a6405d7" />
 <img width="441" alt="app3-1" src="https://github.com/user-attachments/assets/d3d8ad1e-5e1d-4647-8cf2-ccbb9ebfac78" />
 
-<!-- TOC --><a name="appendix-3"></a>
-### Appendix 4 - User Studies Feedback Images
+<!-- TOC --><a name="appendix-5"></a>
+### Appendix 5 - User Studies Feedback Images
 ![image (7)](https://github.com/user-attachments/assets/6c97d4c8-2203-4c58-8ec2-448ba4a3a0ab)
 ![image (8)](https://github.com/user-attachments/assets/ee4759c3-fe41-4e29-b1be-e2e2b1701fd7)
 
