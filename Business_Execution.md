@@ -268,9 +268,6 @@ From the feedback we have received so far, users have agreed that the website is
 
 The main criticism we had was that the contrast between the headings of our website and the backgrounds could be more defined because a more defined contrast can help older users or users with visual impairments to view the content of our website easily. Another criticism we received was that one of our graphs could have been explained in a bit more detail as it was confusing to one of our users because it look like the user would spend more time using FOCO, when our graph was supposed to represent the amount of time left in the day from using FOCO in comparison to not using FOCO.
 
-![image (7)](https://github.com/user-attachments/assets/b541679d-6ddc-47c9-8242-8df6c5f5c673)
-![image (8)](https://github.com/user-attachments/assets/0bbfbe19-5ab3-4692-8dab-8d0edf6d53b1)
-
 A suggestion that was given for our website was to include video content that can demonstrate how our app works either by an explanation of how the coin system works or a visual demonstration of a user interacting with our app. This is feedback that we will plan to implement once we have a complete version of our app as we want to market our app via social media. We believe that a YouTube channel that has videos to demonstrate our app or working with content creators in a field related to productivity, such as wellbeing or education, to demonstrate and review our app would be useful to market our app, especially because there are many student content creators that promote being productive and offer advice in order to motivate their audience to be productive in order to succeed [[a]](#ref-a).
 
 For our Figma prototype, we did not receive many points of criticism because most users agreed that they liked the contrast between the background colours and the text and methods of user input, which made it easy for users to read and to navigate. However, from looking at our prototype after sending it to users for testing, we noticed that it could be easier for users to understand when they can reconfigure their app settings if some text could display how long the user has until they can reconfigure their settings. Another thing that we have not considered in our low-fidelity prototype is user personalisation, which we could create by creating a Personalisation Settings page that could appear alongside the sign out option when the user icon is pressed. This personalisation page could be used to allow the user to change font size or colour, font type or background colour in order to improve user navigation and readability. This could be especially useful to neurodivergent audiences the neurodiverse find it easier, if there are specific colours [[b]](#ref-b) or fonts [[c]](#ref-c) used.
@@ -337,3 +334,9 @@ Overall, this project has given us valuable insight into what it takes to build 
 ### Appendix 3 - Distributing our poster for physical advertisement
 <img width="441" alt="app3-1" src="https://github.com/user-attachments/assets/c37ff13c-1a23-422e-8366-53192a6405d7" />
 <img width="441" alt="app3-1" src="https://github.com/user-attachments/assets/d3d8ad1e-5e1d-4647-8cf2-ccbb9ebfac78" />
+
+<!-- TOC --><a name="appendix-3"></a>
+### Appendix 4 - User Studies Feedback Images
+![image (7)](https://github.com/user-attachments/assets/6c97d4c8-2203-4c58-8ec2-448ba4a3a0ab)
+![image (8)](https://github.com/user-attachments/assets/ee4759c3-fe41-4e29-b1be-e2e2b1701fd7)
+
