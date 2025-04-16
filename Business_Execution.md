@@ -306,10 +306,15 @@ Overall, this project has given us valuable insight into what it takes to build 
 ![app0-1](https://github.com/user-attachments/assets/cc0dda57-ad4e-478f-b893-2ca30c946657)
 
 **Figma Prototypes**
-![signal-2025-04-11-195757_005](https://github.com/user-attachments/assets/97fb5fe6-0e9d-4e26-bb06-45bcba03f9d2)
-![signal-2025-04-11-195757_004](https://github.com/user-attachments/assets/54467f99-3710-4724-9b09-5ad0f8975179)
-![signal-2025-04-11-195757_003](https://github.com/user-attachments/assets/cbce9ce2-006c-4b7f-bc87-466a166efee1)
 ![signal-2025-04-11-195757_002](https://github.com/user-attachments/assets/72cea363-8b27-4752-bad7-8910c579250e)
+![signal-2025-04-11-195757_003](https://github.com/user-attachments/assets/cbce9ce2-006c-4b7f-bc87-466a166efee1)
+![signal-2025-04-11-195757_004](https://github.com/user-attachments/assets/54467f99-3710-4724-9b09-5ad0f8975179)
+![signal-2025-04-11-195757_005](https://github.com/user-attachments/assets/97fb5fe6-0e9d-4e26-bb06-45bcba03f9d2)
+![signal-2025-04-11-195757_006](https://github.com/user-attachments/assets/7865e81e-3a3c-4206-8f58-7ec03c0f4cf1)
+
+
+
+
 ![Screenshot 2025-04-11 193032](https://github.com/user-attachments/assets/85e7ece8-d391-499e-ae86-a7893054bf31)
 
 
