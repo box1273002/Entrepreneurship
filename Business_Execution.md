@@ -284,6 +284,8 @@ Overall, this project has given us valuable insight into what it takes to build 
 
 [b] Jones, G. (2021). _The Ultimate Guide to Autism Friendly Colours_ [Online]. s.l.: Experia. Available from: https://www.experia.co.uk/blog/ultimate-guide-to-autism-friendly-colours/ [Accessed 13/4/2025].
 
+[c] Anon, n.d. _Dyslexia friendly style guide_ [Online]. Bracknell: The British Dyslexia Association. Available from: https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide [Accessed 13/4/2025].
+
 
 <!-- TOC --><a name="appendices"></a>
 ## Appendices
