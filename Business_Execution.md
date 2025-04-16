@@ -321,4 +321,4 @@ Overall, this project has given us valuable insight into what it takes to build 
 <!-- TOC --><a name="appendix-3"></a>
 ### Appendix 3 - Distributing our poster for physical advertisement
 <img width="441" alt="app3-1" src="https://github.com/user-attachments/assets/c37ff13c-1a23-422e-8366-53192a6405d7" />
-![app3-0](https://github.com/user-attachments/assets/46e9a612-d4ea-4b6c-ae83-ccb993376641)
+<img width="441" alt="app3-1" src="https://github.com/user-attachments/assets/d3d8ad1e-5e1d-4647-8cf2-ccbb9ebfac78" />
