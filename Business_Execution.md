@@ -261,6 +261,8 @@ This investment however is all contingent on the completion of a working v1.0 of
 
 We got users to provide us feedback for our Figma low-fidelity prototype and our website. We asked users whether it is easy to navigate through the Figma prototype and the website, what they liked about their design and whether they could think of anything that could help in regards to the layout of these interfaces that could benefit users.
 
+Before we conducted a user study with any of our users, we adhered to the University of Bath's Ethics Guidelines and also emailed our tutors to provide them insight into how we will collect data and conduct our user studies. From completing the Ethics Guidelines, we made sure to provide the users a Participant Information Sheet that they could sign to provide consent and we also made sure that they knew that they could withdraw at any time via word-of-mouth and the Participant Information sheet. The users we collected data from are also older than 18 years old and have no impairments and we stored the feedback that they gave us on the University of Bath servers.
+
 <!-- TOC --><a name="62-user-feedback"></a>
 ### 6.2. User Feedback
 
