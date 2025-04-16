@@ -277,10 +277,12 @@ Overall, this project has given us valuable insight into what it takes to build 
 ## References
 
 <!-- LINK --><a name="ref-1"></a>
-[1] Harmony Healthcare IT (2025) Phone screen time statistics. Available at: https://www.harmonyhit.com/phone-screen-time-statistics/ (Accessed: 16 March 2025)
+[1] Harmony Healthcare IT (2025) _Phone screen time statistics_ (Online). Available at: https://www.harmonyhit.com/phone-screen-time-statistics/ (Accessed: 16 March 2025)
 
 
-[a] Whitehall, E. (2020). How StudyTube is Changing Education (Online). United Kingdom: The Indiependent. Available at: https://www.indiependent.co.uk/how-studytube-is-changing-education/ (Accessed: 16 March 2025)
+[a] Whitehall, E. (2020). _How StudyTube is Changing Education_ (Online). United Kingdom: The Indiependent. Available at: https://www.indiependent.co.uk/how-studytube-is-changing-education/ (Accessed: 16 March 2025)
+
+[b] Jones, G. (2021). _The Ultimate Guide to Autism Friendly Colours_ [Online]. s.l.: Experia. Available from: https://www.experia.co.uk/blog/ultimate-guide-to-autism-friendly-colours/ [Accessed 13/4/2025].
 
 
 <!-- TOC --><a name="appendices"></a>
