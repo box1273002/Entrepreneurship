@@ -111,7 +111,7 @@ However, despite the strengths of the Agile framework for executing our business
 
 <!-- TOC --><a name="23-meeting-bp"></a>
 ### 2.3. Meeting Our Current Business Plan
-To initialise our business plan, we implemented a working prototype in Figma (see Appendix 0) and designed a website for advertising our app. We also worked on marketing our app towards students at our university by creating posters and flyers to hand out to students around campus to gain early customers. We initially started with students studying computer science because computer science students are very familiar with user testing and could provide us some additional insight compared to students unfamiliarised usability tests work. Furthermore, as computer science students, we believed that, we would have a common ground to talk about, especially with third or fourth-year students as they may also be enrolled in the Entrepreneurship module.
+To initialise our business plan, we implemented a working prototype in Figma (see Appendix [0](#appendix-0)) and designed a website for advertising our app. We also worked on marketing our app towards students at our university by creating posters and flyers to hand out to students around campus to gain early customers. We initially started with students studying computer science because computer science students are very familiar with user testing and could provide us some additional insight compared to students unfamiliarised usability tests work. Furthermore, as computer science students, we believed that, we would have a common ground to talk about, especially with third or fourth-year students as they may also be enrolled in the Entrepreneurship module.
 
 
 <!-- TOC --><a name="3-completion"></a>
